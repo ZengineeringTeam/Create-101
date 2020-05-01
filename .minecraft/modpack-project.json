@@ -1,0 +1,12 @@
+{
+  "name": "Snownee's Collection",
+  "mcversion": "1.15.2",
+  "author": "Snownee",
+  "modloader": "forge",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "check_interval": 259200000
+}

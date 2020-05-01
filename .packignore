@@ -1,0 +1,15 @@
+.minecraft/coremods
+.minecraft/crash-reports
+.minecraft/defaultconfigs
+.minecraft/icon.png
+.minecraft/journeymap
+.minecraft/logs
+.minecraft/patchouli_data.json
+.minecraft/realms_persistence.json
+.minecraft/saves
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/servers.dat
+.minecraft/texturepacks
+.minecraft/usercache.json
+.minecraft/usernamecache.json

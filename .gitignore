@@ -1,0 +1,16 @@
+/.minecraft/saves/
+/.minecraft/.mixin.out/
+/.minecraft/.modpack/
+/.minecraft/journeymap/data/
+/.minecraft/crash-reports/
+/.minecraft/logs/
+/.minecraft/journeymap/icon/
+/.minecraft/journeymap/journeymap.log
+/.minecraft/mods/
+/.minecraft/realms_persistence.json
+/.minecraft/servers.dat
+/.minecraft/reauth.toml
+/.minecraft/usercache.json
+/.minecraft/usernamecache.json
+/.minecraft/shaderpacks/
+/.minecraft/patchouli_data.json
