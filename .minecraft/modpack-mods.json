@@ -458,22 +458,6 @@
     "md5": "5c6f1b818c80bf72ffb037ae7f0a8925"
   },
   {
-    "addon_id": 268387,
-    "slug": "extended-crafting",
-    "name": "Extended Crafting",
-    "strategy": "beta",
-    "new_version": "ExtendedCrafting-1.15.2-2.0.0",
-    "md5": "687fb79bcce18cd2882e9dc7bb34083a"
-  },
-  {
-    "addon_id": 272335,
-    "slug": "cucumber",
-    "name": "Cucumber Library",
-    "strategy": "beta",
-    "new_version": "Cucumber-1.15.2-3.0.5",
-    "md5": "ee2abb643ce072377532274fed493e2a"
-  },
-  {
     "addon_id": 359516,
     "slug": "better-bedrock-generator",
     "name": "Better Bedrock Generator",
