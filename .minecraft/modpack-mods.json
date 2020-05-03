@@ -432,11 +432,23 @@
     "md5": "63575f3e85c8a6321fd3272cad6ed223"
   },
   {
-    "addon_id": 372395,
-    "slug": "chunkt",
-    "name": "Chunkt",
-    "strategy": "beta",
-    "new_version": "chunkt-1.15.2-1.0.3",
-    "md5": "b54bce13d411b06a36401adf32aabeb8"
+    "addon_id": 328085,
+    "slug": "create",
+    "name": "Create",
+    "strategy": "none",
+    "downloadUrl": "https://jenkins.jihuayu.site/job/Create/lastSuccessfulBuild/artifact/build/libs/create-mc1.15.2_v0.2.3-all.jar",
+    "new_version": "Create",
+    "md5": "303973f4128ee4d30f8058c71ca74b3f",
+    "fileName": "Create.jar"
+  },
+  {
+    "addon_id": 0,
+    "slug": "OptiFine",
+    "name": "OptiFine",
+    "strategy": "none",
+    "downloadUrl": "https://optifine.net/downloadx?f=preview_OptiFine_1.15.2_HD_U_G1_pre14.jar&x=f65c86f54d6fa95cee1fa8bec0247212",
+    "fileName": "OptiFine.jar",
+    "new_version": "OptiFine",
+    "md5": "1695dd1cbc4869f8142a7e0761506b03"
   }
 ]
