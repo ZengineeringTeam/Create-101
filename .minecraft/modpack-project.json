@@ -9,5 +9,10 @@
     "patch": 0
   },
   "check_interval": 259200000,
-  "retry": { "maxRetries": 2, "delay": 2000 }
+  "retry": {
+    "maxRetries": 2,
+    "delay": 2000
+  },
+  "max_download_threads": 1,
+  "proxy": "http://127.0.0.1:1080"
 }
