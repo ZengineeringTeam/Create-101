@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:gauge_dropper"},"pattern":[" O ","G G","GGG"],"key":{"G":{"tag":"forge:glass_panes"},"O":{"tag":"forge:ingots/osmium"}}}

@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","result":{"item":"mekanism:electric_bow"},"pattern":["#A ","# E","#A "],"key":{"#":{"tag":"forge:string"},"E":{"item":"mekanism:energy_tablet"},"A":{"tag":"mekanism:alloys/infused"}}}

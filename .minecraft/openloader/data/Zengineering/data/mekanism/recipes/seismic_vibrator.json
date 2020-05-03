@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:seismic_vibrator"},"pattern":["I#I","CXC","III"],"key":{"#":{"tag":"forge:gems/lapis"},"C":{"tag":"forge:circuits/basic"},"I":{"tag":"forge:ingots/tin"},"X":{"item":"mekanism:steel_casing"}}}

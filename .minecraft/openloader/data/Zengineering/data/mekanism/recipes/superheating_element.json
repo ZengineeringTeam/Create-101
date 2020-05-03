@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:superheating_element"},"pattern":["AIA","IXI","AIA"],"key":{"I":{"tag":"forge:ingots/copper"},"A":{"tag":"mekanism:alloys/basic"},"X":{"item":"mekanism:steel_casing"}}}

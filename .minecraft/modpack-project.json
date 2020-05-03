@@ -8,5 +8,6 @@
     "minor": 0,
     "patch": 0
   },
-  "check_interval": 259200000
+  "check_interval": 259200000,
+  "retry": { "maxRetries": 2, "delay": 2000 }
 }

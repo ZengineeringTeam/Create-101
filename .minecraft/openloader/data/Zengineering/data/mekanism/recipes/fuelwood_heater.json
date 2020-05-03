@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:fuelwood_heater"},"pattern":["SCS","#X#","SSS"],"key":{"S":{"tag":"forge:ingots/steel"},"C":{"tag":"forge:circuits/basic"},"X":{"item":"mekanism:steel_casing"},"#":{"item":"minecraft:furnace"}}}

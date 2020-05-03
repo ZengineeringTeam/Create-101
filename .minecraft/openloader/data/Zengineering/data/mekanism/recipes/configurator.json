@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:configurator"},"pattern":[" I ","AEA"," # "],"key":{"E":{"item":"mekanism:energy_tablet"},"A":{"tag":"mekanism:alloys/infused"},"I":{"tag":"forge:gems/lapis"},"#":{"tag":"forge:rods/wooden"}}}

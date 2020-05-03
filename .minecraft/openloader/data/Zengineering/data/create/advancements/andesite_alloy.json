@@ -1,0 +1,30 @@
+{
+    "display": {
+        "title": {
+            "translate": "advancement.create:andesite_alloy"
+        },
+        "description": {
+            "translate": "advancement.create:andesite_alloy.desc"
+        },
+        "icon": {
+            "item": "minecraft:iron_ingot"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true
+    },
+    "criteria": {
+        "alloy": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:iron_ingot"
+                    }
+                ]
+            }
+        }
+    },
+    "parent": "create:root"
+}

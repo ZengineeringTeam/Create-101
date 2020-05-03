@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","result":{"item":"mekanism:chargepad"},"pattern":["###","SES"],"key":{"#":{"item":"minecraft:stone_pressure_plate"},"S":{"tag":"forge:ingots/steel"},"E":{"item":"mekanism:energy_tablet"}}}

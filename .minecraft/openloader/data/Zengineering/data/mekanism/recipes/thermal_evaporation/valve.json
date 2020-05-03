@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:thermal_evaporation_valve"},"pattern":[" # ","#C#"," # "],"key":{"#":{"item":"mekanism:thermal_evaporation_block"},"C":{"tag":"forge:circuits/advanced"}}}

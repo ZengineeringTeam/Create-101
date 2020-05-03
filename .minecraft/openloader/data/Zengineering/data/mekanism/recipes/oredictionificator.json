@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:oredictionificator"},"pattern":["SGS","CPC","S#S"],"key":{"G":{"tag":"forge:glass_panes"},"C":{"tag":"forge:circuits/basic"},"S":{"tag":"forge:ingots/steel"},"P":{"item":"mekanism:dictionary"},"#":{"tag":"forge:chests/wooden"}}}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:teleportation_core"},"pattern":["#A#","IDI","#A#"],"key":{"#":{"tag":"forge:gems/lapis"},"A":{"tag":"mekanism:alloys/atomic"},"I":{"tag":"forge:ingots/gold"},"D":{"tag":"forge:gems/diamond"}}}

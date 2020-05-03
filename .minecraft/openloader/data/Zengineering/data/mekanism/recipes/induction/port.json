@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:induction_port","count":2},"pattern":[" # ","#C#"," # "],"key":{"#":{"item":"mekanism:induction_casing"},"C":{"tag":"forge:circuits/elite"}}}

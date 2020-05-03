@@ -4,493 +4,439 @@
     "slug": "jei",
     "name": "Just Enough Items (JEI)",
     "strategy": "alpha",
-    "date": "2020-04-30T06:05:37.753Z",
     "new_version": "jei-1.15.2-6.0.0.4",
-    "last_check": "2020-04-30T18:43:19.802Z"
+    "md5": "473ba25ef73ab3b11ccda473288ed344"
   },
   {
     "addon_id": 231275,
     "slug": "ding",
     "name": "Ding",
     "strategy": "alpha",
-    "date": "2020-03-26T05:59:37.743Z",
     "new_version": "Ding-1.15.2-1.1.0",
-    "last_check": "2020-04-30T18:43:15.289Z"
+    "md5": "a8a28ee72823a91ca0bb6b6472ffe622"
   },
   {
     "addon_id": 303657,
     "slug": "kiwi",
     "name": "🥝 Kiwi",
     "strategy": "beta",
-    "date": "2020-04-20T17:38:32.703Z",
     "new_version": "Kiwi-1.15.2-2.7.1",
-    "last_check": "2020-04-30T18:43:39.979Z"
+    "md5": "4bb2830017634f4bce7ff6a44e2c88a5"
   },
   {
     "addon_id": 355467,
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "date": "2020-04-29T07:14:24.09Z",
     "new_version": "FruitTrees-1.15.2-1.2.7",
-    "last_check": "2020-04-30T18:43:19.529Z"
+    "md5": "ba0ae92b9ba513c14baf03c41368e82d"
   },
   {
     "addon_id": 296028,
     "slug": "lighting-wand",
     "name": "🌟 Lighting Wand",
     "strategy": "beta",
-    "date": "2020-01-25T20:05:02.873Z",
     "new_version": "LightingWand-1.15.2-1.4.2",
-    "last_check": "2020-04-30T18:43:14.581Z"
+    "md5": "c714dedd39cb067d29228b7a7aa6c2be"
   },
   {
     "addon_id": 375272,
     "slug": "lava-clear-view",
     "name": "Lava Clear View",
     "strategy": "beta",
-    "date": "2020-04-12T16:13:17.39Z",
     "new_version": "ClearView-1.15.2-1.0.0",
-    "last_check": "2020-04-30T18:43:42.645Z"
+    "md5": "fa6b2952e6fb6ee1a2cd1fa64fba8a76"
   },
   {
     "addon_id": 256717,
     "slug": "clumps",
     "name": "Clumps",
     "strategy": "beta",
-    "date": "2020-03-20T21:44:35.64Z",
     "new_version": "Clumps-5.0.2",
-    "last_check": "2020-04-30T18:43:42.455Z"
+    "md5": "413de40aa718b29eab722b6c171896a3"
   },
   {
     "addon_id": 253449,
     "slug": "hwyla",
     "name": "Hwyla",
     "strategy": "beta",
-    "date": "2020-02-12T04:57:18.937Z",
     "new_version": "Hwyla-forge-1.10.8-B72_1.15.2",
-    "last_check": "2020-04-30T18:43:42.220Z"
+    "md5": "637faaca8787a2de370be1b5dea4de54"
   },
   {
     "addon_id": 362791,
     "slug": "cull-particles",
     "name": "Cull Particles",
     "strategy": "beta",
-    "date": "2020-02-14T18:32:41.033Z",
     "new_version": "cullparticles-1.0",
-    "last_check": "2020-04-30T18:43:40.965Z"
+    "md5": "cff12c3241174274934fcd6f4b580a60"
   },
   {
     "addon_id": 280294,
     "slug": "fps-reducer",
     "name": "FPS Reducer",
     "strategy": "beta",
-    "date": "2020-04-30T01:11:46.653Z",
     "new_version": "FpsReducer-mc1.15.2-1.15",
-    "last_check": "2020-04-30T18:43:45.854Z"
+    "md5": "b87b54b322b9959184a6152fa9eabccd"
   },
   {
     "addon_id": 233019,
     "slug": "ai-improvements",
     "name": "AI Improvements",
     "strategy": "beta",
-    "date": "2020-02-06T15:53:24.27Z",
     "new_version": "AI-Improvements-1.15.2-0.3.0",
-    "last_check": "2020-04-30T18:43:46.751Z"
+    "md5": "fb5e0fec348cec3ea07dacdff71b7d78"
   },
   {
     "addon_id": 375427,
     "slug": "everpotion",
     "name": "EverPotion",
     "strategy": "beta",
-    "date": "2020-04-29T16:21:25.01Z",
     "new_version": "EverPotion-1.15.2-1.0.5",
-    "last_check": "2020-04-30T18:43:51.614Z"
+    "md5": "9bef06954523b21f78a69ddd3b221d11"
   },
   {
     "addon_id": 359344,
     "slug": "interactio",
     "name": "Interactio - In-World Crafting with Datapacks!",
     "strategy": "beta",
-    "date": "2020-03-15T20:08:54.94Z",
     "new_version": "Interactio-1.15.2-2.0.1",
-    "last_check": "2020-04-30T18:43:51.012Z"
+    "md5": "f8b4896a6ead1630871e95ce20f6fb7e"
   },
   {
     "addon_id": 288885,
     "slug": "fastworkbench",
     "name": "FastWorkbench",
     "strategy": "beta",
-    "date": "2020-01-08T00:29:47.187Z",
     "new_version": "FastWorkbench-1.15.2-3.0.0",
-    "last_check": "2020-04-30T18:43:48.797Z"
+    "md5": "a89ac0748892165cc29387b0334ce961"
   },
   {
     "addon_id": 268560,
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "date": "2020-04-23T16:28:52.843Z",
     "new_version": "Mekanism-1.15.2-9.10.1.414",
-    "last_check": "2020-04-30T18:44:42.507Z"
+    "md5": "7086cbd75ce7ff34b3134a48fccd2ffe"
   },
   {
     "addon_id": 268566,
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "date": "2020-04-23T16:28:56.327Z",
     "new_version": "MekanismGenerators-1.15.2-9.10.1.414",
-    "last_check": "2020-04-30T18:44:48.757Z"
+    "md5": "2639ab7723f05cafeaa145f56202cd53"
   },
   {
     "addon_id": 268567,
     "slug": "mekanism-tools",
     "name": "Mekanism Tools",
     "strategy": "beta",
-    "date": "2020-04-23T16:28:58.07Z",
     "new_version": "MekanismTools-1.15.2-9.10.1.414",
-    "last_check": "2020-04-30T18:44:53.524Z"
+    "md5": "3cf0d9bdfde2701d94655b7980ba51b7"
   },
   {
     "addon_id": 242223,
     "slug": "just-enough-calculation",
     "name": "Just Enough Calculation",
     "strategy": "beta",
-    "date": "2020-03-09T08:13:04.87Z",
     "new_version": "JustEnoughCalculation-1.15.2-3.6.1",
-    "last_check": "2020-04-30T18:44:47.889Z"
+    "md5": "45c549249fd5dd08e30938660827796e"
   },
   {
     "addon_id": 250702,
     "slug": "just-enough-characters",
     "name": "Just Enough Characters",
     "strategy": "beta",
-    "date": "2020-03-09T07:28:06.823Z",
     "new_version": "JustEnoughCharacters-1.15.2-4.1.0",
-    "last_check": "2020-04-30T18:44:46.987Z"
+    "md5": "a5dfb78f2c44e79470b8eeceee7ec53b"
   },
   {
     "addon_id": 261251,
     "slug": "bad-wither-no-cookie-reloaded",
     "name": "Bad Wither No Cookie - Reloaded",
     "strategy": "beta",
-    "date": "2019-12-18T01:43:20.39Z",
     "new_version": "bwncr-1.15.1-3.6.13",
-    "last_check": "2020-04-30T18:44:49.139Z"
+    "md5": "f8fd75369c6663e37ccea9331d97989e"
   },
   {
     "addon_id": 378117,
     "slug": "diagonal-panes-forge",
     "name": "Diagonal Panes [FORGE]",
     "strategy": "beta",
-    "date": "2020-04-23T09:40:30.077Z",
     "new_version": "diagonal_panes-1.15.2-1.0.0",
-    "last_check": "2020-04-30T18:49:37.286Z"
+    "md5": "132d8d8aa3576542a132a6630e6fa714"
   },
   {
     "addon_id": 243121,
     "slug": "quark",
     "name": "Quark",
     "strategy": "beta",
-    "date": "2020-04-30T00:56:27.517Z",
     "new_version": "Quark-r2.1-235",
-    "last_check": "2020-04-30T18:49:43.491Z"
+    "md5": "ec0b28c348f5748d9c642156607890a8"
   },
   {
     "addon_id": 301051,
     "slug": "quark-oddities",
     "name": "Quark Oddities",
     "strategy": "beta",
-    "date": "2020-03-27T22:55:15.893Z",
     "new_version": "QuarkOddities-1.15.2",
-    "last_check": "2020-04-30T18:49:36.627Z"
+    "md5": "2b50248564c9a94ea9b56c97fd0e7563"
   },
   {
     "addon_id": 250363,
     "slug": "autoreglib",
     "name": "AutoRegLib",
     "strategy": "beta",
-    "date": "2020-03-24T21:04:37.757Z",
     "new_version": "AutoRegLib-1.5-40",
-    "last_check": "2020-04-30T18:49:37.449Z"
+    "md5": "06149a40dc0ced647dd41b11ab01b5cc"
   },
   {
     "addon_id": 248787,
     "slug": "appleskin",
     "name": "AppleSkin",
     "strategy": "beta",
-    "date": "2020-02-17T08:32:07.493Z",
     "new_version": "AppleSkin-mc1.15.2-forge-1.0.13",
-    "last_check": "2020-04-30T18:49:38.615Z"
+    "md5": "9caaf842ae2dcdea6af45bbb74bf5eb9"
   },
   {
     "addon_id": 283644,
     "slug": "placebo",
     "name": "Placebo",
     "strategy": "beta",
-    "date": "2020-01-27T19:40:58.457Z",
     "new_version": "Placebo-1.15.2-3.0.2",
-    "last_check": "2020-04-30T18:49:46.651Z"
+    "md5": "b0945f3466e229197cfe9dec8356cde7"
   },
   {
     "addon_id": 271740,
     "slug": "toast-control",
     "name": "Toast Control",
     "strategy": "beta",
-    "date": "2020-01-30T00:26:54.913Z",
     "new_version": "ToastControl-1.15.2-3.0.1",
-    "last_check": "2020-04-30T18:49:47.815Z"
+    "md5": "c65ca31d0ea636c7021d278fbb508ddf"
   },
   {
     "addon_id": 296887,
     "slug": "realistic-ore-veins",
     "name": "Realistic Ore Veins",
     "strategy": "beta",
-    "date": "2020-04-27T14:51:15.697Z",
     "new_version": "oreveins-forge-1.15.2-5.1.1",
-    "last_check": "2020-04-30T18:49:47.193Z"
+    "md5": "2d051eeea59232f662c2e7fe99b68edf"
   },
   {
     "addon_id": 237701,
     "slug": "reauth",
     "name": "ReAuth",
     "strategy": "beta",
-    "date": "2020-01-12T21:55:34.137Z",
     "new_version": "ReAuth-3.8.0",
-    "last_check": "2020-04-30T18:49:47.960Z"
+    "md5": "5acca2eb59a46ad219944b68e2590cf4"
   },
   {
     "addon_id": 264353,
     "slug": "swingthroughgrass",
     "name": "SwingThroughGrass",
     "strategy": "beta",
-    "date": "2020-01-23T20:29:54.437Z",
     "new_version": "swingthroughgrass-1.15.2-1.4.0",
-    "last_check": "2020-04-30T18:49:48.464Z"
+    "md5": "0e7ba44ecd0fe1a995a593ff87b3dc23"
   },
   {
     "addon_id": 287342,
     "slug": "titanium",
     "name": "Titanium",
     "strategy": "beta",
-    "date": "2020-03-15T17:13:56.597Z",
     "new_version": "titanium-1.15.2-2.3.7",
-    "last_check": "2020-04-30T18:49:52.397Z"
+    "md5": "65270a4cd4e1a9e9b5972b754d0999fe"
   },
   {
     "addon_id": 318255,
     "slug": "phosphor-forge",
     "name": "Phosphor (Forge)",
     "strategy": "beta",
-    "date": "2020-04-03T04:23:35.237Z",
     "new_version": "Phosphor mc1.15.2-0.5.2+build.4",
-    "last_check": "2020-04-30T18:49:51.158Z"
+    "md5": "bc5d52e419292e8ad0d2741006f7d0f5"
   },
   {
     "addon_id": 308663,
     "slug": "snow-real-magic",
     "name": "☃ Snow! Real Magic!",
     "strategy": "beta",
-    "date": "2020-04-21T06:04:18.5Z",
     "new_version": "SnowRealMagic-1.15.2-1.8.0",
-    "last_check": "2020-04-30T18:49:56.552Z"
+    "md5": "bc727a4d156c9f218ec832aa72057525"
   },
   {
     "addon_id": 250398,
     "slug": "controlling",
     "name": "Controlling",
     "strategy": "beta",
-    "date": "2020-04-14T01:28:36.84Z",
     "new_version": "Controlling-6.1.4",
-    "last_check": "2020-04-30T18:49:51.825Z"
+    "md5": "a046c7cd0f14a66fabf65af05cf71449"
   },
   {
     "addon_id": 313970,
     "slug": "apotheosis",
     "name": "Apotheosis",
     "strategy": "beta",
-    "date": "2020-03-20T10:35:28.28Z",
     "new_version": "Apotheosis-1.15.2-3.0.7",
-    "last_check": "2020-04-30T18:49:52.693Z"
+    "md5": "66de7202c801df97f4c98d7e57066dec"
   },
   {
     "addon_id": 32274,
     "slug": "journeymap",
     "name": "JourneyMap",
     "strategy": "beta",
-    "date": "2020-03-04T20:58:49.68Z",
     "new_version": "journeymap-1.15.2-5.7.0beta1",
-    "last_check": "2020-04-30T18:50:06.652Z"
+    "md5": "3f01a531e6ca1f06164bac1e5a317fae"
   },
   {
     "addon_id": 223852,
     "slug": "storage-drawers",
     "name": "Storage Drawers",
     "strategy": "beta",
-    "date": "2020-02-23T23:53:19.833Z",
     "new_version": "StorageDrawers-1.15.2-7.0.2",
-    "last_check": "2020-04-30T18:50:02.855Z"
+    "md5": "f2a07ebff34cb3ceed405acfe9593932"
   },
   {
     "addon_id": 354339,
     "slug": "open-loader",
     "name": "Open Loader",
     "strategy": "beta",
-    "date": "2020-04-06T19:47:12.6Z",
     "new_version": "OpenLoader-1.15.2-4.0.3",
-    "last_check": "2020-04-30T18:49:59.615Z"
+    "md5": "db6f1543298bba0c8e363c1677bbb7f0"
   },
   {
     "addon_id": 251767,
     "slug": "waddles",
     "name": "Waddles",
     "strategy": "beta",
-    "date": "2020-03-29T21:53:02.69Z",
     "new_version": "Waddles-1.15.2-0.8.6",
-    "last_check": "2020-04-30T18:50:00.584Z"
+    "md5": "ce3fa5905d35ec5d9033f730552775e5"
   },
   {
     "addon_id": 291493,
     "slug": "portality",
     "name": "Portality",
     "strategy": "beta",
-    "date": "2020-02-02T16:15:08.18Z",
     "new_version": "portality-1.15.2-2.1.2-aaa257f",
-    "last_check": "2020-04-30T19:06:37.366Z"
+    "md5": "68c9eadac786c5747bb5977402316d50"
   },
   {
     "addon_id": 306770,
     "slug": "patchouli",
     "name": "Patchouli",
     "strategy": "beta",
-    "date": "2020-04-29T21:42:37.117Z",
-    "new_version": "Patchouli-1.15.2-1.2-32",
-    "last_check": "2020-04-30T19:06:43.213Z"
+    "new_version": "Patchouli-1.15.2-1.2-33",
+    "md5": "de343d9c3f7d02e4dcb4217e1a13bebf"
   },
   {
     "addon_id": 241160,
     "slug": "netherportalfix",
     "name": "NetherPortalFix",
     "strategy": "beta",
-    "date": "2020-04-29T15:57:06.86Z",
     "new_version": "NetherPortalFix_1.15.2-6.0.2",
-    "last_check": "2020-04-30T19:06:42.117Z"
+    "md5": "45de04e0b9636796ced5e6476e890ff5"
   },
   {
     "addon_id": 311927,
     "slug": "nimble",
     "name": "Nimble",
     "strategy": "beta",
-    "date": "2020-03-07T08:03:07.193Z",
     "new_version": "Nimble-1.15.2-0.2.0",
-    "last_check": "2020-04-30T19:06:45.832Z"
+    "md5": "a3250052101b12f2c5956152253c394e"
   },
   {
     "addon_id": 372196,
     "slug": "optiforge",
     "name": "OptiForge",
     "strategy": "beta",
-    "date": "2020-04-27T05:07:57.62Z",
-    "new_version": "OptiForge-MC1.15.2-0.1.13",
-    "last_check": "2020-04-30T19:06:42.091Z"
+    "new_version": "OptiForge-MC1.15.2-0.1.14",
+    "md5": "e7516854c909a5e786ae8569834e5a96"
   },
   {
     "addon_id": 285612,
     "slug": "randompatches",
     "name": "RandomPatches",
     "strategy": "beta",
-    "date": "2020-04-21T09:57:06.593Z",
     "new_version": "RandomPatches 1.15.2-1.21.1.2",
-    "last_check": "2020-04-30T19:06:42.384Z"
+    "md5": "c6caab6159551c5b92c30a01b06593f2"
   },
   {
     "addon_id": 357178,
     "slug": "mixinbootstrap",
     "name": "MixinBootstrap",
     "strategy": "beta",
-    "date": "2020-04-24T11:46:26.267Z",
     "new_version": "MixinBootstrap-1.0.3",
-    "last_check": "2020-04-30T19:06:52.650Z"
+    "md5": "b62d187f409ba65c5226b0d874a9be41"
   },
   {
     "addon_id": 289380,
     "slug": "obfuscate",
     "name": "Obfuscate",
     "strategy": "beta",
-    "date": "2020-04-21T15:31:10.167Z",
     "new_version": "Obfuscate 0.4.2",
-    "last_check": "2020-04-30T19:06:52.349Z"
+    "md5": "601d54e63f8ee2540fdd0b622f2b97fb"
   },
   {
     "addon_id": 266515,
     "slug": "industrial-foregoing",
     "name": "Industrial Foregoing",
     "strategy": "beta",
-    "date": "2020-03-15T17:14:15.283Z",
     "new_version": "industrial-foregoing-1.15.2-2.2.2-28d4a81",
-    "last_check": "2020-04-30T19:06:50.860Z"
+    "md5": "2f4b83420acfe77e64a72fd4ea60354f"
   },
   {
     "addon_id": 243707,
     "slug": "corail-tombstone",
     "name": "Corail Tombstone",
     "strategy": "beta",
-    "date": "2020-04-24T14:18:46.78Z",
     "new_version": "Corail Tombstone 4.3.5 for 1.15.2",
-    "last_check": "2020-04-30T19:10:09.046Z"
+    "md5": "6dce6187206240c6af604ca67bc419bc"
   },
   {
     "addon_id": 220318,
     "slug": "biomes-o-plenty",
     "name": "Biomes O' Plenty",
     "strategy": "beta",
-    "date": "2020-04-21T11:28:09.323Z",
     "new_version": "Biomes O' Plenty 1.15.2-10.0.0.355",
-    "last_check": "2020-04-30T19:10:02.455Z"
+    "md5": "69d8afe7e0c8c98f29d9869ec198666e"
   },
   {
     "addon_id": 243076,
     "slug": "refined-storage",
     "name": "Refined Storage",
     "strategy": "beta",
-    "date": "2020-04-29T17:37:45.963Z",
     "new_version": "Refined Storage 1.8.3",
-    "last_check": "2020-04-30T19:10:17.142Z"
+    "md5": "cf2ed5a957c644f5712c71efb0702d32"
   },
   {
     "addon_id": 355591,
     "slug": "enchantable",
     "name": "Enchantable",
     "strategy": "beta",
-    "date": "2020-04-15T18:19:17.883Z",
     "new_version": "Enchantable 1.3.0",
-    "last_check": "2020-04-30T19:11:14.130Z"
+    "md5": "2f38ccec9a438da353980bb5ba9ad3d9"
   },
   {
     "addon_id": 354522,
     "slug": "quickstack",
     "name": "Quickstack",
     "strategy": "beta",
-    "date": "2020-04-23T00:25:53.59Z",
     "new_version": "quickstack-3.0.3c",
-    "last_check": "2020-04-30T19:11:58.821Z"
-  },
-  {
-    "addon_id": 357620,
-    "slug": "fabric-passable-leaves",
-    "name": "Fabric Passable Leaves",
-    "strategy": "beta",
-    "date": "1999-12-30T16:00:00.000Z",
-    "last_check": "2020-04-30T19:16:24.504Z"
+    "md5": "968d2d01f44476f517e8b26d7cf31a48"
   },
   {
     "addon_id": 300569,
     "slug": "discordrpc",
     "name": "DiscordRichPresence",
     "strategy": "beta",
-    "date": "2020-02-29T15:23:05.313Z",
     "new_version": "DiscordRichPresence-2.0.3 (MC 1.15)",
-    "last_check": "2020-04-30T19:22:01.559Z"
+    "md5": "63575f3e85c8a6321fd3272cad6ed223"
+  },
+  {
+    "addon_id": 372395,
+    "slug": "chunkt",
+    "name": "Chunkt",
+    "strategy": "beta",
+    "new_version": "chunkt-1.15.2-1.0.3",
+    "md5": "b54bce13d411b06a36401adf32aabeb8"
   }
 ]

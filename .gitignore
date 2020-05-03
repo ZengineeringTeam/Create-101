@@ -16,3 +16,5 @@
 /.minecraft/usernamecache.json
 /.minecraft/patchouli_data.json
 /.minecraft/realms_persistence.json
+/.minecraft/config/jei/bookmarks.ini
+/natives/

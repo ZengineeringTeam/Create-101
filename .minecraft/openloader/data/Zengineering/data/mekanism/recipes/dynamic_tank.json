@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:dynamic_tank","count":4},"pattern":[" S ","SBS"," S "],"key":{"S":{"tag":"forge:ingots/steel"},"B":{"item":"minecraft:bucket"}}}

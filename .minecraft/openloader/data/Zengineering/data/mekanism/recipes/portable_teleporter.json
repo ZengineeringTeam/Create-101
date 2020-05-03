@@ -1,0 +1,1 @@
+{"type":"mekanism:mek_data","result":{"item":"mekanism:portable_teleporter"},"pattern":[" E ","CTC"," E "],"key":{"E":{"item":"mekanism:energy_tablet"},"C":{"tag":"forge:circuits/basic"},"T":{"item":"mekanism:teleportation_core"}}}

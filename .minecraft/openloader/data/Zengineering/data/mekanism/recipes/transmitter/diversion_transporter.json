@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:diversion_transporter","count":2},"pattern":["RRR","S#S","RRR"],"key":{"S":{"tag":"forge:ingots/steel"},"R":{"tag":"forge:dusts/redstone"},"#":{"item":"minecraft:iron_bars"}}}

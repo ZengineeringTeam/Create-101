@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:boiler_valve","count":2},"pattern":[" # ","#C#"," # "],"key":{"#":{"item":"mekanism:boiler_casing"},"C":{"tag":"forge:circuits/advanced"}}}

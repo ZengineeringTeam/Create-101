@@ -1,5 +1,5 @@
-#Tue Apr 28 14:28:44 GMT 2020
-shaderPack=(internal)
+#Fri May 01 22:28:22 CST 2020
+shaderPack=Sildurs Vibrant Shaders v1.27 Extreme.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
@@ -8,7 +8,7 @@ shadowResMul=1.0
 handDepthMul=0.125
 cloudShadow=false
 oldHandLight=default
-oldLighting=default
+oldLighting=true
 tweakBlockDamage=false
 shadowClipFrustrum=true
 TexMinFilB=0

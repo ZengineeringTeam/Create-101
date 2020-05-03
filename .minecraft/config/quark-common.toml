@@ -282,7 +282,7 @@
 	"Compasses Work Everywhere" = true
 	"Note Block Mob Sounds" = true
 	"Double Door Opening" = true
-	"Automatic Recipe Unlock" = true
+	"Automatic Recipe Unlock" = false
 	"Poison Potato Usage" = false
 	"Improved Sleeping" = true
 	"Springy Slime" = true
@@ -1085,7 +1085,7 @@
 				"Is Blacklist" = false
 
 [client]
-	"Greener Grass" = true
+	"Greener Grass" = false
 	"Variant Animal Textures" = false
 	"Back Button Keybind" = true
 	"Improved Tooltips" = true

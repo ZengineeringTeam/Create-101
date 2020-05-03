@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:enrichment_chamber"},"pattern":["ACA","IXI","ACA"],"key":{"I":{"tag":"forge:ingots/iron"},"C":{"tag":"forge:circuits/basic"},"A":{"tag":"mekanism:alloys/basic"},"X":{"item":"mekanism:steel_casing"}}}
