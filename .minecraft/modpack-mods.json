@@ -442,16 +442,6 @@
     "fileName": "Create.jar"
   },
   {
-    "addon_id": 0,
-    "slug": "OptiFine",
-    "name": "OptiFine",
-    "strategy": "none",
-    "downloadUrl": "https://optifine.net/downloadx?f=preview_OptiFine_1.15.2_HD_U_G1_pre14.jar&x=f65c86f54d6fa95cee1fa8bec0247212",
-    "fileName": "OptiFine.jar",
-    "new_version": "OptiFine",
-    "md5": "1695dd1cbc4869f8142a7e0761506b03"
-  },
-  {
     "addon_id": 239197,
     "slug": "crafttweaker",
     "name": "CraftTweaker",
