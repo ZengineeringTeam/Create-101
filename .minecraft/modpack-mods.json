@@ -28,8 +28,8 @@
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "new_version": "FruitTrees-1.15.2-1.2.7",
-    "md5": "ba0ae92b9ba513c14baf03c41368e82d"
+    "new_version": "FruitTrees-1.15.2-1.3.0",
+    "md5": "9aa35adf7cddc9270750cae13c2b286a"
   },
   {
     "addon_id": 296028,
@@ -284,8 +284,8 @@
     "slug": "journeymap",
     "name": "JourneyMap",
     "strategy": "beta",
-    "new_version": "journeymap-1.15.2-5.7.0beta1",
-    "md5": "3f01a531e6ca1f06164bac1e5a317fae"
+    "new_version": "journeymap-1.15.2-5.7.0b2",
+    "md5": "87f59fb4dce5a9a7c83251e6a2c59295"
   },
   {
     "addon_id": 223852,
@@ -348,8 +348,8 @@
     "slug": "optiforge",
     "name": "OptiForge",
     "strategy": "beta",
-    "new_version": "OptiForge-MC1.15.2-0.1.14",
-    "md5": "e7516854c909a5e786ae8569834e5a96"
+    "new_version": "OptiForge-MC1.15.2-0.1.15",
+    "md5": "40b84d49c47f5f8a1f00b32484f5ed35"
   },
   {
     "addon_id": 285612,
@@ -372,8 +372,8 @@
     "slug": "obfuscate",
     "name": "Obfuscate",
     "strategy": "beta",
-    "new_version": "Obfuscate 0.4.2",
-    "md5": "601d54e63f8ee2540fdd0b622f2b97fb"
+    "new_version": "Obfuscate 0.4.3",
+    "md5": "d1f1dceddf67b192d495f47ebda2bd70"
   },
   {
     "addon_id": 266515,
@@ -396,8 +396,8 @@
     "slug": "biomes-o-plenty",
     "name": "Biomes O' Plenty",
     "strategy": "beta",
-    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.355",
-    "md5": "69d8afe7e0c8c98f29d9869ec198666e"
+    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.357",
+    "md5": "63881d723b70ed740806af6ebb710fed"
   },
   {
     "addon_id": 243076,
@@ -450,5 +450,45 @@
     "fileName": "OptiFine.jar",
     "new_version": "OptiFine",
     "md5": "1695dd1cbc4869f8142a7e0761506b03"
+  },
+  {
+    "addon_id": 239197,
+    "slug": "crafttweaker",
+    "name": "CraftTweaker",
+    "strategy": "beta",
+    "new_version": "CraftTweaker-1.15.2-6.0.0.23",
+    "md5": "0d69b61d243f75e6fd42dcb57636bbe0"
+  },
+  {
+    "addon_id": 368718,
+    "slug": "jeitweaker",
+    "name": "JEITweaker",
+    "strategy": "beta",
+    "new_version": "JEITweaker-1.0.0.",
+    "md5": "5c6f1b818c80bf72ffb037ae7f0a8925"
+  },
+  {
+    "addon_id": 268387,
+    "slug": "extended-crafting",
+    "name": "Extended Crafting",
+    "strategy": "beta",
+    "new_version": "ExtendedCrafting-1.15.2-2.0.0",
+    "md5": "687fb79bcce18cd2882e9dc7bb34083a"
+  },
+  {
+    "addon_id": 272335,
+    "slug": "cucumber",
+    "name": "Cucumber Library",
+    "strategy": "beta",
+    "new_version": "Cucumber-1.15.2-3.0.5",
+    "md5": "ee2abb643ce072377532274fed493e2a"
+  },
+  {
+    "addon_id": 359516,
+    "slug": "better-bedrock-generator",
+    "name": "Better Bedrock Generator",
+    "strategy": "beta",
+    "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.0.6",
+    "md5": "ef8b12bf4279cd110589616cb40f7a27"
   }
 ]
