@@ -1,0 +1,14 @@
+{
+    "type": "create:pressing",
+    "ingredients": [
+    	{
+    		"tag": "forge:dusts/wood"
+    	}
+    ],
+	"results": [
+		{
+			"item": "minecraft:paper",
+			"count": 2
+		}
+	]
+}
