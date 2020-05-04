@@ -1,0 +1,2 @@
+craftingTable.addShapeless("test", <item:minecraft:diamond>, [<item:storagedrawers:oak_full_drawers_1>.withTag({tile: {Upgrades: [], id: "storagedrawers:standard_drawers_1" as string, Drawers: [{Item: {id: "minecraft:bone_meal" as string, Count: 1, tag: {__storagedrawers_count: 128}}, Count: 513}]}})]);
+craftingTable.addShapeless("test2", <item:minecraft:diamond>, [<item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1, id: "minecraft:mending" as string}]})]);

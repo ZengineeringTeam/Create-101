@@ -1,5 +1,5 @@
-#Fri May 01 22:28:22 CST 2020
-shaderPack=Sildurs Vibrant Shaders v1.27 Extreme.zip
+#Tue May 05 01:24:09 CST 2020
+shaderPack=Sildurs Vibrant Shaders v1.27 High.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true

@@ -1,2 +1,9 @@
 quark:cactus_paste
+quark:root
+quark:root_item
+quark:dirty_glass
+quark:dirty_glass_pane
+
 create:andesite_alloy
+
+tombstone:?
