@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "quark:bonded_leather"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "bonded_leather"
+    }
+  ]
+}

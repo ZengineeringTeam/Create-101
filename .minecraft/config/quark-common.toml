@@ -396,7 +396,7 @@
 	"Cave Crystal Underground Biome" = true
 	"Glowshroom Underground Biome" = true
 	"Overgrown Underground Biome" = true
-	"Cave Roots" = true
+	"Cave Roots" = false
 	"Permafrost Underground Biome" = true
 	"Underground Clay" = false
 	"Slime Underground Biome" = false
@@ -1239,4 +1239,3 @@
 		#That's a lot to take in, so here's an example. This would be for the default config of the Slime underground biome. (Spaces are allowed.)
 		#minecraft:overworld; false; SWAMP; false; 120; 10..40; 26,14; 14,6; minecraft:water@915, minecraft:slime_block@85; minecraft:green_terracotta@2, minecraft:lime_terracotta@3, minecraft:light_blue_terracotta@1; CEILING; false
 		"Biome Definitions" = []
-

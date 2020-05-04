@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:item_frame"
+    },
+    {
+      "tag": "forge:dyes/light_gray"
+    }
+  ],
+  "result": {
+    "item": "quark:light_gray_item_frame"
+  },
+  "group": "quark:item_frames",
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "item_frames"
+    }
+  ]
+}

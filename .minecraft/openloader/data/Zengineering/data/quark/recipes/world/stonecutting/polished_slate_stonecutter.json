@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:slate"
+  },
+  "result": "quark:polished_slate",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "slate"
+    }
+  ]
+}

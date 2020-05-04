@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#S#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:green_crystal"
+    },
+    "S": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "quark:lime_rune"
+  },
+  "group": "quark:crystal_rune",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "color_runes"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "cave_crystal_runes"
+        }
+      ]
+    }
+  ]
+} 

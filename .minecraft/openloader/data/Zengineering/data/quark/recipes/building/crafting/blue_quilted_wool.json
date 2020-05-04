@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "WWW",
+    " S "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:blue_wool",
+      "count": 3
+    },
+    "S": {
+    	"item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "quark:blue_quilted_wool",
+    "count": 3
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "quilted_wool"
+    }
+  ]
+}

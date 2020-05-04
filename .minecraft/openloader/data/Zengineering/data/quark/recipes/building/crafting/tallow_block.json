@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+  "key": {
+    "T": {
+      "item": "quark:tallow"
+    }
+  },
+  "result": {
+    "item": "quark:tallow_block"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "tallow_and_candles"
+    }
+  ]
+}

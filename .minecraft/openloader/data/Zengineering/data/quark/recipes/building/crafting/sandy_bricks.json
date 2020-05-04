@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bricks"
+    },
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "result": {
+    "item": "quark:sandy_bricks"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "sandy_bricks"
+    }
+  ]
+}

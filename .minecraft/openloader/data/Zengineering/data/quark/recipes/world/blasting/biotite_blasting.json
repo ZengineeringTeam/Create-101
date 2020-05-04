@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "quark:biotite_ore"
+  },
+  "result": "quark:biotite",
+  "experience": 0.2,
+  "cookingtime": 100,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "biotite"
+    }
+  ]
+}

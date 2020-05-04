@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXM",
+    "III"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:stone"
+    },
+    "M": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "quark:redstone_inductor"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "redstone_inductor"
+    }
+  ]
+}

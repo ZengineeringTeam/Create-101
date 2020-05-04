@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:basalt"
+  },
+  "result": "quark:polished_basalt",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "basalt"
+    }
+  ]
+}

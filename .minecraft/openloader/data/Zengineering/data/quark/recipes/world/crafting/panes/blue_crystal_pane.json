@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:blue_crystal"
+    }
+  },
+  "result": {
+    "item": "quark:blue_crystal_pane",
+    "count": 16
+  },
+  "group": "quark:crystal_sheet",
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "cave_crystal_underground_biome"
+    }
+  ]
+} 

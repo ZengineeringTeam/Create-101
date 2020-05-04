@@ -1,0 +1,48 @@
+{
+  "type": "quark:exclusion",
+  "true_type": "minecraft:crafting_shaped",
+  "group": "chest",
+  "exclusions": [
+    "quark:tweaks/crafting/utility/chests/oak_chest_wood",
+    "quark:tweaks/crafting/utility/chests/spruce_chest_wood",
+    "quark:tweaks/crafting/utility/chests/birch_chest_wood",
+    "quark:tweaks/crafting/utility/chests/jungle_chest_wood",
+    "quark:tweaks/crafting/utility/chests/acacia_chest_wood",
+    "quark:tweaks/crafting/utility/chests/dark_oak_chest_wood",
+    "quark:tweaks/crafting/utility/chests/compat/driftwood_chest_wood",
+    "quark:tweaks/crafting/utility/chests/compat/poise_chest_wood",
+    "quark:tweaks/crafting/utility/chests/compat/willow_chest_wood",
+    "quark:tweaks/crafting/utility/chests/compat/wisteria_chest_wood",
+    "quark:tweaks/crafting/utility/chests/compat/rosewood_chest_wood",
+    "quark:tweaks/crafting/utility/chests/compat/maple_chest_wood"
+  ],
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "wood_to_chest_recipes"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "variant_chests"
+        }
+      ]
+    }
+  ]
+} 

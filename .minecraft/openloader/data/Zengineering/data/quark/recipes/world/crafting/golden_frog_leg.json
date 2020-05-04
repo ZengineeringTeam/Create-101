@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#L#",
+    "###"
+  ],
+  "key": {
+    "L": {
+      "item": "quark:frog_leg"
+    },
+    "#": {
+      "tag": "forge:nuggets/gold"
+    }
+  },
+  "result": {
+    "item": "quark:golden_frog_leg"
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "frogs"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "frog_brewing"
+        }
+      ]
+    }
+  ]
+} 

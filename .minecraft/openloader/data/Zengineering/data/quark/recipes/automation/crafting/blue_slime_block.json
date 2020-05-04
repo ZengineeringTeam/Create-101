@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "quark:slime_blocks"
+    },
+    {
+      "tag": "forge:dyes/blue"
+    }
+  ],
+  "result": {
+    "item": "quark:blue_slime_block",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+        "flag": "color_slime"
+    }
+  ]
+} 

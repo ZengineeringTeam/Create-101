@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "quark:candles"
+    },
+    {
+      "tag": "forge:dyes/orange"
+    }
+  ],
+  "result": {
+    "item": "quark:orange_candle",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+        "flag": "tallow_and_candles"
+    }
+  ]
+} 

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:basalt"
+    }
+  },
+  "result": {
+    "item": "quark:basalt_speleothem",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "speleothems"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "basalt"
+        }
+      ]
+    }
+  ]
+} 

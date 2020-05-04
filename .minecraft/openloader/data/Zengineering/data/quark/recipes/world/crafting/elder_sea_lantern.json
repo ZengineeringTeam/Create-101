@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sea_lantern"
+    },
+    {
+      "item": "quark:elder_prismarine"
+    }
+  ],
+  "result": {
+    "item": "quark:elder_sea_lantern"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "elder_prismarine_underground_biome"
+    }
+  ]
+} 

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:marble"
+    }
+  },
+  "result": {
+    "item": "quark:marble_speleothem",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "speleothems"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "marble"
+        }
+      ]
+    }
+  ]
+} 

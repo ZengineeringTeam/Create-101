@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:marble"
+  },
+  "result": "quark:marble_speleothem",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "speleothems"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "marble"
+        }
+      ]
+    }
+  ]
+}

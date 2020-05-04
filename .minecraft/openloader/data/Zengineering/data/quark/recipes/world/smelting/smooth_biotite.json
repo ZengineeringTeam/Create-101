@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "quark:biotite_block"
+  },
+  "result": "quark:smooth_biotite",
+  "experience": 0.1,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "biotite"
+    }
+  ]
+}

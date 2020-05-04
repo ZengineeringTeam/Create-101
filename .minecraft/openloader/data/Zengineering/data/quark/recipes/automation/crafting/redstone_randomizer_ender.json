@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XBX",
+    "III"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:redstone_torch"
+    },
+    "I": {
+      "item": "minecraft:stone"
+    },
+    "B": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "quark:redstone_randomizer"
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "redstone_randomizer"
+        },
+        {
+          "type": "forge:not",
+          "value": {
+            "type": "quark:flag",
+            "flag": "biotite"
+          }
+        }
+      ]
+    }
+  ]
+}

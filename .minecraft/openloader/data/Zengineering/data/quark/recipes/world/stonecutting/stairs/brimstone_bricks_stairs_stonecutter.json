@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:brimstone_bricks"
+  },
+  "result": "quark:brimstone_bricks_stairs",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "brimstone_underground_biome"
+    }
+  ]
+}

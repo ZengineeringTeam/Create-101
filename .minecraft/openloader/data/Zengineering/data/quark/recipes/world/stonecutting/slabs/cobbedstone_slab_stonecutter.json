@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:cobbedstone"
+  },
+  "result": "quark:cobbedstone_slab",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "spider_nest_underground_biome"
+    }
+  ]
+}

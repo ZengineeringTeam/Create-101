@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:red_rune"
+    },
+    {
+      "item": "quark:orange_rune"
+    },
+    {
+      "item": "quark:yellow_rune"
+    },
+    {
+      "item": "quark:lime_rune"
+    },
+    {
+      "item": "quark:light_blue_rune"
+    },
+    {
+      "item": "quark:blue_rune"
+    },
+    {
+      "item": "quark:magenta_rune"
+    },
+    {
+      "item": "quark:white_rune"
+    }
+  ],
+  "result": {
+    "item": "quark:rainbow_rune",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "color_runes"
+    }
+  ]
+} 

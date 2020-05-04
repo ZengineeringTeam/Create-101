@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:red_slime_block"
+    },
+    {
+      "item": "minecraft:slime_block"
+    }
+  ],
+  "result": {
+    "item": "quark:yellow_slime_block",
+    "count": 2
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+        "flag": "color_slime"
+    }
+  ]
+} 

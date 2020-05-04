@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RWV",
+    "OSI",
+    "YGB"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:stone"
+    },
+    "W": {
+      "item": "quark:white_crystal"
+    },
+    "R": {
+      "item": "quark:red_crystal"
+    },
+    "O": {
+      "item": "quark:orange_crystal"
+    },
+    "Y": {
+      "item": "quark:yellow_crystal"
+    },
+    "G": {
+      "item": "quark:green_crystal"
+    },
+    "B": {
+      "item": "quark:blue_crystal"
+    },
+    "I": {
+      "item": "quark:indigo_crystal"
+    },
+    "V": {
+      "item": "quark:violet_crystal"
+    }
+  },
+  "result": {
+    "item": "quark:rainbow_rune"
+  },
+  "group": "quark:crystal_rune",
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "color_runes"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "cave_crystal_runes"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:marble_bricks"
+    }
+  },
+  "result": {
+    "item": "quark:marble_bricks_stairs",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "more_stone_variants"
+    }
+  ]
+} 

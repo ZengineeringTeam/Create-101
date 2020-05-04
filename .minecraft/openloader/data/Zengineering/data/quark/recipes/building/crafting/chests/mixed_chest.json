@@ -1,0 +1,41 @@
+{
+  "type": "quark:exclusion",
+  "true_type": "minecraft:crafting_shaped",
+  "group": "oak_chest",
+  "exclusions": [
+    "quark:building/crafting/chests/oak_chest",
+    "quark:building/crafting/chests/spruce_chest",
+    "quark:building/crafting/chests/birch_chest",
+    "quark:building/crafting/chests/jungle_chest",
+    "quark:building/crafting/chests/acacia_chest",
+    "quark:building/crafting/chests/dark_oak_chest",
+    "quark:building/crafting/chests/compat/bamboo_chest",
+    "quark:building/crafting/chests/compat/driftwood_chest",
+    "quark:building/crafting/chests/compat/poise_chest",
+    "quark:building/crafting/chests/compat/willow_chest",
+    "quark:building/crafting/chests/compat/wisteria_chest",
+    "quark:building/crafting/chests/compat/hive_chest",
+    "quark:building/crafting/chests/compat/rosewood_chest",
+    "quark:building/crafting/chests/compat/maple_chest"
+  ],
+  "pattern": [
+    "###",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "variant_chests"
+    }
+  ]
+} 

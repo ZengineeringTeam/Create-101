@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "result": "quark:netherrack_speleothem",
+  "count": 2,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "speleothems"
+    }
+  ]
+}

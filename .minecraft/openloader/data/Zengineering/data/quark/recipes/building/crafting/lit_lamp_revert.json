@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:lit_lamp"
+    }
+  ],
+  "result": {
+    "item": "minecraft:redstone_lamp"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "lit_lamp"
+    }
+  ]
+}

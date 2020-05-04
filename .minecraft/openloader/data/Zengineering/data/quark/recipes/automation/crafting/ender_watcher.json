@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BRB",
+    "RER",
+    "BRB"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "B": {
+      "item": "quark:biotite_block"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "quark:ender_watcher"
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "ender_watcher"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "biotite"
+        }
+      ]
+    }
+  ]
+}
