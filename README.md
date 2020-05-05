@@ -11,5 +11,5 @@ npm install -g modpack
 modpack update
 ```
 
-安装 modpack 失败可以试试淘宝镜像
-运行完成后，模组自动下载完毕
+ - 安装 modpack 失败可以试试淘宝镜像
+ - 运行完成后，模组自动下载完毕
