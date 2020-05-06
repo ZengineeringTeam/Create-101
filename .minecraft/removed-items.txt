@@ -7,3 +7,15 @@ quark:dirty_glass_pane
 create:andesite_alloy
 
 tombstone:?
+
+refinedstorage:processor_binding
+refinedstorage:raw_basic_processor
+refinedstorage:raw_improved_processor
+refinedstorage:raw_advanced_processor
+refinedstorage:silicon
+refinedstorage:quartz_enriched_iron
+refinedstorage:quartz_enriched_iron_block
+
+mekanism:ingot_copper
+mekanism:nugget_copper
+mekanism:copper_ore

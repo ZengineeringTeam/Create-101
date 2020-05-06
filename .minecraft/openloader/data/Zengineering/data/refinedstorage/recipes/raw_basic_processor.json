@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:slimeballs"
+    },
+    {
+      "tag": "forge:plates/iron"
+    },
+    {
+      "item": "create:integrated_circuit"
+    },
+    {
+      "item": "mekanism:enriched_redstone"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:basic_processor"
+  }
+}

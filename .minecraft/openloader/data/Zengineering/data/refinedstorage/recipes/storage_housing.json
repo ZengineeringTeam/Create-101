@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GRG",
+    "R R",
+    "EEE"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "E": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:storage_housing"
+  }
+}

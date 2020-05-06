@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ECE",
+    "RUR",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "U": {
+      "item": "refinedstorage:upgrade"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:regulator_upgrade"
+  }
+}

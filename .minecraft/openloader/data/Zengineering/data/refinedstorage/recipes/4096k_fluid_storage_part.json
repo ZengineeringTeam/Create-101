@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PEP",
+    "SRS",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "S": {
+      "item": "refinedstorage:1024k_fluid_storage_part"
+    },
+    "R": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:4096k_fluid_storage_part"
+  }
+}

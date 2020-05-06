@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "EEE",
+    " E "
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "P": {
+      "item": "refinedstorage:basic_processor"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:wrench"
+  }
+}

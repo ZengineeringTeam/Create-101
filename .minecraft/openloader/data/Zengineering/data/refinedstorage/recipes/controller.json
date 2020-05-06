@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "SMS",
+    "ESE"
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "P": {
+      "item": "refinedstorage:advanced_processor"
+    },
+    "S": {
+      "item": "create:integrated_circuit"
+    },
+    "M": {
+      "item": "refinedstorage:machine_casing"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:controller"
+  }
+}

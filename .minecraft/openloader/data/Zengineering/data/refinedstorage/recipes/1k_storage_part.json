@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SES",
+    "GRG",
+    "SGS"
+  ],
+  "key": {
+    "S": {
+      "item": "create:integrated_circuit"
+    },
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:1k_storage_part"
+  }
+}

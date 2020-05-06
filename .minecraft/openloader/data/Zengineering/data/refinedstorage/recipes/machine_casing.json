@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ESE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "S": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:machine_casing"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EPE",
+    "PHP",
+    "EPE"
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/iron"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "refinedstorage:filter"
+  }
+}
