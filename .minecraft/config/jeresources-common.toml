@@ -7,3 +7,4 @@ showDevData = false
 enchantsBlacklist = ["flimflam", "soulBound", "vanishing_curse"]
 hiddenTabs = []
 dimensionsBlacklist = [-11]
+

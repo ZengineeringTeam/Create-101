@@ -61,7 +61,7 @@
 			enabled = true
 
 		[modules.core.plastic]
-			enabled = true
+			enabled = false
 
 		#If enabled the minecraft bucket item will be replaced with bucket that contains IF milk
 		[modules.core.milk_bucket_replacement]
@@ -91,7 +91,7 @@
 
 	#All the Industrial Foregoing tools that allow of transport of things
 	[modules.transport]
-		enabled = true
+		enabled = false
 
 		[modules.transport.conveyor]
 			enabled = true
@@ -110,7 +110,7 @@
 			enabled = true
 
 		[modules.tools.mob_imprisonment_tool]
-			enabled = true
+			enabled = false
 
 		[modules.tools.mob_essence_tool]
 			enabled = true

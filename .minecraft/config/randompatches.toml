@@ -73,12 +73,12 @@
 		# The Minecraft window title.
 		# The Minecraft version is provided as an argument.
 		# Default: Minecraft* %s
-		title = "Zengineering"
+		title = "Create 101"
 		# The Minecraft window title.
 		# The Minecraft version and current activity are provided as arguments.
 		# For example: "RandomPatches - %2$s"
 		# Default: Minecraft* %s - %s
-		titleWithActivity = "Zengineering - %2$s"
+		titleWithActivity = "Create 101 - %2$s"
 
 # Options related to boats.
 [boats]
