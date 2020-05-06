@@ -1,22 +1,22 @@
 {
-    "type": "crafting_shaped",
-        "pattern": [
-            "A A",
-			"AAA"
-        ],
-        "key": {
-			"A": {
-                "item": "iron_ingot"
-            }
-        },
-	"result": {
-		"item": "create:basin",
-		"count": 1
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+  "type": "crafting_shaped",
+  "pattern": [
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "forge:plates/iron"
+    }
+  },
+  "result": {
+    "item": "create:basin",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "create:module",
+      "module": "contraptions"
+    }
+  ]
 }

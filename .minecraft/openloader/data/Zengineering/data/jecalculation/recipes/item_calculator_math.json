@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cobblestone"
+    }
+  ],
+  "result": {
+    "item": "jecalculation:item_calculator_craft"
+  }
+}
