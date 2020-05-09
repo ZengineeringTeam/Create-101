@@ -116,24 +116,27 @@
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "new_version": "Mekanism-1.15.2-9.10.1.414",
-    "md5": "7086cbd75ce7ff34b3134a48fccd2ffe"
+    "new_version": "Mekanism-1.15.2-9.10.3.416",
+    "md5": "5d58c354c1e05c9174a4a24b71f86093",
+    "file_id": 2952021
   },
   {
     "addon_id": 268566,
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "new_version": "MekanismGenerators-1.15.2-9.10.1.414",
-    "md5": "2639ab7723f05cafeaa145f56202cd53"
+    "new_version": "MekanismGenerators-1.15.2-9.10.3.416",
+    "md5": "f8deb378a06e14663bf0f41ba1cf4537",
+    "file_id": 2952023
   },
   {
     "addon_id": 268567,
     "slug": "mekanism-tools",
     "name": "Mekanism Tools",
     "strategy": "beta",
-    "new_version": "MekanismTools-1.15.2-9.10.1.414",
-    "md5": "3cf0d9bdfde2701d94655b7980ba51b7"
+    "new_version": "MekanismTools-1.15.2-9.10.3.416",
+    "md5": "d2dce67a30c6de05ed4a6c25b86a32d3",
+    "file_id": 2952024
   },
   {
     "addon_id": 242223,
@@ -464,5 +467,29 @@
     "strategy": "beta",
     "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.0.6",
     "md5": "ef8b12bf4279cd110589616cb40f7a27"
+  },
+  {
+    "addon_id": 224712,
+    "slug": "wawla",
+    "name": "Wawla - What Are We Looking At",
+    "strategy": "alpha",
+    "new_version": "WAWLA-1.15.2-3.0.2",
+    "file_id": 2944889,
+    "md5": "b0a6ce6fcf3437d5c013c2230285cf57"
+  },
+  {
+    "addon_id": 381605,
+    "slug": "drawers-tooltip",
+    "name": "Drawers Tooltip",
+    "strategy": "beta"
+  },
+  {
+    "addon_id": 228525,
+    "slug": "bookshelf",
+    "name": "Bookshelf",
+    "strategy": "beta",
+    "new_version": "Bookshelf-1.15.2-5.5.33",
+    "file_id": 2939640,
+    "md5": "02504f84a1ca128baf592516995ce1eb"
   }
 ]

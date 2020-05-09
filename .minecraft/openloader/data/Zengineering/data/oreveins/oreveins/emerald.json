@@ -1,0 +1,18 @@
+{
+  "type": "cone",
+  "stone": "minecraft:stone",
+  "ore": "minecraft:emerald_ore",
+  "min_y": 5,
+  "max_y": 55,
+  "vertical_size":4,
+  "horizontal_size":8,
+  "density":500,
+  "rarity":800,
+  "indicator":{
+    "blocks":"quark:green_crystal",
+    "replace_surface":true,
+    "ignore_liquids":false,
+    "rarity":25,
+    "max_depth":80
+    }
+}

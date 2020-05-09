@@ -1,0 +1,20 @@
+{
+  "type": "cone",
+  "stone": "minecraft:stone",
+  "ore": "create:zinc_ore",
+  "min_y": 10,
+  "max_y": 80,
+  "vertical_size":40,
+  "horizontal_size":40,
+  "density":500,
+  "rarity":150,
+  "count":2,
+  "indicator":{
+    "blocks":"quark:blue_crystal",
+    "replace_surface":true,
+    "ignore_liquids":false,
+    "rarity":20,
+    "max_depth":80
+  },
+  "biomes": "minecraft:desert"
+}

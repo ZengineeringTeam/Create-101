@@ -1,0 +1,33 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "create:brass_sheet"
+    },
+    {
+      "item": "create:brass_sheet"
+    },
+    {
+      "item": "create:electron_tube"
+    },
+    {
+      "item": "create:electron_tube"
+    },
+    {
+      "item": "refinedstorage:raw_basic_processor",
+      "return_chance": 1
+    }
+  ],
+  "results": [
+    {
+      "item": "create:mechanical_crafter",
+      "count": 3
+    }
+  ]
+}

@@ -10,6 +10,23 @@
     "redstone": true,
     "repeater": true
   },
+  "wawla": {
+    "blast_resistance": false,
+    "growing_cooldown": true,
+    "hide_trap_chest": true,
+    "break_progress": true,
+    "horse_jump": true,
+    "breeding_item": true,
+    "hardness": false,
+    "block_ench_power": true,
+    "table_ench_power": true,
+    "skull_owner": true,
+    "armor_points": true,
+    "frame_contents": true,
+    "horse_speed": true,
+    "villager_type": true,
+    "breeding_cooldown": true
+  },
   "waila": {
     "show_registry": false,
     "show_entity_hp": true,

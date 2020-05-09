@@ -1,6 +1,9 @@
+.git
 .gitignore
 .minecraft/.mixin.out
 .minecraft/.modpack
+.minecraft/TODO.md
+.minecraft/build
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
@@ -18,7 +21,11 @@
 .minecraft/patchouli_data.json
 .minecraft/realms_persistence.json
 .minecraft/reauth.toml
+.minecraft/remove-recipe-example.json
+.minecraft/removed-items.txt
+.minecraft/resourcepacks
 .minecraft/saves
+.minecraft/schematics
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/servers.dat

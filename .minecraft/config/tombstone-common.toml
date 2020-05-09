@@ -107,10 +107,10 @@
 	purification_affect_neutral_effects = true
 	#Chance to receive a random beneficial spell effect when praying near a grave [0..100|default:40]
 	#Range: 0 ~ 100
-	chance_pray_reward = 40
+	chance_pray_reward = 0
 	#Chance on 1000 that a soul appears on a grave [0..1000|default:100]
 	#Range: 0 ~ 1000
-	chance_soul = 100
+	chance_soul = 0
 	#Time in minutes to check if a soul appears on a grave [10..10000|default:30]
 	#Range: 10 ~ 10000
 	time_soul = 30

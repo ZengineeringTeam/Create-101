@@ -6,7 +6,7 @@
 	[worldgen.v1]
 		#
 		#Prevents all worldgen added by Create from taking effect
-		disableWorldGen = false
+		disableWorldGen = true
 		#
 		#Forward caught TileEntityExceptions to the log at debug level.
 		logTeErrors = false
@@ -163,4 +163,3 @@
 			#
 			#Range: > 0
 			clusterSize = 128
-

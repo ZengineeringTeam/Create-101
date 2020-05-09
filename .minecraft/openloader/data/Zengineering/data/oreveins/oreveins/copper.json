@@ -1,0 +1,18 @@
+{
+  "type": "cluster",
+  "stone": "minecraft:stone",
+  "ore": "create:copper_ore",
+  "min_y": 5,
+  "max_y": 55,
+  "vertical_size":40,
+  "horizontal_size":40,
+  "density":500,
+  "rarity":150,
+  "indicator":{
+    "blocks":"quark:violet_crystal",
+    "replace_surface":true,
+    "ignore_liquids":false,
+    "rarity":20,
+    "max_depth":80
+    }
+}
