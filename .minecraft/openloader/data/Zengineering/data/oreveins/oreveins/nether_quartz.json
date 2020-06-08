@@ -11,8 +11,8 @@
   "indicator": {
     "blocks":"quark:black_crystal",
     "replace_surface":true,
-    "ignore_liquids":false,
-    "rarity":20,
+    "ignore_liquids":true,
+    "rarity":120,
     "max_depth":80
   },
   "biomes": "minecraft:nether"

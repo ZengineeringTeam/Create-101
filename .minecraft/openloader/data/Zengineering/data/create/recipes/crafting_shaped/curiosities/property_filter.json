@@ -12,13 +12,7 @@
             }
         },
 	"result": {
-		"item": "create:property_filter",
+		"item": "create:attribute_filter",
 		"count": 1
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "curiosities"
-		}
-	]
+	}
 }

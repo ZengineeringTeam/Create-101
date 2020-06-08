@@ -17,13 +17,7 @@
             }
         },
 	"result": {
-		"item": "create:plough",
+		"item": "create:mechanical_plough",
 		"count": 1
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+	}
 }

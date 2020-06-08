@@ -35,6 +35,8 @@
 	#Favorite grave
 	#Allowed Values: GRAVE_SIMPLE, GRAVE_NORMAL, GRAVE_CROSS, TOMBSTONE, SUBARAKI_GRAVE, GRAVE_ORIGINAL
 	favorite_grave = "GRAVE_SIMPLE"
+	#Allows to activate a grave by sneaking [false/true|default:true]
+	activate_grave_by_sneaking = true
 	#Period where graves produce fog [DAY/NIGHT/BOTH|default:NIGHT]
 	#Allowed Values: DAY, NIGHT, BOTH, NEVER
 	fog_period = "NIGHT"

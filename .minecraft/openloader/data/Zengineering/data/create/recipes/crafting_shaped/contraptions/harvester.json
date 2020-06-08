@@ -17,13 +17,7 @@
             }
         },
 	"result": {
-		"item": "create:harvester",
+		"item": "create:mechanical_harvester",
 		"count": 1
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+	}
 }

@@ -17,13 +17,7 @@
             }
         },
 	"result": {
-		"item": "create:drill",
+		"item": "create:mechanical_drill",
 		"count": 1
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+	}
 }

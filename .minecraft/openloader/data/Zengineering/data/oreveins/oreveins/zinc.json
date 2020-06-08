@@ -11,12 +11,12 @@
   "indicator":{
     "blocks":"quark:blue_crystal",
     "replace_surface":true,
-    "ignore_liquids":false,
-    "rarity":20,
+    "ignore_liquids":true,
+    "rarity":120,
     "max_depth":80
   },
   "biomes": {
     "type": "not",
-    "biomes":"minecraft:desert"
+    "biomes":{"type":"biome","biomes":"minecraft:desert"}
   }
 }

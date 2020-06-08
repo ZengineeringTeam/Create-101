@@ -1,30 +1,35 @@
 {
-    "display": {
-        "title": {
-            "translate": "advancement.create:andesite_alloy"
-        },
-        "description": {
-            "translate": "advancement.create:andesite_alloy.desc"
-        },
-        "icon": {
-            "item": "minecraft:iron_ingot"
-        },
-        "frame": "task",
-        "show_toast": true,
-        "announce_to_chat": false,
-        "hidden": true
+  "parent": "create:root",
+  "display": {
+    "icon": {
+      "item": "iron_ingot"
     },
-    "criteria": {
-        "alloy": {
-            "trigger": "minecraft:inventory_changed",
-            "conditions": {
-                "items": [
-                    {
-                        "item": "minecraft:iron_ingot"
-                    }
-                ]
-            }
-        }
+    "title": {
+      "translate": "advancement.create.andesite_alloy"
     },
-    "parent": "create:root"
+    "description": {
+      "translate": "advancement.create.andesite_alloy.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "iron_ingot"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
 }

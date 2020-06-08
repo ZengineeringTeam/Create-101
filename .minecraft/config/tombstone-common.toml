@@ -111,6 +111,9 @@
 	#Chance on 1000 that a soul appears on a grave [0..1000|default:100]
 	#Range: 0 ~ 1000
 	chance_soul = 0
+	#Duration of voodoo poppet's effects in seconds when preventing death [5..60000|default:60]
+	#Range: 5 ~ 60000
+	duration_voodoo_poppet_effects = 60
 	#Time in minutes to check if a soul appears on a grave [10..10000|default:30]
 	#Range: 10 ~ 10000
 	time_soul = 30
@@ -173,6 +176,8 @@
 [compatibility]
 	#Keeps the cosmetic armor when you die [false/true|default:true]
 	keep_cosmetic_armor = true
+	#Disables to disenchant items from tetra mod [false/true|default:false]
+	disable_disenchantment_for_tetra = false
 	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
 	allow_curio_auto_equip = true
 

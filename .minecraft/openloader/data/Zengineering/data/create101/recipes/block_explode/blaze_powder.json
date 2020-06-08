@@ -4,20 +4,6 @@
     "block": "brown_concrete"
   },
   "output": {
-    "entries": [
-      {
-        "result": {
-          "block": "gold_ore"
-        },
-        "weight": 3
-      },
-      {
-        "result": {
-          "block": "obsidian"
-        },
-        "weight": 2
-      }
-    ],
-    "empty_weight": 5
+    "item": "blaze_powder"
   }
 }

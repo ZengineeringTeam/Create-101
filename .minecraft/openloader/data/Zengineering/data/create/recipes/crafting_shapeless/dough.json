@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "create:flour"
+      "item": "create:wheat_flour"
     },
     {
       "item": "minecraft:water_bucket"
@@ -11,11 +11,5 @@
   "result": {
     "item": "create:dough",
     "count": 1
-  },
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+  }
 }

@@ -11,8 +11,8 @@
   "indicator":{
     "blocks":"quark:green_crystal",
     "replace_surface":true,
-    "ignore_liquids":false,
-    "rarity":25,
+    "ignore_liquids":true,
+    "rarity":70,
     "max_depth":80
     }
 }

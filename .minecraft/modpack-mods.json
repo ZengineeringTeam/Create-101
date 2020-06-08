@@ -28,8 +28,9 @@
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "new_version": "FruitTrees-1.15.2-1.3.0",
-    "md5": "9aa35adf7cddc9270750cae13c2b286a"
+    "new_version": "FruitTrees-1.15.2-1.4.1",
+    "md5": "f41d4db636e3ceff97ff4e60cc4cebbf",
+    "file_id": 2966284
   },
   {
     "addon_id": 296028,
@@ -92,16 +93,18 @@
     "slug": "everpotion",
     "name": "EverPotion",
     "strategy": "beta",
-    "new_version": "EverPotion-1.15.2-1.0.5",
-    "md5": "9bef06954523b21f78a69ddd3b221d11"
+    "new_version": "EverPotion-1.15.2-1.1.0",
+    "md5": "33bd81be9f191743f344770726aff63c",
+    "file_id": 2949547
   },
   {
     "addon_id": 359344,
     "slug": "interactio",
     "name": "Interactio - In-World Crafting with Datapacks!",
     "strategy": "beta",
-    "new_version": "Interactio-1.15.2-2.0.1",
-    "md5": "f8b4896a6ead1630871e95ce20f6fb7e"
+    "new_version": "Interactio-1.15.2-2.0.2",
+    "md5": "430914b27738508036a060af6646f93a",
+    "file_id": 2948034
   },
   {
     "addon_id": 288885,
@@ -116,27 +119,27 @@
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "new_version": "Mekanism-1.15.2-9.10.3.416",
-    "md5": "5d58c354c1e05c9174a4a24b71f86093",
-    "file_id": 2952021
+    "new_version": "Mekanism-1.15.2-9.10.7.420",
+    "md5": "09dc1a2bbc4f21921d2c74ab4c53d0dd",
+    "file_id": 2967618
   },
   {
     "addon_id": 268566,
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "new_version": "MekanismGenerators-1.15.2-9.10.3.416",
-    "md5": "f8deb378a06e14663bf0f41ba1cf4537",
-    "file_id": 2952023
+    "new_version": "MekanismGenerators-1.15.2-9.10.7.420",
+    "md5": "50fb0849b5384380129369d7231d6d0a",
+    "file_id": 2967620
   },
   {
     "addon_id": 268567,
     "slug": "mekanism-tools",
     "name": "Mekanism Tools",
     "strategy": "beta",
-    "new_version": "MekanismTools-1.15.2-9.10.3.416",
-    "md5": "d2dce67a30c6de05ed4a6c25b86a32d3",
-    "file_id": 2952024
+    "new_version": "MekanismTools-1.15.2-9.10.7.420",
+    "md5": "0810a94e0f8475998c0fb3fe1d712030",
+    "file_id": 2967621
   },
   {
     "addon_id": 242223,
@@ -175,8 +178,9 @@
     "slug": "quark",
     "name": "Quark",
     "strategy": "beta",
-    "new_version": "Quark-r2.1-235",
-    "md5": "ec0b28c348f5748d9c642156607890a8"
+    "new_version": "Quark-r2.1-243",
+    "md5": "2ca04186cda567a9b71e1753245ae742",
+    "file_id": 2973684
   },
   {
     "addon_id": 301051,
@@ -223,16 +227,18 @@
     "slug": "realistic-ore-veins",
     "name": "Realistic Ore Veins",
     "strategy": "beta",
-    "new_version": "oreveins-forge-1.15.2-5.1.1",
-    "md5": "2d051eeea59232f662c2e7fe99b68edf"
+    "new_version": "oreveins-forge-1.15.2-5.1.3",
+    "md5": "7c679d3a81890bb039bf42dd9eb8a71e",
+    "file_id": 2966050
   },
   {
     "addon_id": 237701,
     "slug": "reauth",
     "name": "ReAuth",
     "strategy": "beta",
-    "new_version": "ReAuth-3.8.0",
-    "md5": "5acca2eb59a46ad219944b68e2590cf4"
+    "new_version": "ReAuth-3.8.1",
+    "md5": "7a2655c439bb612f744afbe1bb3e56f7",
+    "file_id": 2950766
   },
   {
     "addon_id": 264353,
@@ -247,8 +253,9 @@
     "slug": "titanium",
     "name": "Titanium",
     "strategy": "beta",
-    "new_version": "titanium-1.15.2-2.3.7",
-    "md5": "65270a4cd4e1a9e9b5972b754d0999fe"
+    "new_version": "titanium-1.15.2-2.4.1",
+    "md5": "9d672c72e08313e84e5e09b56ee32c65",
+    "file_id": 2963854
   },
   {
     "addon_id": 318255,
@@ -279,8 +286,9 @@
     "slug": "apotheosis",
     "name": "Apotheosis",
     "strategy": "beta",
-    "new_version": "Apotheosis-1.15.2-3.0.7",
-    "md5": "66de7202c801df97f4c98d7e57066dec"
+    "new_version": "Apotheosis-1.15.2-3.1.2",
+    "md5": "e10e90d26d95f40785adda3bfac47653",
+    "file_id": 2958065
   },
   {
     "addon_id": 32274,
@@ -303,8 +311,9 @@
     "slug": "open-loader",
     "name": "Open Loader",
     "strategy": "beta",
-    "new_version": "OpenLoader-1.15.2-4.0.3",
-    "md5": "db6f1543298bba0c8e363c1677bbb7f0"
+    "new_version": "OpenLoader-1.15.2-4.0.5",
+    "md5": "10bfb3b2d1208c95f461ad92649a5e18",
+    "file_id": 2957023
   },
   {
     "addon_id": 251767,
@@ -351,8 +360,9 @@
     "slug": "optiforge",
     "name": "OptiForge",
     "strategy": "beta",
-    "new_version": "OptiForge-MC1.15.2-0.1.15",
-    "md5": "40b84d49c47f5f8a1f00b32484f5ed35"
+    "new_version": "OptiForge-MC1.15.2-0.1.21",
+    "md5": "b040cf3df88463d9bed421e60426e87b",
+    "file_id": 2973817
   },
   {
     "addon_id": 285612,
@@ -379,36 +389,31 @@
     "md5": "d1f1dceddf67b192d495f47ebda2bd70"
   },
   {
-    "addon_id": 266515,
-    "slug": "industrial-foregoing",
-    "name": "Industrial Foregoing",
-    "strategy": "beta",
-    "new_version": "industrial-foregoing-1.15.2-2.2.2-28d4a81",
-    "md5": "2f4b83420acfe77e64a72fd4ea60354f"
-  },
-  {
     "addon_id": 243707,
     "slug": "corail-tombstone",
     "name": "Corail Tombstone",
     "strategy": "beta",
-    "new_version": "Corail Tombstone 4.3.5 for 1.15.2",
-    "md5": "6dce6187206240c6af604ca67bc419bc"
+    "new_version": "Corail Tombstone 4.4.0 for 1.15.2",
+    "md5": "80f547c3e4f150813891bdbbe38f3297",
+    "file_id": 2972200
   },
   {
     "addon_id": 220318,
     "slug": "biomes-o-plenty",
     "name": "Biomes O' Plenty",
     "strategy": "beta",
-    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.357",
-    "md5": "63881d723b70ed740806af6ebb710fed"
+    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.365",
+    "md5": "847c47b02077667e0da6c539a59d207d",
+    "file_id": 2969957
   },
   {
     "addon_id": 243076,
     "slug": "refined-storage",
     "name": "Refined Storage",
     "strategy": "beta",
-    "new_version": "Refined Storage 1.8.3",
-    "md5": "cf2ed5a957c644f5712c71efb0702d32"
+    "new_version": "Refined Storage 1.8.4",
+    "md5": "17f1a4d24cc4934fc9d59a590912391f",
+    "file_id": 2966220
   },
   {
     "addon_id": 355591,
@@ -431,34 +436,27 @@
     "slug": "discordrpc",
     "name": "DiscordRichPresence",
     "strategy": "beta",
-    "new_version": "DiscordRichPresence-2.0.3 (MC 1.15)",
-    "md5": "63575f3e85c8a6321fd3272cad6ed223"
-  },
-  {
-    "addon_id": 328085,
-    "slug": "create",
-    "name": "Create",
-    "strategy": "none",
-    "downloadUrl": "https://jenkins.jihuayu.site/job/Create/lastSuccessfulBuild/artifact/build/libs/create-mc1.15.2_v0.2.3-all.jar",
-    "new_version": "Create",
-    "md5": "303973f4128ee4d30f8058c71ca74b3f",
-    "fileName": "Create.jar"
+    "new_version": "DiscordRichPresence-2.0.4 (MC 1.15)",
+    "md5": "e58eea3afa1835530575f361166949ce",
+    "file_id": 2970098
   },
   {
     "addon_id": 239197,
     "slug": "crafttweaker",
     "name": "CraftTweaker",
     "strategy": "beta",
-    "new_version": "CraftTweaker-1.15.2-6.0.0.23",
-    "md5": "0d69b61d243f75e6fd42dcb57636bbe0"
+    "new_version": "CraftTweaker-1.15.2-6.0.0.29",
+    "md5": "d3b82a05f12ccb6929bb8c02923b33ed",
+    "file_id": 2967036
   },
   {
     "addon_id": 368718,
     "slug": "jeitweaker",
     "name": "JEITweaker",
     "strategy": "beta",
-    "new_version": "JEITweaker-1.0.0.",
-    "md5": "5c6f1b818c80bf72ffb037ae7f0a8925"
+    "new_version": "JEITweaker-1.0.1",
+    "md5": "6d2b26fe204eb29484d9b943cd6541f3",
+    "file_id": 2948684
   },
   {
     "addon_id": 359516,
@@ -469,27 +467,66 @@
     "md5": "ef8b12bf4279cd110589616cb40f7a27"
   },
   {
-    "addon_id": 224712,
-    "slug": "wawla",
-    "name": "Wawla - What Are We Looking At",
-    "strategy": "alpha",
-    "new_version": "WAWLA-1.15.2-3.0.2",
-    "file_id": 2944889,
-    "md5": "b0a6ce6fcf3437d5c013c2230285cf57"
-  },
-  {
     "addon_id": 381605,
     "slug": "drawers-tooltip",
     "name": "Drawers Tooltip",
-    "strategy": "beta"
+    "strategy": "beta",
+    "new_version": "DrawersTooltip-1.15.2-1.0.1",
+    "file_id": 2951107,
+    "md5": "537ca944db6ef48dfbc98210fa642822"
   },
   {
     "addon_id": 228525,
     "slug": "bookshelf",
     "name": "Bookshelf",
     "strategy": "beta",
-    "new_version": "Bookshelf-1.15.2-5.5.33",
-    "file_id": 2939640,
-    "md5": "02504f84a1ca128baf592516995ce1eb"
+    "new_version": "Bookshelf-1.15.2-5.6.40",
+    "file_id": 2965233,
+    "md5": "fff093f7cef52838c8773b86a47094b5"
+  },
+  {
+    "addon_id": 338997,
+    "slug": "sisser",
+    "name": "Sisser",
+    "strategy": "beta",
+    "new_version": "Sisser V1.3",
+    "file_id": 2859703,
+    "md5": "8b8c2d3159a7ce521bb055d532446f39"
+  },
+  {
+    "addon_id": 383880,
+    "slug": "wandering-trader-improvements",
+    "name": "Wandering Trader Improvements",
+    "strategy": "beta",
+    "new_version": "wt_improvements-1.15.2-1.0.0.0",
+    "file_id": 2958735,
+    "md5": "11535b4b1a0a136d891899b5d7999dfd"
+  },
+  {
+    "addon_id": 383503,
+    "slug": "graffiti",
+    "name": "Graffiti",
+    "strategy": "beta",
+    "new_version": "graffiti-1.2.1",
+    "file_id": 2968978,
+    "md5": "9b5724b8c80ca0f151dd5622e212f3ef"
+  },
+  {
+    "addon_id": 328085,
+    "slug": "create",
+    "name": "Create",
+    "strategy": "beta",
+    "new_version": "create-mc1.15.2_v0.2.4",
+    "file_id": 2974919,
+    "md5": "6ab98424c54a9bbe4e8af939920b686e"
+  },
+  {
+    "addon_id": 324717,
+    "slug": "jade",
+    "name": "🔍 Jade",
+    "strategy": "beta",
+    "new_version": "Jade-1.15.2-1.1.1",
+    "file_id": 2955520,
+    "md5": "0f4fd4078fa4b7cd4951c5571eed00a2"
   }
 ]

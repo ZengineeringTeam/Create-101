@@ -17,13 +17,7 @@
             }
         },
 	"result": {
-		"item": "create:saw",
+		"item": "create:mechanical_saw",
 		"count": 1
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+	}
 }

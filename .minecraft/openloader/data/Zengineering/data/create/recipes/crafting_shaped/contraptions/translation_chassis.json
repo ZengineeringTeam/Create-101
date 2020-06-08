@@ -14,13 +14,7 @@
             }
         },
 	"result": {
-		"item": "create:translation_chassis",
+		"item": "create:linear_chassis",
 		"count": 3
-	},
-	"conditions": [
-		{
-			"type": "create:module",
-			"module": "contraptions"
-		}
-	]
+	}
 }
