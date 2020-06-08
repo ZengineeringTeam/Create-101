@@ -93,3 +93,4 @@
 	#Chance to loot a Lost Tablet by fishing [0..1000|default:100]
 	#Range: 0 ~ 1000
 	chance_loot_lost_tablet = 100
+

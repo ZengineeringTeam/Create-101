@@ -1,0 +1,11 @@
+{
+"block.quark.black_crystal.tip": "Coal/Quartz Indicator",
+"block.quark.violet_crystal.tip": "Copper Indicator",
+"block.quark.white_crystal.tip": "Diamond Indicator",
+"block.quark.green_crystal.tip": "Emerald Indicator",
+"block.quark.yellow_crystal.tip": "Gold Indicator",
+"block.quark.orange_crystal.tip": "Iron Indicator",
+"block.quark.indigo_crystal.tip": "Lapis Indicator",
+"block.quark.red_crystal.tip": "Redstone Indicator",
+"block.quark.blue_crystal.tip": "Zinc Indicator"
+}
