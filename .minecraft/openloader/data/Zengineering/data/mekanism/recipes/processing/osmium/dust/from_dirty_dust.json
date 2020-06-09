@@ -1,1 +1,7 @@
-{"type":"mekanism:enriching","input":{"ingredient":{"tag":"mekanism:dirty_dusts/osmium"}},"output":{"item":"mekanism:dust_osmium"}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

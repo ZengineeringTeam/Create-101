@@ -1,1 +1,7 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:ultimate_logistical_transporter","count":8},"pattern":["PPP","PAP","PPP"],"key":{"P":{"item":"mekanism:elite_logistical_transporter"},"A":{"tag":"mekanism:alloys/atomic"}}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

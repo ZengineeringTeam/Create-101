@@ -412,7 +412,7 @@
 	"Underground Clay" = false
 	"Slime Underground Biome" = false
 	"Spider Nest Underground Biome" = true
-	Crevices = true
+	Crevices = false
 	"Monster Box" = true
 	"Nether Obsidian Spikes" = true
 	"Mega Caves" = false

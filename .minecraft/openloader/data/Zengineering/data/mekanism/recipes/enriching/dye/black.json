@@ -1,1 +1,7 @@
-{"type":"mekanism:enriching","input":{"ingredient":{"item":"minecraft:wither_rose"}},"output":{"item":"minecraft:black_dye","count":2}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

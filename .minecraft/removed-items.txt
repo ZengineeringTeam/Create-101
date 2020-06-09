@@ -19,3 +19,9 @@ refinedstorage:quartz_enriched_iron_block
 mekanism:ingot_copper
 mekanism:nugget_copper
 mekanism:copper_ore
+mekanism:basic_logistical_transporter
+mekanism:advanced_logistical_transporter
+mekanism:elite_logistical_transporter
+mekanism:ultimate_logistical_transporter
+mekanism:diversion_transporter
+mekanism:restrictive_transporter

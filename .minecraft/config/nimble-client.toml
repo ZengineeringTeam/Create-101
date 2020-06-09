@@ -1,6 +1,6 @@
 enable = true
 nimbleMounting = true
-nimbleElytra = true
+nimbleElytra = false
 elytraRollScreen = true
 #Range: 0 ~ 1000
 elytraTickDelay = 10

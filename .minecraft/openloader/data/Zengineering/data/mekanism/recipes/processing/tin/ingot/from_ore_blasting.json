@@ -1,1 +1,7 @@
-{"type":"minecraft:blasting","result":"mekanism:ingot_tin","ingredient":{"tag":"forge:ores/tin"},"cookingtime":100,"experience":1.0}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

@@ -1,1 +1,7 @@
-{"type":"mekanism:crushing","input":{"ingredient":{"tag":"forge:ingots/tin"}},"output":{"item":"mekanism:dust_tin"}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

@@ -1,1 +1,7 @@
-{"type":"mekanism:washing","fluidInput":{"amount":5,"tag":"minecraft:water"},"gasInput":{"amount":1,"gas":"mekanism:dirty_osmium_slurry"},"output":{"gas":"mekanism:clean_osmium_slurry","amount":1}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

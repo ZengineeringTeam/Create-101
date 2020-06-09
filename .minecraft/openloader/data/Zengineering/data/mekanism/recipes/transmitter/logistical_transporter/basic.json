@@ -1,1 +1,7 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:basic_logistical_transporter","count":8},"pattern":["S#S"],"key":{"S":{"tag":"forge:ingots/steel"},"#":{"tag":"forge:circuits/basic"}}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

@@ -1,1 +1,7 @@
-{"type":"mekanism:dissolution","itemInput":{"ingredient":{"tag":"forge:ores/osmium"}},"gasInput":{"amount":1,"gas":"mekanism:sulfuric_acid"},"output":{"gas":"mekanism:dirty_osmium_slurry","amount":1000}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

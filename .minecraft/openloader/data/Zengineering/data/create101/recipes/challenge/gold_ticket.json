@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "draweringredient:standard",
+      "content": {
+        "item": "create:brass_sheet"
+      },
+      "amount": 512
+		},
+		{
+			"type": "draweringredient:standard",
+      "content": {
+        "item": "minecraft:slime_ball"
+      },
+      "amount": 512
+		}
+	],
+	"result": {
+		"item": "refinedstorage:raw_improved_processor"
+	}
+}

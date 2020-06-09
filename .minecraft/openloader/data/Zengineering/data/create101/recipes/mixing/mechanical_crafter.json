@@ -5,16 +5,7 @@
       "item": "create:cogwheel"
     },
     {
-      "item": "create:brass_casing"
-    },
-    {
-      "item": "create:brass_sheet"
-    },
-    {
-      "item": "create:brass_sheet"
-    },
-    {
-      "item": "create:electron_tube"
+      "item": "create:andesite_casing"
     },
     {
       "item": "create:electron_tube"
@@ -27,7 +18,7 @@
   "results": [
     {
       "item": "create:mechanical_crafter",
-      "count": 3
+      "count": 1
     }
   ]
 }

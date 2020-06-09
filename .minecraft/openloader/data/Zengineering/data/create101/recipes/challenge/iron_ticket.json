@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "draweringredient:standard",
+      "content": {
+        "item": "create:iron_sheet"
+      },
+      "amount": 512
+		}
+	],
+	"result": {
+		"item": "refinedstorage:raw_basic_processor"
+	}
+}

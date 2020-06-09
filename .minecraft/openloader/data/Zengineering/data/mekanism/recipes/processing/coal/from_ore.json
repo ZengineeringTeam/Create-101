@@ -1,1 +1,7 @@
-{"type":"mekanism:enriching","input":{"ingredient":{"tag":"forge:ores/coal"}},"output":{"item":"minecraft:coal","count":2}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

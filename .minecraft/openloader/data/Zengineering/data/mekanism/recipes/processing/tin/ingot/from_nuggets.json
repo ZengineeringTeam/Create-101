@@ -1,1 +1,7 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:ingot_tin"},"pattern":["###","###","###"],"key":{"#":{"tag":"forge:nuggets/tin"}}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

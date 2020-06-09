@@ -1,1 +1,7 @@
-{"type":"mekanism:enriching","input":{"ingredient":{"tag":"forge:ores/diamond"}},"output":{"item":"minecraft:diamond","count":2}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

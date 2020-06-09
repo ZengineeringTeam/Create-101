@@ -1,1 +1,12 @@
-{"type":"mekanism:enriching","input":{"ingredient":{"tag":"forge:gravel"}},"output":{"item":"minecraft:cobblestone"}}
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "tag": "forge:gravel"
+    },
+    "amount": 2
+  },
+  "output": {
+    "item": "minecraft:cobblestone"
+  }
+}

@@ -1,16 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "EEE",
-    "ESE",
-    "EEE"
+    "UUU",
+    "UMU",
+    "UUU"
   ],
   "key": {
-    "E": {
-      "tag": "forge:plates/iron"
+    "M": {
+      "item": "mekanism:basic_control_circuit"
     },
-    "S": {
-      "tag": "forge:stone"
+    "U": {
+      "tag": "forge:plates/iron"
     }
   },
   "result": {
