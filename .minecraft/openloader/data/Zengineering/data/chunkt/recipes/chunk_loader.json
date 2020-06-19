@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "chunkt:chunk_loader"
+  },
+  "pattern": [
+    "iii",
+    "idi",
+    "iii"
+  ],
+  "type": "crafting_shaped",
+  "key": {
+    "d": {
+      "item": "minecraft:diamond_block"
+    },
+    "i": {
+      "item": "create:iron_sheet"
+    }
+  }
+}

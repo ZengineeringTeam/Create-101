@@ -1,0 +1,9 @@
+{
+  "type": "interactio:block_explode",
+  "input": {
+    "block": "blue_concrete"
+  },
+  "output": {
+    "item": "lapis_lazuli"
+  }
+}

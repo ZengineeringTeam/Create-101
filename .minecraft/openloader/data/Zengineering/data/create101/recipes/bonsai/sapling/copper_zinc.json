@@ -1,0 +1,27 @@
+{
+  "type": "bonsaitrees2:sapling",
+  "mod": "minecraft",
+
+  "sapling": {
+    "item": "refinedstorage:raw_basic_processor"
+  },
+
+  "drops": [
+    {
+      "result": {
+        "item": "create:copper_ore"
+      },
+      "rolls": 2,
+      "chance": 0.5
+    },
+    {
+      "result": {
+        "item": "create:zinc_ore"
+      },
+      "rolls": 2,
+      "chance": 0.5
+    }
+  ],
+
+  "compatibleSoilTags": ["stone"]
+}

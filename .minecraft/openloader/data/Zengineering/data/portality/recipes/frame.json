@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "PPPP",
+    "PSSP",
+    "PSSP",
+    "PPPP"
+  ],
+  "key": {
+    "P": {
+      "item": "create:chromatic_compound"
+    },
+    "S": {
+      "item": "refinedstorage:machine_casing"
+    }
+  },
+  "result": {
+    "item": "portality:frame",
+    "count": 1
+  }
+}

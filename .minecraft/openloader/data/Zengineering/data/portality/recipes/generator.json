@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "portality:generator"
+  },
+  "pattern": [
+    "fff",
+    "fqf",
+    "fdf"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "f": {
+      "item": "portality:frame"
+    },
+    "d": {
+      "item": "minecraft:iron_block"
+    },
+    "q": {
+      "item": "minecraft:blast_furnace"
+    }
+  }
+}

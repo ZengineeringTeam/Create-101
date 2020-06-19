@@ -1,5 +1,5 @@
 {
-"block.quark.black_crystal.tip": "煤/石英矿标识",
+"block.quark.black_crystal.tip": "煤矿标识",
 "block.quark.violet_crystal.tip": "铜矿标识",
 "block.quark.white_crystal.tip": "钻石矿标识",
 "block.quark.green_crystal.tip": "绿宝石矿标识",
@@ -11,5 +11,6 @@
 
 "item.refinedstorage.raw_basic_processor": "铁票据",
 "item.refinedstorage.raw_improved_processor": "金票据",
-"item.refinedstorage.raw_advanced_processor": "闪耀的票据"
+"item.refinedstorage.raw_advanced_processor": "闪耀的票据",
+"item.refinedstorage.processor_binding": "黏稠的票据"
 }

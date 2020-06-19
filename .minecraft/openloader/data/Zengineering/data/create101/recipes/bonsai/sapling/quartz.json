@@ -1,0 +1,20 @@
+{
+  "type": "bonsaitrees2:sapling",
+  "mod": "minecraft",
+
+  "sapling": {
+    "item": "minecraft:nether_quartz_ore"
+  },
+
+  "drops": [
+    {
+      "result": {
+        "item": "minecraft:nether_quartz_ore"
+      },
+      "rolls": 1,
+      "chance": 1
+    }
+  ],
+
+  "compatibleSoilTags": ["stone"]
+}

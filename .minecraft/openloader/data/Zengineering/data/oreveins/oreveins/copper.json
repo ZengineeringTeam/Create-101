@@ -7,12 +7,12 @@
   "vertical_size":40,
   "horizontal_size":40,
   "density":500,
-  "rarity":150,
+  "rarity":250,
   "indicator":{
     "blocks":"quark:violet_crystal",
     "replace_surface":true,
     "ignore_liquids":true,
-    "rarity":120,
+    "rarity":200,
     "max_depth":80
     }
 }

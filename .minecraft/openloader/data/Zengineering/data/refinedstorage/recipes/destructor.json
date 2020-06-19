@@ -7,7 +7,7 @@
   ],
   "key": {
     "E": {
-      "tag": "forge:plates/iron"
+      "item": "create:chromatic_compound"
     },
     "D": {
       "item": "refinedstorage:destruction_core"

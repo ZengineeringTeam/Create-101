@@ -6,25 +6,34 @@
 .minecraft/build
 .minecraft/coremods
 .minecraft/crash-reports
-.minecraft/defaultconfigs
-.minecraft/icon.png
 .minecraft/journeymap/data
 .minecraft/journeymap/icon
 .minecraft/journeymap/journeymap.log
 .minecraft/journeymap/server
+.minecraft/local
 .minecraft/logs
+.minecraft/modpack-includes
 .minecraft/modpack-mods.json
 .minecraft/modpack-project.json
 .minecraft/modpack_includes
+.minecraft/mods
 .minecraft/package-lock.json
 .minecraft/package.json
+.minecraft/patchouli_books
 .minecraft/patchouli_data.json
 .minecraft/realms_persistence.json
 .minecraft/reauth.toml
 .minecraft/remove-recipe-example.json
 .minecraft/removed-items.txt
 .minecraft/resourcepacks
-.minecraft/saves
+.minecraft/saves/新的世界
+.minecraft/saves/新的世界 (1)
+.minecraft/saves/新的世界 (2)
+.minecraft/saves/新的世界 (3)
+.minecraft/saves/新的世界 (4)
+.minecraft/saves/新的世界 (5)
+.minecraft/saves/新的世界 (6)
+.minecraft/saves/新的世界 (7)
 .minecraft/schematics
 .minecraft/screenshots
 .minecraft/server-resource-packs
@@ -34,3 +43,4 @@
 .minecraft/usernamecache.json
 .packignore
 README.md
+正方形800x.png

@@ -1,9 +1,0 @@
-hiddenTabs = []
-#Range: 1 ~ 4
-itemsPerRow = 4
-enchantsBlacklist = ["flimflam", "soulBound", "vanishing_curse"]
-showDevData = false
-dimensionsBlacklist = [-11]
-diyData = true
-#Range: 1 ~ 4
-itemsPerColumn = 4

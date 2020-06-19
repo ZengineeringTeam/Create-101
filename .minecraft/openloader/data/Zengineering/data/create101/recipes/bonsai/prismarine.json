@@ -1,0 +1,16 @@
+{
+  "type": "bonsaitrees2:soil",
+  "mod": "minecraft",
+
+  "soil": {
+    "item": "minecraft:prismarine"
+  },
+
+  "display": {
+    "block": "minecraft:prismarine"
+  },
+
+  "tickModifier": 0.7,
+
+  "compatibleSoilTags": ["stone"]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "create101:bonsai/sapling/copper_zinc",
+  "version": 3,
+  "ref": {
+    "a": {
+      "block": "create:copper_ore"
+    },
+    "b": {
+      "block": "create:zinc_ore"
+    }
+  },
+  "shape": [
+    [
+      "ab",
+      "  "
+    ]
+  ]
+}

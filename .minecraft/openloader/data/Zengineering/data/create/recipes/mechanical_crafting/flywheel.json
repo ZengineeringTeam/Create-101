@@ -2,9 +2,9 @@
     "type": "create:mechanical_crafting",
         "pattern": [
 			" PPP ",
-			"PSBSP",
-			"PBCBP",
-			"PSBSP",
+			"PSPSP",
+			"PPCPP",
+			"PSPSP",
 			" PPP "
         ],
         "key": {
@@ -16,9 +16,6 @@
             },
 			"C": {
                 "item": "create:brass_casing"
-            },
-			"B": {
-                "tag": "forge:ingots/brass"
             }
         },
 	"result": {

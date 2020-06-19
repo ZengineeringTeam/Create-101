@@ -1,0 +1,15 @@
+{
+  "type": "create101:bonsai/sapling/emerald",
+  "version": 3,
+  "ref": {
+    "a": {
+      "block": "minecraft:emerald_ore"
+    }
+  },
+  "shape": [
+    [
+      "a",
+      " "
+    ]
+  ]
+}

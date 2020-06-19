@@ -2,10 +2,6 @@
     "type": "create:mixing",
     "ingredients": [
 		{
-    		"tag": "forge:dusts/glowstone",
-			"count": 3
-    	},
-		{
     		"item": "create:polished_rose_quartz"
     	},
 		{
@@ -13,10 +9,9 @@
 			"count": 3
 		},
 		{
-			"item": "minecraft:dragon_breath",
-			"return_chance": 0.94
+			"item": "fruittrees:grapefruit"
 		}
-    ], 
+    ],
 	"results": [
 		{
 			"item": "create:chromatic_compound",

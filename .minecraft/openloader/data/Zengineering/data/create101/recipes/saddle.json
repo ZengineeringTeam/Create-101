@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "leather"
+    },
+    "X": {
+      "item": "iron_ingot"
+    }
+  },
+  "result": {
+    "item": "saddle"
+  }
+}

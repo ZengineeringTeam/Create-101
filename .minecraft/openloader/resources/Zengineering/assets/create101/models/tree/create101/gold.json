@@ -1,0 +1,15 @@
+{
+  "type": "create101:bonsai/sapling/gold",
+  "version": 3,
+  "ref": {
+    "a": {
+      "block": "minecraft:gold_ore"
+    }
+  },
+  "shape": [
+    [
+      "a",
+      " "
+    ]
+  ]
+}

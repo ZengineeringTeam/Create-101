@@ -1,16 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "EPE",
+    "EEE",
     "EGE",
     "EAE"
   ],
   "key": {
     "E": {
-      "tag": "forge:plates/iron"
-    },
-    "P": {
-      "tag": "forge:ender_pearls"
+      "item": "create:shadow_steel"
     },
     "G": {
       "item": "refinedstorage:fluid_grid"

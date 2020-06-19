@@ -1,0 +1,20 @@
+{
+  "type": "bonsaitrees2:sapling",
+  "mod": "minecraft",
+
+  "sapling": {
+    "item": "minecraft:redstone_ore"
+  },
+
+  "drops": [
+    {
+      "result": {
+        "item": "minecraft:redstone_ore"
+      },
+      "rolls": 2,
+      "chance": 0.5
+    }
+  ],
+
+  "compatibleSoilTags": ["stone"]
+}

@@ -1,9 +1,9 @@
 {
     "type": "create:mechanical_crafting",
         "pattern": [
-			"PPB",
+			"PPP",
 			"DCA",
-			"PPB"
+			"PPP"
         ],
         "key": {
 			"P": {
@@ -17,9 +17,6 @@
             },
 			"C": {
                 "item": "create:brass_casing"
-            },
-			"B": {
-                "tag": "forge:ingots/brass"
             }
         },
 	"result": {

@@ -1,0 +1,15 @@
+{
+  "type": "create101:bonsai/sapling/redstone",
+  "version": 3,
+  "ref": {
+    "a": {
+      "block": "minecraft:redstone_ore"
+    }
+  },
+  "shape": [
+    [
+      "a",
+      " "
+    ]
+  ]
+}

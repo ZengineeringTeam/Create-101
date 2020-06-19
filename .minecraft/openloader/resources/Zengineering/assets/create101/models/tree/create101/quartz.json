@@ -1,0 +1,15 @@
+{
+  "type": "create101:bonsai/sapling/quartz",
+  "version": 3,
+  "ref": {
+    "a": {
+      "block": "minecraft:nether_quartz_ore"
+    }
+  },
+  "shape": [
+    [
+      "a",
+      " "
+    ]
+  ]
+}

@@ -1,17 +1,7 @@
 {
-    "type": "create:mixing",
-    "ingredients": [
-    	{
-    		"item": "minecraft:andesite"
-    	},
+	"conditions": [
 		{
-    		"tag": "forge:nuggets/iron"
-    	}
-    ], 
-	"results": [
-		{
-			"item": "iron_ingot",
-			"count": 1
+			"type": "forge:false"
 		}
 	]
 }

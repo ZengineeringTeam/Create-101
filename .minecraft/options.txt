@@ -21,7 +21,7 @@ toggleSprint:false
 mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
-renderDistance:15
+renderDistance:8
 guiScale:0
 particles:0
 maxFps:260
@@ -32,7 +32,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:[]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:www.rtlmc.xyz:11451
 lang:zh_cn
 chatVisibility:0
 chatOpacity:1.0
@@ -91,6 +91,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.ftbchunks.map:key.keyboard.m
 key_key.dismount:key.keyboard.left.shift
 key_key.narrator:key.keyboard.b:CONTROL
 key_tombstone.message.knowledge_of_death:key.keyboard.unknown
@@ -104,19 +105,19 @@ key_key.mekanism.description:key.keyboard.n:SHIFT
 key_keybind.everpotion.use:key.keyboard.r
 key_dropoff:key.keyboard.unknown
 key_dropoff:key.keyboard.unknown
+key_nimble.keybind.frontView:key.keyboard.f4
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_quark.keybind.back:key.mouse.4
 key_key.toastcontrol.clear:key.keyboard.unknown
-key_nimble.keybind.frontView:key.keyboard.f4
-key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
-key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
 key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.camera_mode:key.keyboard.f12
+key_quark.keybind.transfer_insert:key.keyboard.unknown
+key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -135,6 +136,7 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_quark.keybind.change_hotbar:key.keyboard.z
 key_jecalculation.key.gui_craft:key.keyboard.unknown
 key_jecalculation.key.gui_math:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
@@ -144,7 +146,6 @@ key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
 key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.unknown
@@ -172,7 +173,7 @@ key_key.journeymap.fullscreen.north:key.keyboard.up
 key_key.journeymap.fullscreen.south:key.keyboard.down
 key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

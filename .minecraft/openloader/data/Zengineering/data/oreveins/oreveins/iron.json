@@ -12,7 +12,7 @@
     "blocks":"quark:orange_crystal",
     "replace_surface":true,
     "ignore_liquids":true,
-    "rarity":120,
+    "rarity":200,
     "max_depth":80
     }
 }

@@ -103,9 +103,9 @@
     "slug": "interactio",
     "name": "Interactio - In-World Crafting with Datapacks!",
     "strategy": "beta",
-    "new_version": "Interactio-1.15.2-2.0.2",
-    "md5": "430914b27738508036a060af6646f93a",
-    "file_id": 2948034
+    "new_version": "Interactio-1.15.2-2.0.3",
+    "md5": "6ffa6c5942a7fdb0a4c4e659a7659fcf",
+    "file_id": 2976074
   },
   {
     "addon_id": 288885,
@@ -120,27 +120,18 @@
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "new_version": "Mekanism-1.15.2-9.10.7.420",
-    "md5": "09dc1a2bbc4f21921d2c74ab4c53d0dd",
-    "file_id": 2967618
+    "new_version": "Mekanism-1.15.2-9.10.8.421",
+    "md5": "823c3fa7e884d73e554251b4edda7638",
+    "file_id": 2981858
   },
   {
     "addon_id": 268566,
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "new_version": "MekanismGenerators-1.15.2-9.10.7.420",
-    "md5": "50fb0849b5384380129369d7231d6d0a",
-    "file_id": 2967620
-  },
-  {
-    "addon_id": 268567,
-    "slug": "mekanism-tools",
-    "name": "Mekanism Tools",
-    "strategy": "beta",
-    "new_version": "MekanismTools-1.15.2-9.10.7.420",
-    "md5": "0810a94e0f8475998c0fb3fe1d712030",
-    "file_id": 2967621
+    "new_version": "MekanismGenerators-1.15.2-9.10.8.421",
+    "md5": "b606c44089cd47cc05d1e79772a5481a",
+    "file_id": 2981860
   },
   {
     "addon_id": 242223,
@@ -179,9 +170,9 @@
     "slug": "quark",
     "name": "Quark",
     "strategy": "beta",
-    "new_version": "Quark-r2.1-243",
-    "md5": "2ca04186cda567a9b71e1753245ae742",
-    "file_id": 2973684
+    "new_version": "Quark-r2.1-245",
+    "md5": "25226ee071db655177ecd165f3f5d722",
+    "file_id": 2980651
   },
   {
     "addon_id": 301051,
@@ -254,9 +245,9 @@
     "slug": "titanium",
     "name": "Titanium",
     "strategy": "beta",
-    "new_version": "titanium-1.15.2-2.4.1",
-    "md5": "9d672c72e08313e84e5e09b56ee32c65",
-    "file_id": 2963854
+    "new_version": "titanium-1.15.2-2.4.2",
+    "md5": "670e893e75e7d7d9a1aa35820d643c26",
+    "file_id": 2980252
   },
   {
     "addon_id": 318255,
@@ -296,8 +287,9 @@
     "slug": "journeymap",
     "name": "JourneyMap",
     "strategy": "beta",
-    "new_version": "journeymap-1.15.2-5.7.0b2",
-    "md5": "87f59fb4dce5a9a7c83251e6a2c59295"
+    "new_version": "journeymap-1.15.2-5.7.0b3",
+    "md5": "856568098ad0749eba62e15734e5be77",
+    "file_id": 2981594
   },
   {
     "addon_id": 223852,
@@ -317,28 +309,12 @@
     "file_id": 2957023
   },
   {
-    "addon_id": 251767,
-    "slug": "waddles",
-    "name": "Waddles",
-    "strategy": "beta",
-    "new_version": "Waddles-1.15.2-0.8.6",
-    "md5": "ce3fa5905d35ec5d9033f730552775e5"
-  },
-  {
     "addon_id": 291493,
     "slug": "portality",
     "name": "Portality",
     "strategy": "beta",
     "new_version": "portality-1.15.2-2.1.2-aaa257f",
     "md5": "68c9eadac786c5747bb5977402316d50"
-  },
-  {
-    "addon_id": 306770,
-    "slug": "patchouli",
-    "name": "Patchouli",
-    "strategy": "beta",
-    "new_version": "Patchouli-1.15.2-1.2-33",
-    "md5": "de343d9c3f7d02e4dcb4217e1a13bebf"
   },
   {
     "addon_id": 241160,
@@ -353,25 +329,27 @@
     "slug": "nimble",
     "name": "Nimble",
     "strategy": "beta",
-    "new_version": "Nimble-1.15.2-0.2.0",
-    "md5": "a3250052101b12f2c5956152253c394e"
+    "new_version": "Nimble-1.15.2-0.2.1",
+    "md5": "a0d07d2e6e2e5ed3512785bead71eb5a",
+    "file_id": 2981482
   },
   {
     "addon_id": 372196,
     "slug": "optiforge",
     "name": "OptiForge",
     "strategy": "beta",
-    "new_version": "OptiForge-MC1.15.2-0.1.21",
-    "md5": "b040cf3df88463d9bed421e60426e87b",
-    "file_id": 2973817
+    "new_version": "OptiForge-MC1.15.2-0.1.24",
+    "md5": "a4b6687c224d374a7b85dbb5cd501789",
+    "file_id": 2982100
   },
   {
     "addon_id": 285612,
     "slug": "randompatches",
     "name": "RandomPatches",
     "strategy": "beta",
-    "new_version": "RandomPatches 1.15.2-1.21.1.2",
-    "md5": "c6caab6159551c5b92c30a01b06593f2"
+    "new_version": "RandomPatches 1.15.2-1.21.1.5",
+    "md5": "41184c388e38c8548fb3ef14744517ff",
+    "file_id": 2976781
   },
   {
     "addon_id": 357178,
@@ -394,9 +372,9 @@
     "slug": "corail-tombstone",
     "name": "Corail Tombstone",
     "strategy": "beta",
-    "new_version": "Corail Tombstone 4.4.0 for 1.15.2",
-    "md5": "80f547c3e4f150813891bdbbe38f3297",
-    "file_id": 2972200
+    "new_version": "Corail Tombstone 4.4.1 for 1.15.2",
+    "md5": "0f84a9bd30ee0f809b40ecc4cc2614db",
+    "file_id": 2980320
   },
   {
     "addon_id": 220318,
@@ -412,9 +390,9 @@
     "slug": "refined-storage",
     "name": "Refined Storage",
     "strategy": "beta",
-    "new_version": "Refined Storage 1.8.4",
-    "md5": "17f1a4d24cc4934fc9d59a590912391f",
-    "file_id": 2966220
+    "new_version": "Refined Storage 1.8.5",
+    "md5": "ebcf41483bc3f174ceb0bc51ec6cdf2e",
+    "file_id": 2982967
   },
   {
     "addon_id": 355591,
@@ -442,39 +420,22 @@
     "file_id": 2970098
   },
   {
-    "addon_id": 239197,
-    "slug": "crafttweaker",
-    "name": "CraftTweaker",
-    "strategy": "beta",
-    "new_version": "CraftTweaker-1.15.2-6.0.0.29",
-    "md5": "d3b82a05f12ccb6929bb8c02923b33ed",
-    "file_id": 2967036
-  },
-  {
-    "addon_id": 368718,
-    "slug": "jeitweaker",
-    "name": "JEITweaker",
-    "strategy": "beta",
-    "new_version": "JEITweaker-1.0.1",
-    "md5": "6d2b26fe204eb29484d9b943cd6541f3",
-    "file_id": 2948684
-  },
-  {
     "addon_id": 359516,
     "slug": "better-bedrock-generator",
     "name": "Better Bedrock Generator",
     "strategy": "beta",
-    "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.0.6",
-    "md5": "ef8b12bf4279cd110589616cb40f7a27"
+    "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.0.7",
+    "md5": "fead66bf1754ae2ebe21202b16d6097c",
+    "file_id": 2978369
   },
   {
     "addon_id": 381605,
     "slug": "drawers-tooltip",
     "name": "Drawers Tooltip",
     "strategy": "beta",
-    "new_version": "DrawersTooltip-1.15.2-1.0.1",
-    "file_id": 2951107,
-    "md5": "537ca944db6ef48dfbc98210fa642822"
+    "new_version": "DrawersTooltip-1.15.2-1.0.2",
+    "file_id": 2981480,
+    "md5": "18d80bec47225cc0ebaf13d0b2f055cf"
   },
   {
     "addon_id": 228525,
@@ -517,17 +478,71 @@
     "slug": "create",
     "name": "Create",
     "strategy": "beta",
-    "new_version": "create-mc1.15.2_v0.2.4",
-    "file_id": 2974919,
-    "md5": "6ab98424c54a9bbe4e8af939920b686e"
+    "new_version": "Create - mc1.15.2_v0.2.4d",
+    "file_id": 2979593,
+    "md5": "6dc4af734d262183bee2589fb27921a9"
   },
   {
     "addon_id": 324717,
     "slug": "jade",
     "name": "🔍 Jade",
     "strategy": "beta",
-    "new_version": "Jade-1.15.2-1.1.1",
-    "file_id": 2955520,
-    "md5": "0f4fd4078fa4b7cd4951c5571eed00a2"
+    "new_version": "Jade-1.15.2-1.1.2",
+    "file_id": 2982828,
+    "md5": "eefce2beccae878a73cae655b7e6c2f0"
+  },
+  {
+    "addon_id": 348424,
+    "slug": "simply-trophies",
+    "name": "Simply Trophies",
+    "strategy": "beta",
+    "new_version": "simply_trophies-2.0-1.15.2",
+    "file_id": 2942715,
+    "md5": "8ea3ea3bd81b5d7b0281246a1c37eef1"
+  },
+  {
+    "addon_id": 278993,
+    "slug": "bonsai-trees",
+    "name": "Bonsai Trees 2",
+    "strategy": "beta",
+    "new_version": "BonsaiTrees-2.1.2.6",
+    "file_id": 2873657,
+    "md5": "0f2870904797b4efe50b358448dc1782"
+  },
+  {
+    "addon_id": 357557,
+    "slug": "libnonymous",
+    "name": "Libnonymous",
+    "strategy": "beta",
+    "new_version": "libnonymous-1.15.2-1.1.1.5",
+    "file_id": 2873656,
+    "md5": "8e497b222fa25fe0b04418fe7c050b18"
+  },
+  {
+    "addon_id": 238086,
+    "slug": "kubejs",
+    "name": "KubeJS",
+    "strategy": "beta",
+    "new_version": "kubejs-2.6.1.34",
+    "file_id": 2953148,
+    "md5": "b95398a7856fe768cc0cdcc807cda9ee"
+  },
+  {
+    "addon_id": 276951,
+    "slug": "comforts",
+    "name": "Comforts",
+    "strategy": "beta",
+    "new_version": "comforts-FORGE-1.15.2-2.0.0.3",
+    "file_id": 2980590,
+    "md5": "a393752bacc0731c5f87c1d092fc0649"
+  },
+  {
+    "addon_id": 261461,
+    "slug": "miningtweaks",
+    "name": "MiningTweaks",
+    "strategy": "beta",
+    "new_version": "miningtweaks-1.0-1.15.2",
+    "file_id": 2895177,
+    "md5": "9c9aa795f4b5ac689b1f12c89e1356be"
   }
 ]

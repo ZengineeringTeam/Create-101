@@ -4,16 +4,11 @@
     	{
     		"item": "minecraft:blaze_rod"
     	}
-    ], 
+    ],
 	"results": [
 		{
 			"item": "minecraft:blaze_powder",
-			"count": 3
-		},
-		{
-			"item": "minecraft:blaze_powder",
-			"count": 3,
-			"chance": 0.25
+			"count": 2
 		}
 	],
 	"processingTime": 100

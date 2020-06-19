@@ -1,0 +1,21 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+		{
+    		"item": "create:polished_rose_quartz"
+    	},
+		{
+			"item": "create:powdered_obsidian",
+			"count": 3
+		},
+		{
+			"item": "minecraft:popped_chorus_fruit"
+		}
+    ],
+	"results": [
+		{
+			"item": "create:chromatic_compound",
+			"count": 1
+		}
+	]
+}

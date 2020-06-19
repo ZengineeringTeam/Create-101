@@ -413,7 +413,7 @@
 	"Slime Underground Biome" = false
 	"Spider Nest Underground Biome" = true
 	Crevices = false
-	"Monster Box" = true
+	"Monster Box" = false
 	"Nether Obsidian Spikes" = true
 	"Mega Caves" = false
 
@@ -673,7 +673,7 @@
 	[world.nether_obsidian_spikes]
 		#The chance for a chunk to contain spikes (1 is 100%, 0 is 0%)
 		"Chance Per Chunk" = 0.1
-		"Big Spike Spawners" = true
+		"Big Spike Spawners" = false
 		#Should a chunk have spikes, how many would the generator try to place
 		"Tries Per Chunk" = 4
 		#The chance for a spike to be big (1 is 100%, 0 is 0%)
@@ -1028,7 +1028,7 @@
 	Crabs = true
 	Stonelings = true
 	Foxhound = true
-	Toretoise = true
+	Toretoise = false
 
 	[mobs.stonelings]
 		"Cautious Stonelings" = true
@@ -1157,7 +1157,7 @@
 [oddities]
 	"Totem Of Holding" = false
 	Backpack = true
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Magnets = false
 	Pipes = false
 
@@ -1251,4 +1251,3 @@
 		#That's a lot to take in, so here's an example. This would be for the default config of the Slime underground biome. (Spaces are allowed.)
 		#minecraft:overworld; false; SWAMP; false; 120; 10..40; 26,14; 14,6; minecraft:water@915, minecraft:slime_block@85; minecraft:green_terracotta@2, minecraft:lime_terracotta@3, minecraft:light_blue_terracotta@1; CEILING; false
 		"Biome Definitions" = []
-
