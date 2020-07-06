@@ -4,8 +4,9 @@
     "slug": "jei",
     "name": "Just Enough Items (JEI)",
     "strategy": "alpha",
-    "new_version": "jei-1.15.2-6.0.0.4",
-    "md5": "473ba25ef73ab3b11ccda473288ed344"
+    "new_version": "jei-1.15.2-6.0.2.12",
+    "md5": "977b1b4aaf021777189c5e08c413d3f1",
+    "file_id": 2988823
   },
   {
     "addon_id": 231275,
@@ -29,17 +30,18 @@
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "new_version": "FruitTrees-1.15.2-1.4.1",
-    "md5": "f41d4db636e3ceff97ff4e60cc4cebbf",
-    "file_id": 2966284
+    "new_version": "FruitTrees-1.15.2-1.5.0",
+    "md5": "1bd2ad32223de16a4e1ba4a17bcbe942",
+    "file_id": 2985939
   },
   {
     "addon_id": 296028,
     "slug": "lighting-wand",
     "name": "🌟 Lighting Wand",
     "strategy": "beta",
-    "new_version": "LightingWand-1.15.2-1.4.2",
-    "md5": "c714dedd39cb067d29228b7a7aa6c2be"
+    "new_version": "LightingWand-1.15.2-1.5.0",
+    "md5": "df33edc0f96fc93f18c449ecb40bc94d",
+    "file_id": 2987745
   },
   {
     "addon_id": 375272,
@@ -94,9 +96,9 @@
     "slug": "everpotion",
     "name": "EverPotion",
     "strategy": "beta",
-    "new_version": "EverPotion-1.15.2-1.1.0",
-    "md5": "33bd81be9f191743f344770726aff63c",
-    "file_id": 2949547
+    "new_version": "EverPotion-1.15.2-1.1.2",
+    "md5": "71394bc5371a8985adb69f833352c04c",
+    "file_id": 2986405
   },
   {
     "addon_id": 359344,
@@ -120,18 +122,18 @@
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "new_version": "Mekanism-1.15.2-9.10.8.421",
-    "md5": "823c3fa7e884d73e554251b4edda7638",
-    "file_id": 2981858
+    "new_version": "Mekanism-1.15.2-9.10.9.422",
+    "md5": "e6aec75ba1de1f4a9a899f2ce4ba7161",
+    "file_id": 2996531
   },
   {
     "addon_id": 268566,
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "new_version": "MekanismGenerators-1.15.2-9.10.8.421",
-    "md5": "b606c44089cd47cc05d1e79772a5481a",
-    "file_id": 2981860
+    "new_version": "MekanismGenerators-1.15.2-9.10.9.422",
+    "md5": "60c43c5d78db16fb2cb86773e4de1bf0",
+    "file_id": 2996533
   },
   {
     "addon_id": 242223,
@@ -195,16 +197,18 @@
     "slug": "appleskin",
     "name": "AppleSkin",
     "strategy": "beta",
-    "new_version": "AppleSkin-mc1.15.2-forge-1.0.13",
-    "md5": "9caaf842ae2dcdea6af45bbb74bf5eb9"
+    "new_version": "AppleSkin-mc1.15.2-forge-1.0.14",
+    "md5": "6aeac8d0074ab0a2372ec2c5f0ad0f69",
+    "file_id": 2987251
   },
   {
     "addon_id": 283644,
     "slug": "placebo",
     "name": "Placebo",
     "strategy": "beta",
-    "new_version": "Placebo-1.15.2-3.0.2",
-    "md5": "b0945f3466e229197cfe9dec8356cde7"
+    "new_version": "Placebo-1.15.2-3.1.0",
+    "md5": "28a95cecf60b9e597b8006b938e43053",
+    "file_id": 2996124
   },
   {
     "addon_id": 271740,
@@ -219,9 +223,9 @@
     "slug": "realistic-ore-veins",
     "name": "Realistic Ore Veins",
     "strategy": "beta",
-    "new_version": "oreveins-forge-1.15.2-5.1.3",
-    "md5": "7c679d3a81890bb039bf42dd9eb8a71e",
-    "file_id": 2966050
+    "new_version": "oreveins-forge-1.15.2-5.1.5",
+    "md5": "71e68a8a30e07f0960b464569b0dc7c5",
+    "file_id": 2994314
   },
   {
     "addon_id": 237701,
@@ -270,17 +274,18 @@
     "slug": "controlling",
     "name": "Controlling",
     "strategy": "beta",
-    "new_version": "Controlling-6.1.4",
-    "md5": "a046c7cd0f14a66fabf65af05cf71449"
+    "new_version": "Controlling-6.1.5.6",
+    "md5": "cd43364a3fda348684189751e3389c16",
+    "file_id": 2994774
   },
   {
     "addon_id": 313970,
     "slug": "apotheosis",
     "name": "Apotheosis",
     "strategy": "beta",
-    "new_version": "Apotheosis-1.15.2-3.1.2",
-    "md5": "e10e90d26d95f40785adda3bfac47653",
-    "file_id": 2958065
+    "new_version": "Apotheosis-1.15.2-3.2.1",
+    "md5": "1006d590f358fd7ed447a9b4da0b750e",
+    "file_id": 2996714
   },
   {
     "addon_id": 32274,
@@ -338,18 +343,18 @@
     "slug": "optiforge",
     "name": "OptiForge",
     "strategy": "beta",
-    "new_version": "OptiForge-MC1.15.2-0.1.24",
-    "md5": "a4b6687c224d374a7b85dbb5cd501789",
-    "file_id": 2982100
+    "new_version": "OptiForge-MC1.15.2-0.1.27",
+    "md5": "2a83b1e026b67fdeb6e454cf0915538d",
+    "file_id": 2989328
   },
   {
     "addon_id": 285612,
     "slug": "randompatches",
     "name": "RandomPatches",
     "strategy": "beta",
-    "new_version": "RandomPatches 1.15.2-1.21.1.5",
-    "md5": "41184c388e38c8548fb3ef14744517ff",
-    "file_id": 2976781
+    "new_version": "RandomPatches 1.15.2-1.22.0.0",
+    "md5": "94765e1d084d7f25418552eb9b157b9f",
+    "file_id": 2996090
   },
   {
     "addon_id": 357178,
@@ -368,39 +373,22 @@
     "md5": "d1f1dceddf67b192d495f47ebda2bd70"
   },
   {
-    "addon_id": 243707,
-    "slug": "corail-tombstone",
-    "name": "Corail Tombstone",
-    "strategy": "beta",
-    "new_version": "Corail Tombstone 4.4.1 for 1.15.2",
-    "md5": "0f84a9bd30ee0f809b40ecc4cc2614db",
-    "file_id": 2980320
-  },
-  {
     "addon_id": 220318,
     "slug": "biomes-o-plenty",
     "name": "Biomes O' Plenty",
     "strategy": "beta",
-    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.365",
-    "md5": "847c47b02077667e0da6c539a59d207d",
-    "file_id": 2969957
+    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.366",
+    "md5": "83160fc8aa49ee6c47cc508e74833fbf",
+    "file_id": 2988999
   },
   {
     "addon_id": 243076,
     "slug": "refined-storage",
     "name": "Refined Storage",
     "strategy": "beta",
-    "new_version": "Refined Storage 1.8.5",
-    "md5": "ebcf41483bc3f174ceb0bc51ec6cdf2e",
-    "file_id": 2982967
-  },
-  {
-    "addon_id": 355591,
-    "slug": "enchantable",
-    "name": "Enchantable",
-    "strategy": "beta",
-    "new_version": "Enchantable 1.3.0",
-    "md5": "2f38ccec9a438da353980bb5ba9ad3d9"
+    "new_version": "Refined Storage 1.8.6",
+    "md5": "b6bdf0627e4ccba96e22d549129a5400",
+    "file_id": 2989417
   },
   {
     "addon_id": 354522,
@@ -433,9 +421,9 @@
     "slug": "drawers-tooltip",
     "name": "Drawers Tooltip",
     "strategy": "beta",
-    "new_version": "DrawersTooltip-1.15.2-1.0.2",
-    "file_id": 2981480,
-    "md5": "18d80bec47225cc0ebaf13d0b2f055cf"
+    "new_version": "DrawersTooltip-1.15.2-1.0.3",
+    "file_id": 2984311,
+    "md5": "c126e3ef0d17413e240ee4003ef42976"
   },
   {
     "addon_id": 228525,
@@ -465,15 +453,6 @@
     "md5": "11535b4b1a0a136d891899b5d7999dfd"
   },
   {
-    "addon_id": 383503,
-    "slug": "graffiti",
-    "name": "Graffiti",
-    "strategy": "beta",
-    "new_version": "graffiti-1.2.1",
-    "file_id": 2968978,
-    "md5": "9b5724b8c80ca0f151dd5622e212f3ef"
-  },
-  {
     "addon_id": 328085,
     "slug": "create",
     "name": "Create",
@@ -487,18 +466,9 @@
     "slug": "jade",
     "name": "🔍 Jade",
     "strategy": "beta",
-    "new_version": "Jade-1.15.2-1.1.2",
-    "file_id": 2982828,
-    "md5": "eefce2beccae878a73cae655b7e6c2f0"
-  },
-  {
-    "addon_id": 348424,
-    "slug": "simply-trophies",
-    "name": "Simply Trophies",
-    "strategy": "beta",
-    "new_version": "simply_trophies-2.0-1.15.2",
-    "file_id": 2942715,
-    "md5": "8ea3ea3bd81b5d7b0281246a1c37eef1"
+    "new_version": "Jade-1.15.2-1.2.0",
+    "file_id": 2983872,
+    "md5": "326dd7cfc5ae63da6d718a2445dba800"
   },
   {
     "addon_id": 278993,
@@ -519,15 +489,6 @@
     "md5": "8e497b222fa25fe0b04418fe7c050b18"
   },
   {
-    "addon_id": 238086,
-    "slug": "kubejs",
-    "name": "KubeJS",
-    "strategy": "beta",
-    "new_version": "kubejs-2.6.1.34",
-    "file_id": 2953148,
-    "md5": "b95398a7856fe768cc0cdcc807cda9ee"
-  },
-  {
     "addon_id": 276951,
     "slug": "comforts",
     "name": "Comforts",
@@ -544,5 +505,29 @@
     "new_version": "miningtweaks-1.0-1.15.2",
     "file_id": 2895177,
     "md5": "9c9aa795f4b5ac689b1f12c89e1356be"
+  },
+  {
+    "addon_id": 372395,
+    "slug": "chunkt",
+    "name": "Chunkt",
+    "strategy": "beta",
+    "new_version": "chunkt-1.15.2-1.0.3",
+    "file_id": 2922932,
+    "md5": "b54bce13d411b06a36401adf32aabeb8"
+  },
+  {
+    "addon_id": 282001,
+    "slug": "cc-tweaked",
+    "name": "CC: Tweaked",
+    "strategy": "beta",
+    "new_version": "cc-tweaked-1.15.2-1.89.1",
+    "file_id": 2985036,
+    "md5": "db6a2904ac1b0889ea7a9af2e3095171"
+  },
+  {
+    "addon_id": 371915,
+    "slug": "inverted-enchantments",
+    "name": "Inverted Enchantments",
+    "strategy": "beta"
   }
 ]

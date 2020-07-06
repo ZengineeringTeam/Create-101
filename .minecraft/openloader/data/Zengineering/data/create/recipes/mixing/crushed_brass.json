@@ -8,10 +8,9 @@
     		"item": "create:crushed_zinc_ore"
     	},
 		{
-			"item": "minecraft:blaze_rod",
-			"return_chance": 0.94
+			"item": "minecraft:blaze_powder"
 		}
-    ], 
+    ],
 	"results": [
 		{
 			"item": "create:crushed_brass",

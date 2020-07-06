@@ -3,7 +3,7 @@
   "mod": "minecraft",
 
   "sapling": {
-    "item": "minecraft:redstone_ore"
+    "item": "minecraft:redstone_block"
   },
 
   "drops": [

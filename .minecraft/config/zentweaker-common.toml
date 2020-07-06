@@ -1,0 +1,5 @@
+#Range: 0 ~ 15
+cactusGrowAge = 5
+nerfSeaPickle = true
+noAIEntities = ["snow_golem"]
+

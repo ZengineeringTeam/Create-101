@@ -21,7 +21,7 @@
 	#Enables the enchantment Shadow Step [false/true|default:true]
 	enable_enchantment_shadow_step = true
 	#Enables the enchantment Soulbound [false/true|default:true]
-	enable_enchantment_soulbound = true
+	enable_enchantment_soulbound = false
 	#Shadow Step is only active while sneaking [false/true|default:false]
 	nerf_shadow_step = false
 	#Enables the enchantment Magic Siphon [false/true|default:true]
@@ -88,7 +88,7 @@
 [player_death]
 	#Experience loss on death (%) [0..100|default:0]
 	#Range: 0 ~ 100
-	xp_loss = 0
+	xp_loss = 30
 	#Whether to handle player experience [false/true|default:true]
 	handle_player_xp = true
 	#Allows players with bad alignment and the perk tomb raider to steal items on abandoned graves [false/true|default:false]

@@ -1,14 +1,4 @@
 {
-"block.quark.black_crystal.tip": "Coal Ore Indicator",
-"block.quark.violet_crystal.tip": "Copper Ore Indicator",
-"block.quark.white_crystal.tip": "Diamond Ore Indicator",
-"block.quark.green_crystal.tip": "Emerald Ore Indicator",
-"block.quark.yellow_crystal.tip": "Gold Ore Indicator",
-"block.quark.orange_crystal.tip": "Iron Ore Indicator",
-"block.quark.indigo_crystal.tip": "Lapis Ore Indicator",
-"block.quark.red_crystal.tip": "Redstone Ore Indicator",
-"block.quark.blue_crystal.tip": "Zinc Ore Indicator",
-
 "item.refinedstorage.raw_basic_processor": "Iron Ticket",
 "item.refinedstorage.raw_improved_processor": "Gold Ticket",
 "item.refinedstorage.raw_advanced_processor": "Shiny Ticket",

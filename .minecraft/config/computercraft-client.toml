@@ -1,0 +1,4 @@
+#The renderer to use for monitors. Generally this should be kept at "best" - if monitors have performance issues, you may wish to experiment with alternative renderers.
+#Allowed Values: BEST, TBO, VBO
+monitor_renderer = "BEST"
+

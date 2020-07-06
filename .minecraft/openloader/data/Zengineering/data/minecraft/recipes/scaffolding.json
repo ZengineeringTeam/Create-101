@@ -1,0 +1,17 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "III",
+    "I I",
+    "I I"
+  ],
+  "key": {
+    "I": {
+      "item": "bamboo"
+    }
+  },
+  "result": {
+    "item": "minecraft:scaffolding",
+    "count": 4
+  }
+}

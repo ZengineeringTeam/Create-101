@@ -6,6 +6,7 @@
 .minecraft/build
 .minecraft/coremods
 .minecraft/crash-reports
+.minecraft/defaultconfigs
 .minecraft/journeymap/data
 .minecraft/journeymap/icon
 .minecraft/journeymap/journeymap.log
@@ -17,6 +18,7 @@
 .minecraft/modpack-project.json
 .minecraft/modpack_includes
 .minecraft/mods
+.minecraft/openloader/data/Zengineering
 .minecraft/package-lock.json
 .minecraft/package.json
 .minecraft/patchouli_books

@@ -27,6 +27,7 @@
     "command_block": true,
     "mob_growth": true,
     "painting": true,
+    "accurate_name": true,
     "harvest_tool": true,
     "hide_mod_name": false,
     "armor_stand": true,
