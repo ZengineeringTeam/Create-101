@@ -1,15 +1,7 @@
 {
-  "type": "mekanism:metallurgic_infusing",
-  "itemInput": {
-    "ingredient": {
-      "tag": "forge:plates/gold"
-    }
-  },
-  "infusionInput": {
-    "amount": 10,
-    "tag": "mekanism:carbon"
-  },
-  "output": {
-    "item": "mekanism:enriched_iron"
-  }
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
 }

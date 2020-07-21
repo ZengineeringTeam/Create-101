@@ -1,1 +1,22 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:upgrade_muffling"},"pattern":[" G ","A#A"," G "],"key":{"G":{"tag":"forge:glass"},"#":{"tag":"forge:dusts/steel"},"A":{"tag":"mekanism:alloys/infused"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:upgrade_muffling"
+  },
+  "pattern": [
+    " G ",
+    "A#A",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "#": {
+      "tag": "forge:dusts/quartz"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    }
+  }
+}

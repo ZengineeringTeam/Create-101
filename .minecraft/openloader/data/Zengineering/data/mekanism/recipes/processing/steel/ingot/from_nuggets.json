@@ -1,1 +1,7 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:ingot_steel"},"pattern":["###","###","###"],"key":{"#":{"tag":"forge:nuggets/steel"}}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}
