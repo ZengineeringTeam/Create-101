@@ -2,5 +2,8 @@
 "item.refinedstorage.raw_basic_processor": "铁票据",
 "item.refinedstorage.raw_improved_processor": "金票据",
 "item.refinedstorage.raw_advanced_processor": "闪耀的票据",
-"item.refinedstorage.processor_binding": "黏稠的票据"
+"item.refinedstorage.processor_binding": "黏稠的票据",
+"item.minecraft.poisonous_potato.tip": "杀死雪傀儡掉落",
+"block.mekanismgenerators.reactor_glass.tip": "凋灵无法破坏这个方块",
+"block.mekanismgenerators.reactor_frame.tip": "凋灵无法破坏这个方块"
 }

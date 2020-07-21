@@ -30,9 +30,9 @@
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "new_version": "FruitTrees-1.15.2-1.5.0",
-    "md5": "1bd2ad32223de16a4e1ba4a17bcbe942",
-    "file_id": 2985939
+    "new_version": "FruitTrees-1.15.2-1.5.1",
+    "md5": "f24d5ee881be22a8e9c872586cebac8a",
+    "file_id": 3008067
   },
   {
     "addon_id": 296028,
@@ -56,8 +56,9 @@
     "slug": "clumps",
     "name": "Clumps",
     "strategy": "beta",
-    "new_version": "Clumps-5.0.2",
-    "md5": "413de40aa718b29eab722b6c171896a3"
+    "new_version": "Clumps-5.0.2.4",
+    "md5": "c4165fb583290257b29e8d0505fd02d6",
+    "file_id": 3009234
   },
   {
     "addon_id": 253449,
@@ -80,8 +81,9 @@
     "slug": "fps-reducer",
     "name": "FPS Reducer",
     "strategy": "beta",
-    "new_version": "FpsReducer-mc1.15.2-1.15",
-    "md5": "b87b54b322b9959184a6152fa9eabccd"
+    "new_version": "FpsReducer-mc1.15.2-1.17",
+    "md5": "ef8266f34183a458fc7d91e79fedf51c",
+    "file_id": 3009114
   },
   {
     "addon_id": 233019,
@@ -114,8 +116,9 @@
     "slug": "fastworkbench",
     "name": "FastWorkbench",
     "strategy": "beta",
-    "new_version": "FastWorkbench-1.15.2-3.0.0",
-    "md5": "a89ac0748892165cc29387b0334ce961"
+    "new_version": "FastWorkbench-1.15.2-3.1.1",
+    "md5": "70b4a9b9293a01c968e61a12f86562fb",
+    "file_id": 3003114
   },
   {
     "addon_id": 268560,
@@ -283,9 +286,9 @@
     "slug": "apotheosis",
     "name": "Apotheosis",
     "strategy": "beta",
-    "new_version": "Apotheosis-1.15.2-3.2.1",
-    "md5": "1006d590f358fd7ed447a9b4da0b750e",
-    "file_id": 2996714
+    "new_version": "Apotheosis-1.15.2-3.2.4",
+    "md5": "b7fa5485be839353f4fba5c7eba6850c",
+    "file_id": 3004358
   },
   {
     "addon_id": 32274,
@@ -386,9 +389,9 @@
     "slug": "refined-storage",
     "name": "Refined Storage",
     "strategy": "beta",
-    "new_version": "Refined Storage 1.8.6",
-    "md5": "b6bdf0627e4ccba96e22d549129a5400",
-    "file_id": 2989417
+    "new_version": "Refined Storage 1.8.8",
+    "md5": "e192ef0720f37e69d830b906fbc8cf65",
+    "file_id": 3004050
   },
   {
     "addon_id": 354522,
@@ -520,9 +523,9 @@
     "slug": "cc-tweaked",
     "name": "CC: Tweaked",
     "strategy": "beta",
-    "new_version": "cc-tweaked-1.15.2-1.89.1",
-    "file_id": 2985036,
-    "md5": "db6a2904ac1b0889ea7a9af2e3095171"
+    "new_version": "cc-tweaked-1.15.2-1.90.0",
+    "file_id": 3008120,
+    "md5": "dc2716c308af0dad29e12379211a151e"
   },
   {
     "addon_id": 371915,
