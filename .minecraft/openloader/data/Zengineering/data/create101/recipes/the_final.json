@@ -1,0 +1,23 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP",
+    "PPPPPPPPP"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/brass"
+    }
+  },
+  "result": {
+    "item": "mekanism:ingot_steel",
+    "count": 1
+  }
+}

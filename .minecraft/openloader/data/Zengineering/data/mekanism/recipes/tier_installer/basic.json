@@ -1,1 +1,22 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:basic_tier_installer"},"pattern":["ACA","IPI","ACA"],"key":{"P":{"tag":"minecraft:planks"},"C":{"tag":"forge:circuits/basic"},"I":{"tag":"forge:ingots/iron"},"A":{"tag":"mekanism:alloys/basic"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:basic_tier_installer"
+  },
+  "pattern": [
+    "ACA",
+    "I I",
+    "ACA"
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "I": {
+      "item": "create:refined_radiance"
+    },
+    "A": {
+      "tag": "mekanism:alloys/basic"
+    }
+  }
+}

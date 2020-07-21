@@ -398,7 +398,7 @@
 	"Lush Underground Biome" = true
 	"Big Dungeon" = true
 	Speleothems = false
-	Biotite = true
+	Biotite = false
 	"Big Stone Clusters" = false
 	"Elder Prismarine Underground Biome" = true
 	"Brimstone Underground Biome" = true
@@ -690,7 +690,7 @@
 		"Generate Naturally" = false
 
 		[world.biotite.dimensions]
-			Dimensions = ["minecraft:the_end"]
+			Dimensions = []
 			"Is Blacklist" = false
 
 		[world.biotite.ore_settings]

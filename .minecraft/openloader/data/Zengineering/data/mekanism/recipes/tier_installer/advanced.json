@@ -1,1 +1,22 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:advanced_tier_installer"},"pattern":["ACA","IPI","ACA"],"key":{"P":{"tag":"minecraft:planks"},"C":{"tag":"forge:circuits/advanced"},"I":{"tag":"forge:ingots/osmium"},"A":{"tag":"mekanism:alloys/infused"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:advanced_tier_installer"
+  },
+  "pattern": [
+    "ACA",
+    "I I",
+    "ACA"
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:circuits/advanced"
+    },
+    "I": {
+      "item": "create:shadow_steel"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    }
+  }
+}

@@ -1,1 +1,7 @@
-{"type":"mekanism:mek_data","result":{"item":"mekanism:basic_smelting_factory"},"pattern":["ACA","IPI","ACA"],"key":{"P":{"item":"mekanism:energized_smelter"},"C":{"tag":"forge:circuits/basic"},"I":{"tag":"forge:ingots/iron"},"A":{"tag":"mekanism:alloys/basic"}}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

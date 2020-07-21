@@ -6,12 +6,9 @@
   "pattern": [
     "SPS",
     "CXC",
-    "S#S"
+    "SPS"
   ],
   "key": {
-    "#": {
-      "tag": "forge:chests/wooden"
-    },
     "P": {
       "item": "minecraft:crafting_table"
     },

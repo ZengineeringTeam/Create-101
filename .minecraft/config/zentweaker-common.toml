@@ -2,4 +2,6 @@
 cactusGrowAge = 5
 nerfSeaPickle = true
 noAIEntities = ["snow_golem"]
+peacefulNetherStar = true
+blockResistance = ["mekanismgenerators:reactor_glass=2000", "mekanismgenerators:reactor_frame=2000"]
 
