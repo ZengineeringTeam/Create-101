@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:raw_advanced_processor"
+    }
+  ],
+  "result": {
+    "item": "everpotion:unlock_slot",
+    "nbt": {
+      "Tier": 3
+    }
+  }
+}
