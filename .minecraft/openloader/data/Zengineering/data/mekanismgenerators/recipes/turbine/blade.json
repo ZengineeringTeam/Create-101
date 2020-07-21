@@ -1,1 +1,19 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:turbine_blade"},"pattern":[" S ","SAS"," S "],"key":{"S":{"tag":"forge:ingots/steel"},"A":{"tag":"mekanism:alloys/infused"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanismgenerators:turbine_blade"
+  },
+  "pattern": [
+    " S ",
+    "SAS",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    }
+  }
+}

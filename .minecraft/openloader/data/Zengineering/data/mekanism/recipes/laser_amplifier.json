@@ -1,1 +1,22 @@
-{"type":"mekanism:mek_data","result":{"item":"mekanism:laser_amplifier"},"pattern":["SSS","SE#","SSS"],"key":{"#":{"tag":"forge:gems/diamond"},"S":{"tag":"forge:ingots/steel"},"E":{"item":"mekanism:basic_energy_cube"}}}
+{
+  "type": "mekanism:mek_data",
+  "result": {
+    "item": "mekanism:laser_amplifier"
+  },
+  "pattern": [
+    "SSS",
+    "SE#",
+    "SSS"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:gems/diamond"
+    },
+    "S": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+    "E": {
+      "item": "mekanism:basic_energy_cube"
+    }
+  }
+}

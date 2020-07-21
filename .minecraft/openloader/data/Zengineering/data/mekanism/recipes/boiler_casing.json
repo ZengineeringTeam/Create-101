@@ -1,1 +1,14 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:boiler_casing","count":4},"pattern":[" S ","SIS"," S "],"key":{"S":{"tag":"forge:ingots/steel"},"I":{"tag":"forge:ingots/iron"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:boiler_casing"
+  },
+  "pattern": [
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "refinedstorage:machine_casing"
+    }
+  }
+}

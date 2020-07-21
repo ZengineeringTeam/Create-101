@@ -1,1 +1,28 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:security_desk"},"pattern":["SGS","CXC","STS"],"key":{"G":{"tag":"forge:glass"},"C":{"tag":"forge:circuits/elite"},"S":{"tag":"forge:ingots/steel"},"X":{"item":"refinedstorage:machine_casing"},"T":{"item":"mekanism:teleportation_core"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:security_desk"
+  },
+  "pattern": [
+    "SGS",
+    "CXC",
+    "STS"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "C": {
+      "tag": "forge:circuits/elite"
+    },
+    "S": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+    "X": {
+      "item": "refinedstorage:machine_casing"
+    },
+    "T": {
+      "item": "mekanism:teleportation_core"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"type":"mekanism:mek_data","result":{"item":"mekanism:scuba_tank"},"pattern":[" C ","ATA","SSS"],"key":{"T":{"item":"mekanism:basic_gas_tank"},"C":{"tag":"forge:circuits/basic"},"A":{"tag":"mekanism:alloys/infused"},"S":{"tag":"forge:ingots/steel"}}}
+{
+  "type": "mekanism:mek_data",
+  "result": {
+    "item": "mekanism:scuba_tank"
+  },
+  "pattern": [
+    " C ",
+    "ATA",
+    "SSS"
+  ],
+  "key": {
+    "T": {
+      "item": "mekanism:basic_gas_tank"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "S": {
+      "tag": "forge:ingots/refined_obsidian"
+    }
+  }
+}

@@ -1,1 +1,25 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:personal_chest"},"pattern":["SGS","PCP","SSS"],"key":{"P":{"tag":"forge:chests/wooden"},"C":{"tag":"forge:circuits/basic"},"S":{"tag":"forge:ingots/steel"},"G":{"tag":"forge:glass"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:personal_chest"
+  },
+  "pattern": [
+    "SGS",
+    "PCP",
+    "SSS"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:chests/wooden"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "S": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  }
+}

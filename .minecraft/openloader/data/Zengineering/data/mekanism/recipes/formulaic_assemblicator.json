@@ -1,1 +1,28 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:formulaic_assemblicator"},"pattern":["SPS","CXC","S#S"],"key":{"#":{"tag":"forge:chests/wooden"},"P":{"item":"minecraft:crafting_table"},"C":{"tag":"forge:circuits/basic"},"S":{"tag":"forge:ingots/steel"},"X":{"item":"refinedstorage:machine_casing"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:formulaic_assemblicator"
+  },
+  "pattern": [
+    "SPS",
+    "CXC",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:chests/wooden"
+    },
+    "P": {
+      "item": "minecraft:crafting_table"
+    },
+    "C": {
+      "tag": "forge:circuits/basic"
+    },
+    "S": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+    "X": {
+      "item": "refinedstorage:machine_casing"
+    }
+  }
+}
