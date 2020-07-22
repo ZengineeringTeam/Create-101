@@ -3,7 +3,10 @@
 .minecraft/.mixin.out
 .minecraft/.modpack
 .minecraft/TODO.md
+.minecraft/WailaErrorOutput.txt
 .minecraft/build
+.minecraft/config/jecalculation
+.minecraft/config/jei
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
@@ -11,6 +14,7 @@
 .minecraft/journeymap/icon
 .minecraft/journeymap/journeymap.log
 .minecraft/journeymap/server
+.minecraft/kubejs
 .minecraft/local
 .minecraft/logs
 .minecraft/modpack-includes
@@ -36,13 +40,16 @@
 .minecraft/saves/新的世界 (5)
 .minecraft/saves/新的世界 (6)
 .minecraft/saves/新的世界 (7)
+.minecraft/saves/新的世界 (8)
 .minecraft/schematics
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/servers.dat
+.minecraft/shaderpacks
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
 .packignore
 README.md
+logo_800x.png
 正方形800x.png
