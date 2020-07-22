@@ -1,1 +1,25 @@
-{"type":"mekanism:mek_data","result":{"item":"mekanism:ultimate_energy_cube"},"pattern":["AEA","IPI","AEA"],"key":{"P":{"item":"mekanism:elite_energy_cube"},"E":{"item":"mekanism:energy_tablet"},"I":{"tag":"forge:gems/diamond"},"A":{"tag":"mekanism:alloys/atomic"}}}
+{
+  "type": "mekanism:mek_data",
+  "result": {
+    "item": "mekanism:ultimate_energy_cube"
+  },
+  "pattern": [
+    "AEA",
+    "IPI",
+    "AEA"
+  ],
+  "key": {
+    "P": {
+      "item": "mekanism:elite_energy_cube"
+    },
+    "E": {
+      "item": "mekanism:energy_tablet"
+    },
+    "I": {
+      "item": "nether_star"
+    },
+    "A": {
+      "tag": "mekanism:alloys/atomic"
+    }
+  }
+}

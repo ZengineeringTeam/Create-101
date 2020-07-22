@@ -1,1 +1,25 @@
-{"type":"mekanism:mek_data","result":{"item":"mekanism:resistive_heater"},"pattern":["IRI","RXR","IEI"],"key":{"R":{"tag":"forge:dusts/redstone"},"I":{"tag":"forge:ingots/tin"},"E":{"item":"mekanism:energy_tablet"},"X":{"item":"refinedstorage:machine_casing"}}}
+{
+  "type": "mekanism:mek_data",
+  "result": {
+    "item": "mekanism:resistive_heater"
+  },
+  "pattern": [
+    "IRI",
+    "RXR",
+    "IEI"
+  ],
+  "key": {
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "I": {
+      "tag": "forge:plates/brass"
+    },
+    "E": {
+      "item": "mekanism:energy_tablet"
+    },
+    "X": {
+      "item": "refinedstorage:machine_casing"
+    }
+  }
+}

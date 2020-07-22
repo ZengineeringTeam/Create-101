@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "draweringredient:standard",
+      "content": {
+        "item": "refinedstorage:processor_binding"
+      },
+      "amount": 64
+		}
+	],
+	"result": {
+		"item": "mekanism:ingot_osmium"
+	}
+}

@@ -1,1 +1,20 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:reactor_frame","count":4},"pattern":[" X ","XAX"," X "],"key":{"X":{"item":"mekanism:steel_casing"},"A":{"tag":"mekanism:alloys/atomic"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanismgenerators:reactor_frame",
+    "count": 4
+  },
+  "pattern": [
+    " X ",
+    "XAX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "refinedstorage:machine_casing"
+    },
+    "A": {
+      "tag": "mekanism:alloys/atomic"
+    }
+  }
+}

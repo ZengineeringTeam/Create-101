@@ -1,1 +1,25 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:solar_panel"},"pattern":["GGG","RAR","OOO"],"key":{"G":{"tag":"forge:glass_panes"},"O":{"tag":"forge:ingots/osmium"},"R":{"tag":"forge:dusts/redstone"},"A":{"tag":"mekanism:alloys/infused"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanismgenerators:solar_panel"
+  },
+  "pattern": [
+    "GGG",
+    "RAR",
+    "OOO"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass_panes"
+    },
+    "O": {
+      "item": "create:refined_radiance"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    }
+  }
+}

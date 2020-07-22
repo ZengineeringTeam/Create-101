@@ -1,0 +1,20 @@
+{
+  "type": "interactio:item_lightning",
+  "inputs": [
+    {
+      "item": "diamond"
+    }
+  ],
+  "output": {
+    "entries": [
+      {
+        "result": {
+          "item": "quark:diamond_heart",
+          "count": 1
+        },
+        "weight": 2
+      }
+    ],
+    "rolls": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"type": "draweringredient:standard",
+      "content": {
+        "item": "mekanism:ultimate_control_circuit"
+      },
+      "amount": 8
+		}
+	],
+	"result": {
+		"item": "refinedstorage:processor_binding"
+	}
+}

@@ -2,12 +2,12 @@
   "type": "mekanism:metallurgic_infusing",
   "itemInput": {
     "ingredient": {
-      "tag": "forge:plates/gold"
+      "item": "create:refined_radiance"
     }
   },
   "infusionInput": {
     "amount": 10,
-    "tag": "mekanism:redstone"
+    "tag": "mekanism:tin"
   },
   "output": {
     "item": "mekanism:alloy_infused"

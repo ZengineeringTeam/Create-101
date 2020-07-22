@@ -3,7 +3,11 @@
 "item.refinedstorage.raw_improved_processor": "Gold Ticket",
 "item.refinedstorage.raw_advanced_processor": "Shiny Ticket",
 "item.refinedstorage.processor_binding": "Sticky Ticket",
-"item.minecraft.poisonous_potato.tip": "Kill a snow golem",
+"item.mekanism.ingot_osmium": "Twisted Ticket",
 "block.mekanismgenerators.reactor_glass.tip": "Wither cannot destory this block",
-"block.mekanismgenerators.reactor_frame.tip": "Wither cannot destory this block"
+"block.mekanismgenerators.reactor_frame.tip": "Wither cannot destory this block",
+"item.mekanism.nugget_tin": "Little Snowflake",
+"item.mekanism.nugget_tin.tip": "Kill a snow golem",
+"item.mekanism.ingot_steel": "Mysterious Triangle",
+"item.mekanism.ingot_steel.tip": "The final item"
 }

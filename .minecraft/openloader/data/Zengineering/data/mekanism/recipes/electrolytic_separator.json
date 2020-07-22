@@ -1,1 +1,22 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:electrolytic_separator"},"pattern":["IRI","A#A","IRI"],"key":{"I":{"tag":"forge:ingots/iron"},"R":{"tag":"forge:dusts/redstone"},"A":{"tag":"mekanism:alloys/infused"},"#":{"item":"mekanism:electrolytic_core"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:electrolytic_separator"
+  },
+  "pattern": [
+    "AOA",
+    "IAI",
+    "AOA"
+  ],
+  "key": {
+    "O": {
+      "item": "create:refined_radiance"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "I": {
+      "item": "create:shadow_steel"
+    }
+  }
+}

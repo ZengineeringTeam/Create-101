@@ -3,7 +3,11 @@
 "item.refinedstorage.raw_improved_processor": "金票据",
 "item.refinedstorage.raw_advanced_processor": "闪耀的票据",
 "item.refinedstorage.processor_binding": "黏稠的票据",
-"item.minecraft.poisonous_potato.tip": "杀死雪傀儡掉落",
+"item.mekanism.ingot_osmium": "扭曲的票据",
 "block.mekanismgenerators.reactor_glass.tip": "凋灵无法破坏这个方块",
-"block.mekanismgenerators.reactor_frame.tip": "凋灵无法破坏这个方块"
+"block.mekanismgenerators.reactor_frame.tip": "凋灵无法破坏这个方块",
+"item.mekanism.nugget_tin": "小雪花",
+"item.mekanism.nugget_tin.tip": "杀死雪傀儡掉落",
+"item.mekanism.ingot_steel": "神秘三角",
+"item.mekanism.ingot_steel.tip": "毕业物品"
 }

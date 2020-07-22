@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:combining",
+  "mainInput": {
+    "ingredient": {
+      "item": "create:shadow_steel"
+    }
+  },
+  "extraInput": {
+    "ingredient": {
+      "item": "mekanism:nugget_tin"
+    }
+  },
+  "output": {
+    "item": "wither_skeleton_skull"
+  }
+}

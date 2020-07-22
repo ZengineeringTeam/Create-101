@@ -1,1 +1,19 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:basic_gas_tank"},"pattern":["AOA","O O","AOA"],"key":{"O":{"tag":"forge:ingots/osmium"},"A":{"tag":"mekanism:alloys/basic"}}}
+{
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "item": "mekanism:basic_gas_tank"
+  },
+  "pattern": [
+    "AOA",
+    "O O",
+    "AOA"
+  ],
+  "key": {
+    "O": {
+      "tag": "forge:plates/gold"
+    },
+    "A": {
+      "tag": "mekanism:alloys/basic"
+    }
+  }
+}

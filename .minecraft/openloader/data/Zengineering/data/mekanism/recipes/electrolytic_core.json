@@ -1,22 +1,7 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "result": {
-    "item": "mekanism:electrolytic_core"
-  },
-  "pattern": [
-    "AOA",
-    "IAI",
-    "AOA"
-  ],
-  "key": {
-    "O": {
-      "item": "create:refined_radiance"
-    },
-    "A": {
-      "tag": "mekanism:alloys/infused"
-    },
-    "I": {
-      "item": "create:shadow_steel"
-    }
-  }
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
 }

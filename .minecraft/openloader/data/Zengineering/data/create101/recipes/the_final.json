@@ -1,19 +1,55 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP",
-    "PPPPPPPPP"
+    "IGDBSBDGI",
+    "GDBSOSBDG",
+    "DBSOTOSBD",
+    "BSO1H2OSB",
+    "SOTHAHTOS",
+    "BSO3H4OSB",
+    "DBSOTOSBD",
+    "GDBSOSBDG",
+    "IGDBSBDGI"
   ],
   "key": {
-    "P": {
-      "tag": "forge:plates/brass"
+    "I": {
+      "item": "refinedstorage:raw_basic_processor"
+    },
+    "G": {
+      "item": "refinedstorage:raw_improved_processor"
+    },
+    "D": {
+      "item": "refinedstorage:raw_advanced_processor"
+    },
+    "B": {
+      "item": "refinedstorage:processor_binding"
+    },
+    "S": {
+      "item": "nether_star"
+    },
+    "O": {
+      "item": "mekanism:ingot_osmium"
+    },
+    "A": {
+      "item": "enchanted_golden_apple"
+    },
+    "H": {
+      "item": "quark:diamond_heart"
+    },
+    "T": {
+      "item": "totem_of_undying"
+    },
+    "1": {
+      "item": "apotheosis:draconic_endshelf"
+    },
+    "2": {
+      "item": "apotheosis:heart_seashelf"
+    },
+    "3": {
+      "item": "apotheosis:beeshelf"
+    },
+    "4": {
+      "item": "apotheosis:blazing_hellshelf"
     }
   },
   "result": {

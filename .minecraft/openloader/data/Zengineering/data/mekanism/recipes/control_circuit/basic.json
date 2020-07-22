@@ -7,7 +7,7 @@
   },
   "infusionInput": {
     "amount": 10,
-    "tag": "mekanism:redstone"
+    "tag": "mekanism:tin"
   },
   "output": {
     "item": "mekanism:basic_control_circuit"

@@ -1,1 +1,12 @@
-{"type":"mekanism:infusion_conversion","input":{"ingredient":{"tag":"forge:storage_blocks/redstone"}},"output":{"infuse_type":"mekanism:redstone","amount":90}}
+{
+  "type": "mekanism:infusion_conversion",
+  "input": {
+    "ingredient": {
+      "item": "slime_block"
+    }
+  },
+  "output": {
+    "infuse_type": "mekanism:tin",
+    "amount": 90
+  }
+}
