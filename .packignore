@@ -21,7 +21,6 @@
 .minecraft/modpack-mods.json
 .minecraft/modpack-project.json
 .minecraft/modpack_includes
-.minecraft/mods
 .minecraft/openloader/data/Zengineering
 .minecraft/package-lock.json
 .minecraft/package.json

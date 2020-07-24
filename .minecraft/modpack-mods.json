@@ -501,15 +501,6 @@
     "md5": "a393752bacc0731c5f87c1d092fc0649"
   },
   {
-    "addon_id": 261461,
-    "slug": "miningtweaks",
-    "name": "MiningTweaks",
-    "strategy": "beta",
-    "new_version": "miningtweaks-1.0-1.15.2",
-    "file_id": 2895177,
-    "md5": "9c9aa795f4b5ac689b1f12c89e1356be"
-  },
-  {
     "addon_id": 372395,
     "slug": "chunkt",
     "name": "Chunkt",
@@ -528,9 +519,21 @@
     "md5": "dc2716c308af0dad29e12379211a151e"
   },
   {
-    "addon_id": 371915,
-    "slug": "inverted-enchantments",
-    "name": "Inverted Enchantments",
-    "strategy": "beta"
+    "addon_id": 379887,
+    "slug": "passable-foliage",
+    "name": "🌳 Passable Foliage",
+    "strategy": "beta",
+    "new_version": "PassableFoliage-1.15.2-1.1.2",
+    "file_id": 3002593,
+    "md5": "ca5c47b19a98105ded2f9892135c97b4"
+  },
+  {
+    "addon_id": 314735,
+    "slug": "zentweaker",
+    "name": "ZenTweaker",
+    "strategy": "beta",
+    "new_version": "ZenTweaker-1.15.2-1.0.0",
+    "file_id": 3011702,
+    "md5": "a75a65838be2056e28a25864e67e648a"
   }
 ]
