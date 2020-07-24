@@ -10,10 +10,7 @@
 .minecraft/coremods
 .minecraft/crash-reports
 .minecraft/defaultconfigs
-.minecraft/journeymap/data
-.minecraft/journeymap/icon
-.minecraft/journeymap/journeymap.log
-.minecraft/journeymap/server
+.minecraft/journeymap
 .minecraft/kubejs
 .minecraft/local
 .minecraft/logs
@@ -21,6 +18,7 @@
 .minecraft/modpack-mods.json
 .minecraft/modpack-project.json
 .minecraft/modpack_includes
+.minecraft/node_modules
 .minecraft/openloader/data/Zengineering
 .minecraft/package-lock.json
 .minecraft/package.json

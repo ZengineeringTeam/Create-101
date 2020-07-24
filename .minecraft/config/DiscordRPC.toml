@@ -2,7 +2,7 @@
 #Discord RichPresence Config File
 [Rich-Presence]
 	#First line of Rich Presence
-	Client-Name = "Create 101"
+	Client-Name = "Automating all the things!"
 	#Placeholders:
 	#%ip%  Server IP
 	Server-Text = "Playing on %ip%"
