@@ -9,5 +9,6 @@
 "item.mekanism.nugget_tin": "Little Snowflake",
 "item.mekanism.nugget_tin.tip": "Kill a snow golem",
 "item.mekanism.ingot_steel": "Mysterious Triangle",
-"item.mekanism.ingot_steel.tip": "The final item"
+"item.mekanism.ingot_steel.tip": "The final item",
+"infuse_type.mekanism.tin": "Slime"
 }

@@ -1,12 +1,10 @@
-[
+{
+"files": [
   "config",
   "defaultconfigs",
   "journeymap/config",
   "journeymap/server",
   "openloader",
-  "scripts",
-  "icon.png",
-  "options.txt",
-  "optionsof.txt",
-  "mods"
+  "icon.png"
 ]
+}
