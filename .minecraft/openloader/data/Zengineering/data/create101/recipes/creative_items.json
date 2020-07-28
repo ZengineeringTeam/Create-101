@@ -10,101 +10,94 @@
     "entries": [
       {
         "result": {
-          "item": "apple",
-          "count": 1
+          "item": "enchanted_golden_apple",
+          "count": 64
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
-          "item": "bat_spawn_egg",
-          "count": 1
+          "item": "quark:dragon_scale",
+          "count": 64
         },
-        "weight": 1
-      },
-      {
-        "result": {
-          "item": "experience_bottle",
-          "count": 1
-        },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "storagedrawers:creative_vending_upgrade",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "mekanism:creative_fluid_tank",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "mekanism:creative_gas_tank",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "create:creative_motor",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "mekanism:creative_energy_cube",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "refinedstorage:creative_wireless_crafting_monitor",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "refinedstorage:creative_wireless_fluid_grid",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "refinedstorage:creative_wireless_grid",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "refinedstorage:creative_controller",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "refinedstorage:creative_fluid_storage_disk",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
           "item": "refinedstorage:creative_storage_disk",
           "count": 1
         },
-        "weight": 1
+        "weight": 2
       },
       {
         "result": {
