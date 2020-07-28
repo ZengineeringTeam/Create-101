@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "quark:dragon_scale"
+		}
+	],
+	"result": {
+		"item": "dragon_head",
+		"count": 1
+	}
+}

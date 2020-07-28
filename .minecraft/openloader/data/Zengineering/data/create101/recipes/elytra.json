@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "phantom_membrane"
+		},
+		{
+			"item": "quark:dragon_scale"
+		}
+	],
+	"result": {
+		"item": "elytra",
+		"count": 1
+	}
+}
