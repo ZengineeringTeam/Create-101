@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "III",
+    "ISI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:glass/colorless"
+    },
+    "S": {
+      "item": "nether_star"
+    }
+  },
+  "result": {
+    "item": "end_crystal"
+  }
+}
