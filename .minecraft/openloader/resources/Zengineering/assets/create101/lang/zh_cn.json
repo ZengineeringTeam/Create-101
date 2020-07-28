@@ -10,5 +10,17 @@
 "item.mekanism.nugget_tin.tip": "杀死雪傀儡掉落",
 "item.mekanism.ingot_steel": "神秘三角",
 "item.mekanism.ingot_steel.tip": "毕业物品",
-"infuse_type.mekanism.tin": "史莱姆"
+"infuse_type.mekanism.tin": "史莱姆",
+"block.minecraft.gold_ore.tip": "不自然生成",
+"block.minecraft.iron_ore.tip": "自然生成",
+"block.minecraft.coal_ore.tip": "不自然生成",
+"block.minecraft.diamond_ore.tip": "不自然生成",
+"block.minecraft.redstone_ore.tip": "自然生成",
+"block.minecraft.lapis_ore.tip": "不自然生成",
+"block.minecraft.emerald_ore.tip": "不自然生成",
+"block.create.zinc_ore.tip": "不自然生成",
+"block.create.copper_ore.tip": "不自然生成",
+"block.minecraft.nether_quartz_ore.tip": "自然生成",
+"item.minecraft.cocoa_beans.tip": "丛林树叶掉落",
+"block.mekanism.metallurgic_infuser.tip": "将红石放入能量格子产出少许能量"
 }

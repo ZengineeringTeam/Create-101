@@ -10,5 +10,17 @@
 "item.mekanism.nugget_tin.tip": "Kill a snow golem",
 "item.mekanism.ingot_steel": "Mysterious Triangle",
 "item.mekanism.ingot_steel.tip": "The final item",
-"infuse_type.mekanism.tin": "Slime"
+"infuse_type.mekanism.tin": "Slime",
+"block.minecraft.gold_ore.tip": "Not generated in world",
+"block.minecraft.iron_ore.tip": "Generated in world",
+"block.minecraft.coal_ore.tip": "Not generated in world",
+"block.minecraft.diamond_ore.tip": "Not generated in world",
+"block.minecraft.redstone_ore.tip": "Generated in world",
+"block.minecraft.lapis_ore.tip": "Not generated in world",
+"block.minecraft.emerald_ore.tip": "Not generated in world",
+"block.create.zinc_ore.tip": "Not generated in world",
+"block.create.copper_ore.tip": "Not generated in world",
+"block.minecraft.nether_quartz_ore.tip": "Generated in world",
+"item.minecraft.cocoa_beans.tip": "Drop from jungle leaves",
+"block.mekanism.metallurgic_infuser.tip": "Put redstone in energy slot for some energy"
 }
