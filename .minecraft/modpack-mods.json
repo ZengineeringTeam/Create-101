@@ -464,9 +464,9 @@
     "slug": "drawers-tooltip",
     "name": "Drawers Tooltip",
     "strategy": "beta",
-    "new_version": "DrawersTooltip-1.15.2-1.0.3",
-    "file_id": 2984311,
-    "md5": "c126e3ef0d17413e240ee4003ef42976",
+    "new_version": "DrawersTooltip-1.15.2-1.1.0",
+    "file_id": 3016302,
+    "md5": "3ae1e7d7ebb40a9e2d9ebbb7da1b63b1",
     "old_version": "DrawersTooltip-1.15.2-1.0.3"
   },
   {
@@ -564,8 +564,8 @@
     "slug": "cc-tweaked",
     "name": "CC: Tweaked",
     "strategy": "beta",
-    "new_version": "cc-tweaked-1.15.2-1.90.0",
-    "file_id": 3008120,
+    "new_version": "cc-tweaked-1.15.2-1.90.2.jar",
+    "file_id": 3014266,
     "md5": "dc2716c308af0dad29e12379211a151e",
     "old_version": "cc-tweaked-1.15.2-1.90.0"
   },
