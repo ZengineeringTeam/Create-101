@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " B ",
+    "LOL",
+    "OOO"
+  ],
+  "key": {
+    "B": {
+      "item": "book"
+    },
+    "L": {
+      "item": "lapis_lazuli"
+    },
+    "O": {
+      "item": "obsidian"
+    }
+  },
+  "result": {
+    "item": "enchanting_table"
+  }
+}
