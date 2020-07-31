@@ -24,10 +24,10 @@
     "slug": "kiwi",
     "name": "🥝 Kiwi",
     "strategy": "beta",
-    "new_version": "Kiwi-1.15.2-2.7.2",
-    "md5": "f5b65b898b5eea9da22b5f9840542377",
-    "file_id": 2975218,
-    "old_version": "Kiwi-1.15.2-2.7.2"
+    "new_version": "Kiwi-1.15.2-2.8.2",
+    "md5": "5c201764e39fe1fa76febeb5b5074313",
+    "file_id": 3019945,
+    "old_version": "Kiwi-1.15.2-2.8.2"
   },
   {
     "addon_id": 355467,
@@ -264,10 +264,10 @@
     "slug": "realistic-ore-veins",
     "name": "Realistic Ore Veins",
     "strategy": "beta",
-    "new_version": "oreveins-forge-1.15.2-5.1.5",
-    "md5": "71e68a8a30e07f0960b464569b0dc7c5",
-    "file_id": 2994314,
-    "old_version": "oreveins-forge-1.15.2-5.1.5"
+    "new_version": "oreveins-forge-1.15.2-5.2.0",
+    "md5": "11ecdc483a0336003ec62eef17ac7dc0",
+    "file_id": 3019117,
+    "old_version": "oreveins-forge-1.15.2-5.2.0"
   },
   {
     "addon_id": 237701,
@@ -394,10 +394,10 @@
     "slug": "randompatches",
     "name": "RandomPatches",
     "strategy": "beta",
-    "new_version": "RandomPatches 1.15.2-1.22.0.0",
-    "md5": "94765e1d084d7f25418552eb9b157b9f",
-    "file_id": 2996090,
-    "old_version": "RandomPatches 1.15.2-1.22.0.0"
+    "new_version": "RandomPatches 1.15.2-1.22.1.1",
+    "md5": "4995671d1c505866ea9e5238ffdc3588",
+    "file_id": 3015904,
+    "old_version": "RandomPatches 1.15.2-1.22.1.1"
   },
   {
     "addon_id": 357178,
@@ -454,10 +454,10 @@
     "slug": "better-bedrock-generator",
     "name": "Better Bedrock Generator",
     "strategy": "beta",
-    "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.0.7",
-    "md5": "fead66bf1754ae2ebe21202b16d6097c",
-    "file_id": 2978369,
-    "old_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.0.7"
+    "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.1.0",
+    "md5": "54b17477a07ee4f85ebfd3135ee05390",
+    "file_id": 3016589,
+    "old_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.1.0"
   },
   {
     "addon_id": 381605,
