@@ -1,38 +1,39 @@
 # Create 101
 
-### 故事背景
+### Story
+Welcome to the large-scale engineer group survival reality show - Create 101
 
-欢迎来到大型偶像团体竞技养成真人秀 —— Create 101
+In 2020, what is more interesting and meaningful than an idol reality shows? NOTHING ELSE. Here, 11 out of 101 engineering trainees from dozens of vocational schools will be voted out by audience, to "create" a new term-limited idol group. Who will amaze the audience with their elegant automation design, and finally reach to the center position?
 
-0202年，还有什么比偶像真人秀更有趣、更有意义呢？当然没有。在这里，来自几十所技校的101位工程练习生，将由全民投票角逐出11人组成全新的偶像限定团体。究竟谁能用优雅的自动化设计惊艳全场，最后C位出道呢？
+Collect tickets from audiences and ascend to the Throne of Idol! Keep in mind not to run around on conveyor belts!
 
-收集来自观众的票据，最终登上偶像宝座吧！注意不要在传送带上乱跑乱跳！
+### Introduction
+Are you tired of manual labor in other packs, doing nothing more but playing as a human autocrafter? Try Create 101 - a new modpack designed to let you focus fully on creative automated solutions and beautiful assembly lines. You'll be creating contraptions to solve challenges in automation, enchanting your powerful tools, leading up to a 9x9 mechanical crafter to achieve the final item - and then using TNT to ruin it all for random creative items!
 
-### 整合包特点
+### Features
+- Lightweight (64 mods so far).
+- No quests. No storyline.
+- Fine-tuned progression roadmap focusing on automation
+- Playable in peaceful mode
+- No need to mine in middle and end game.
+- We tweaked 1k+ recipes to ensure you will never have 2 kinds of copper ingot or other sorts in your inventory
 
- - 轻量。目前共65个模组
- - 无任务，无剧情
- - 精心设计的线路，让玩家无需跑图，专注自动化
- - 和平模式可玩
- - 中后期无需挖矿
- - 所有物品配方经过精心规整，同一功能不会存在两种物品
+### Main Mods
+ - Create
+ - Mekanism
+ - Refined Storage
+ - Apotheosis
+ - Quark
 
-### 主要模组
-
- - Create 机械动力
- - Mekanism 通用机械
- - Refined Storage 精致存储
- - Apotheosis 神化
- - Quark 夸克
-
-### 游玩注意事项
-
-1. 这个整合包并不是为新手设计的
-2. 禁止利用游戏漏洞（刷物品、刷TNT、透视等等）
-3. 多查询JEI。大多数矿物（除铁、石英、红石）都不自然生成，而是通过盆栽产出
-4. 最终物品是“神秘三角”，请自行查询配方
-5. 有部分配方需要先将一定数量的物品装入抽屉，然后将抽屉从侧面破坏。物品将保留其中
-6. 死亡掉落可自行关闭
+### Tips & Rules
+ - This pack is not for beginners
+ - Do not make use of bugs
+ - Most ores (except iron, redstone and quartz) are not generated in-world. Do check JEI
+ - The final item is called "Mysterious triangle"
+ - Some recipes are required a drawer with certain number of item in it
+ - You can set keepInventory to true by yourself
+ - Some blocks are wither-immune. Search "wither" in JEI can find them
+ - Breaking jungle leaves will drop cocoa beans. Jungle sapling has a recipe
 
 ### 开发环境安装方法
 
