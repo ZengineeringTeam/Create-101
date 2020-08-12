@@ -544,9 +544,9 @@
     "slug": "comforts",
     "name": "Comforts",
     "strategy": "beta",
-    "new_version": "comforts-FORGE-1.15.2-2.0.0.3",
-    "file_id": 2980590,
-    "md5": "a393752bacc0731c5f87c1d092fc0649",
+    "new_version": "comforts-FORGE-1.15.2-2.0.0.4",
+    "file_id": 3028347,
+    "md5": "d37399da4a9f4689e4d8769b453b93fb",
     "old_version": "comforts-FORGE-1.15.2-2.0.0.3"
   },
   {
@@ -618,5 +618,23 @@
     "file_id": 2986389,
     "md5": "f37a62f6e717c00ea9fbc8ec921c4c51",
     "old_version": "enchantwithmob-1.15.2-1.0.0"
+  },
+  {
+    "addon_id": 254284,
+    "slug": "ambientsounds",
+    "name": "AmbientSounds 3",
+    "strategy": "beta",
+    "new_version": "AmbientSounds_v3.0.20_mc1.15.2",
+    "file_id": 2965645,
+    "md5": "103270c442d32d4552a6bbee357ffa0b"
+  },
+  {
+    "addon_id": 257814,
+    "slug": "creativecore",
+    "name": "CreativeCore",
+    "strategy": "beta",
+    "new_version": "CreativeCore_v2.0.5_mc1.15.2",
+    "file_id": 2917232,
+    "md5": "8fb298740791c5411742bd760a3e2740"
   }
 ]
