@@ -22,5 +22,12 @@
 "block.create.copper_ore.tip": "不自然生成",
 "block.minecraft.nether_quartz_ore.tip": "自然生成",
 "item.minecraft.cocoa_beans.tip": "丛林树叶掉落",
-"block.mekanism.metallurgic_infuser.tip": "将红石放入能量格子产出少许能量"
+"block.mekanism.metallurgic_infuser.tip": "将红石放入能量格子产出少许能量",
+"gas.mekanism.clean_osmium_slurry": "纯净锌浆液",
+"gas.mekanism.dirty_osmium_slurry": "锌浆液",
+"item.mekanism.clump_osmium": "锌碎块",
+"item.mekanism.crystal_osmium": "锌晶体",
+"item.mekanism.dirty_dust_osmium": "污浊锌粉",
+"item.mekanism.dust_osmium": "锌粉",
+"item.mekanism.shard_osmium": "锌碎片"
 }

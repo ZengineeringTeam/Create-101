@@ -22,5 +22,12 @@
 "block.create.copper_ore.tip": "Not generated in world",
 "block.minecraft.nether_quartz_ore.tip": "Generated in world",
 "item.minecraft.cocoa_beans.tip": "Drop from jungle leaves",
-"block.mekanism.metallurgic_infuser.tip": "Put redstone in energy slot for some energy"
+"block.mekanism.metallurgic_infuser.tip": "Put redstone in energy slot for some energy",
+"gas.mekanism.clean_osmium_slurry": "Clean Zinc",
+"gas.mekanism.dirty_osmium_slurry": "Zinc",
+"item.mekanism.clump_osmium": "Zinc Clump",
+"item.mekanism.crystal_osmium": "Zinc Crystal",
+"item.mekanism.dirty_dust_osmium": "Dirty Zinc Dust",
+"item.mekanism.dust_osmium": "Zinc Dust",
+"item.mekanism.shard_osmium": "Zinc Shard"
 }

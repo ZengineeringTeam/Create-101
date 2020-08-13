@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "forge:ingots/zinc"
+    }
+  },
+  "output": {
+    "item": "mekanism:dust_osmium"
+  }
+}

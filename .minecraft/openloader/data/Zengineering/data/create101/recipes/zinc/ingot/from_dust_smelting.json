@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "result": "create:zinc_ingot",
+  "ingredient": {
+    "tag": "forge:dusts/osmium"
+  },
+  "cookingtime": 200,
+  "experience": 0.5
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "result": "create:zinc_ingot",
+  "ingredient": {
+    "tag": "forge:dusts/osmium"
+  },
+  "cookingtime": 100,
+  "experience": 0.5
+}
