@@ -547,7 +547,7 @@
     "new_version": "comforts-FORGE-1.15.2-2.0.0.4",
     "file_id": 3028347,
     "md5": "d37399da4a9f4689e4d8769b453b93fb",
-    "old_version": "comforts-FORGE-1.15.2-2.0.0.3"
+    "old_version": "comforts-FORGE-1.15.2-2.0.0.4"
   },
   {
     "addon_id": 372395,
@@ -626,7 +626,8 @@
     "strategy": "beta",
     "new_version": "AmbientSounds_v3.0.20_mc1.15.2",
     "file_id": 2965645,
-    "md5": "103270c442d32d4552a6bbee357ffa0b"
+    "md5": "103270c442d32d4552a6bbee357ffa0b",
+    "old_version": "AmbientSounds_v3.0.20_mc1.15.2"
   },
   {
     "addon_id": 257814,
@@ -635,6 +636,7 @@
     "strategy": "beta",
     "new_version": "CreativeCore_v2.0.5_mc1.15.2",
     "file_id": 2917232,
-    "md5": "8fb298740791c5411742bd760a3e2740"
+    "md5": "8fb298740791c5411742bd760a3e2740",
+    "old_version": "CreativeCore_v2.0.5_mc1.15.2"
   }
 ]
