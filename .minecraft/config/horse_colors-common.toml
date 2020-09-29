@@ -1,0 +1,82 @@
+
+#Common config settings
+[common]
+	#If enabled, right clicking a horse while holding a saddle or horse armor
+	#will equip it (as long as the horse isn't already wearing something in that slot)
+	#instead of opening the inventory.
+	autoEquipSaddle = true
+	#If enabled, debugging information will appear on the screen when the
+	#player is holding a stick in their left hand and looks at a horse.
+	#For most users, it is probably better to leave this as false.
+	horseDebugInfo = false
+	#If enabled, horses will not wander off if they are wearing a saddle.
+	enableGroundTie = true
+
+#Config settings related to growth and aging
+[growth]
+	#How long a year lasts in twenty minute Minecraft days, for age-dependent colors such as gray.
+	#Range: 8.333333333333333E-5 ~ 10000.0
+	yearLength = 4.0
+	#If enabled, foals will slowly get bigger as they grow into adults.
+	foalsGrowGradually = false
+	#If enabled, gray hores will be born colored and their fur will gradually turn white.
+	grayGradually = true
+	#The number of twenty minute Minecraft days that it takes for a foal to become an adult.
+	#Range: 8.333333333333333E-5 ~ 10000.0
+	growTime = 1.0
+
+#Config settings related to breeding and gender
+[breeding]
+	#The number of ticks until female horses can breed again.
+	#The default value is 24000 ticks (20 minutes, or 1 minecraft day).
+	#This must always be at least as long as pregnancyLength.
+	#Range: > 0
+	femaleBreedingCooldown = 24000
+	#If genders are enabled, females will be pregnant for this many ticks.
+	#The default value is 24000 ticks (20 minutes, or 1 minecraft day).
+	#To disable pregnancy altogether, set this number to 0.
+	#Lowering this will not let female horses breed again sooner unless you
+	#also lower femaleRebreedTicks
+	#Range: > 0
+	pregnancyLength = 24000
+	#The number of ticks until male horses can breed again.
+	#The default value is 240 ticks (12 seconds).
+	#Range: > 0
+	maleBreedingCooldown = 240
+	#The number of ticks until horses can breed again, when genders are disabled.
+	#The vanilla value is 6000 (or at 20 ticks per second, 5 minutes,
+	#or at 24000 ticks per minecraft day, 1/4 day)
+	#Range: > 0
+	genderlessBreedingCooldown = 6000
+	#Enables or disables all features relating to gender.
+	enableGenders = false
+
+#Settings to configure spawning
+[spawn]
+	#Whether to allow new vanilla horses to spawn. This will not affect any
+	#horses that already exist.
+	blockVanillaHorseSpawns = true
+	#Larger numbers make horses more common, smaller numbers make them less common.
+	#1.0 makes them as common as in vanilla.
+	#Range: 0.0 ~ 1000.0
+	horseSpawnMultiplier = 1.0
+
+#Config settings for genetics
+[genetics]
+	#The chance for each allele to mutate. The recommended range
+	#is between 0.0001 and 0.01.
+	#To disable mutations, set this value to 0.
+	#Range: 0.0 ~ 1.0
+	mutationChance = 5.0E-4
+	#If enabled, certain genes will have a small impact on health,
+	#as they do in real life. This config option does not affect Overo
+	#Lethal White Syndrome.
+	enableHealthEffects = true
+	#Enable or disable physical inspection (rough information about health,
+	#speed, and jump).
+	bookShowsTraits = true
+	#If enabled, horses' speed, jump, and health will be determined
+	#through genetics instead of the vanilla Minecraft way
+	useGeneticStats = true
+	#Enable or disable genetic testing.
+	bookShowsGenes = true

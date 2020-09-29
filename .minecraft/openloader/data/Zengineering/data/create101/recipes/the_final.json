@@ -3,11 +3,11 @@
   "pattern": [
     "IGDBSBDGI",
     "GDBSOSBDG",
-    "DBSOTOSBD",
+    "DBSOAOSBD",
     "BSO1H2OSB",
-    "SOTHAHTOS",
+    "SOAHAHAOS",
     "BSO3H4OSB",
-    "DBSOTOSBD",
+    "DBSOAOSBD",
     "GDBSOSBDG",
     "IGDBSBDGI"
   ],
@@ -35,9 +35,6 @@
     },
     "H": {
       "item": "quark:diamond_heart"
-    },
-    "T": {
-      "item": "totem_of_undying"
     },
     "1": {
       "item": "apotheosis:draconic_endshelf"

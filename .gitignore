@@ -25,3 +25,5 @@
 /.minecraft/screenshots/
 /.minecraft/WailaErrorOutput.txt
 /.minecraft/node_modules/
+/.minecraft/config/jecalculation/record.json
+/.minecraft/config/journeymap_ModInfo.cfg

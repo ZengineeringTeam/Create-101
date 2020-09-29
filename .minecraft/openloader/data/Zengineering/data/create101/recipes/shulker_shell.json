@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X#X",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "popped_chorus_fruit"
+    },
+    "X": {
+      "item": "mekanism:nugget_tin"
+    }
+  },
+  "result": {
+    "item": "shulker_shell"
+  }
+}

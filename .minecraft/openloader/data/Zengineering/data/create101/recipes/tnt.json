@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#XX",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "sand"
+    },
+    "X": {
+      "item": "gunpowder"
+    }
+  },
+  "result": {
+    "item": "tnt"
+  }
+}

@@ -4,8 +4,8 @@
     "slug": "jei",
     "name": "Just Enough Items (JEI)",
     "strategy": "alpha",
-    "new_version": "jei-1.15.2-6.0.2.12",
-    "md5": "977b1b4aaf021777189c5e08c413d3f1",
+    "new_version": "jei-1.15.2-6.0.3.15",
+    "md5": "35219b860ca7e6e92000777c12c094cd",
     "file_id": 2988823,
     "old_version": "jei-1.15.2-6.0.2.12"
   },
@@ -14,8 +14,8 @@
     "slug": "ding",
     "name": "Ding",
     "strategy": "alpha",
-    "new_version": "Ding-1.15.2-1.1.0",
-    "md5": "a8a28ee72823a91ca0bb6b6472ffe622",
+    "new_version": "Ding-1.15.2-1.2.0",
+    "md5": "56d12bd6f82ea4028fd58c98de907c37",
     "file_id": 2913026,
     "old_version": "Ding-1.15.2-1.1.0"
   },
@@ -24,8 +24,8 @@
     "slug": "kiwi",
     "name": "🥝 Kiwi",
     "strategy": "beta",
-    "new_version": "Kiwi-1.15.2-2.8.2",
-    "md5": "5c201764e39fe1fa76febeb5b5074313",
+    "new_version": "Kiwi-1.15.2-2.8.4",
+    "md5": "171f9ae2aab0624dd8d7c1bfc36548f1",
     "file_id": 3019945,
     "old_version": "Kiwi-1.15.2-2.8.2"
   },
@@ -64,8 +64,8 @@
     "slug": "clumps",
     "name": "Clumps",
     "strategy": "beta",
-    "new_version": "Clumps-5.0.2.4",
-    "md5": "c4165fb583290257b29e8d0505fd02d6",
+    "new_version": "Clumps-5.0.2.6",
+    "md5": "756461f411ae9ea68517b84aa6d8a198",
     "file_id": 3009234,
     "old_version": "Clumps-5.0.2.4"
   },
@@ -94,8 +94,8 @@
     "slug": "fps-reducer",
     "name": "FPS Reducer",
     "strategy": "beta",
-    "new_version": "FpsReducer-mc1.15.2-1.17",
-    "md5": "ef8266f34183a458fc7d91e79fedf51c",
+    "new_version": "FpsReducer-mc1.15.2-1.18",
+    "md5": "ed974eb8ef528090158d4aaccfcd28d6",
     "file_id": 3009114,
     "old_version": "FpsReducer-mc1.15.2-1.17"
   },
@@ -124,8 +124,8 @@
     "slug": "interactio",
     "name": "Interactio - In-World Crafting with Datapacks!",
     "strategy": "beta",
-    "new_version": "Interactio-1.15.2-2.0.3",
-    "md5": "6ffa6c5942a7fdb0a4c4e659a7659fcf",
+    "new_version": "Interactio-1.15.2-3.0.0",
+    "md5": "fb2496c7171d45a437f6a1582432dc4b",
     "file_id": 2976074,
     "old_version": "Interactio-1.15.2-2.0.3"
   },
@@ -164,8 +164,8 @@
     "slug": "just-enough-calculation",
     "name": "Just Enough Calculation",
     "strategy": "beta",
-    "new_version": "JustEnoughCalculation-1.15.2-3.6.1",
-    "md5": "45c549249fd5dd08e30938660827796e",
+    "new_version": "JustEnoughCalculation-1.15.2-3.6.2",
+    "md5": "8bf87878f8b5d20ac92b2015cb423cb4",
     "file_id": 2897376,
     "old_version": "JustEnoughCalculation-1.15.2-3.6.1"
   },
@@ -174,8 +174,8 @@
     "slug": "just-enough-characters",
     "name": "Just Enough Characters",
     "strategy": "beta",
-    "new_version": "JustEnoughCharacters-1.15.2-4.1.0",
-    "md5": "a5dfb78f2c44e79470b8eeceee7ec53b",
+    "new_version": "JustEnoughCharacters-1.15.2-4.1.1",
+    "md5": "04a610aed8df7f885b8ce7f9599d41e6",
     "file_id": 2897368,
     "old_version": "JustEnoughCharacters-1.15.2-4.1.0"
   },
@@ -184,8 +184,8 @@
     "slug": "bad-wither-no-cookie-reloaded",
     "name": "Bad Wither No Cookie - Reloaded",
     "strategy": "beta",
-    "new_version": "bwncr-1.15.1-3.6.13",
-    "md5": "f8fd75369c6663e37ccea9331d97989e",
+    "new_version": "bwncr-1.15.2-3.6.13",
+    "md5": "d877eba2da7fedeca3ab16bff3a70011",
     "file_id": 2844545,
     "old_version": "bwncr-1.15.1-3.6.13"
   },
@@ -274,7 +274,7 @@
     "slug": "reauth",
     "name": "ReAuth",
     "strategy": "beta",
-    "new_version": "ReAuth-3.8.1",
+    "new_version": "ReAuth-3.8.1 1.14/1.15",
     "md5": "7a2655c439bb612f744afbe1bb3e56f7",
     "file_id": 2950766,
     "old_version": "ReAuth-3.8.1"
@@ -324,8 +324,8 @@
     "slug": "apotheosis",
     "name": "Apotheosis",
     "strategy": "beta",
-    "new_version": "Apotheosis-1.15.2-3.2.4",
-    "md5": "b7fa5485be839353f4fba5c7eba6850c",
+    "new_version": "Apotheosis-1.15.2-3.3.7",
+    "md5": "8674df4eda02155296640c7cf46b7494",
     "file_id": 3004358,
     "old_version": "Apotheosis-1.15.2-3.2.4"
   },
@@ -404,8 +404,8 @@
     "slug": "mixinbootstrap",
     "name": "MixinBootstrap",
     "strategy": "beta",
-    "new_version": "MixinBootstrap-1.0.3",
-    "md5": "b62d187f409ba65c5226b0d874a9be41",
+    "new_version": "MixinBootstrap-1.0.4",
+    "md5": "47dd00370c3f3f6fdd32fd1232a866a8",
     "file_id": 2939224,
     "old_version": "MixinBootstrap-1.0.3"
   },
@@ -444,8 +444,8 @@
     "slug": "discordrpc",
     "name": "DiscordRichPresence",
     "strategy": "beta",
-    "new_version": "DiscordRichPresence-2.0.4 (MC 1.15)",
-    "md5": "e58eea3afa1835530575f361166949ce",
+    "new_version": "DiscordRichPresence-2.0.5 (MC 1.15)",
+    "md5": "57a9b37caeb10de26f26d5acebeb1273",
     "file_id": 2970098,
     "old_version": "DiscordRichPresence-2.0.4 (MC 1.15)"
   },
@@ -504,9 +504,9 @@
     "slug": "create",
     "name": "Create",
     "strategy": "beta",
-    "new_version": "Create - mc1.15.2_v0.2.4d",
+    "new_version": "Create - mc1.15.2_v0.2.4e",
     "file_id": 2979593,
-    "md5": "6dc4af734d262183bee2589fb27921a9",
+    "md5": "7458e43dd03e15ebeabb782a78abb56e",
     "old_version": "Create - mc1.15.2_v0.2.4d"
   },
   {
@@ -564,9 +564,9 @@
     "slug": "cc-tweaked",
     "name": "CC: Tweaked",
     "strategy": "beta",
-    "new_version": "cc-tweaked-1.15.2-1.90.2",
+    "new_version": "cc-tweaked-1.15.2-1.92.0",
     "file_id": 3014266,
-    "md5": "5eadfdb18964501d68814f78ad5671c6",
+    "md5": "af02f5f3629ee2521cb16a2250cc220c",
     "old_version": "cc-tweaked-1.15.2-1.90.2"
   },
   {
@@ -638,5 +638,45 @@
     "file_id": 2917232,
     "md5": "8fb298740791c5411742bd760a3e2740",
     "old_version": "CreativeCore_v2.0.5_mc1.15.2"
+  },
+  {
+    "addon_id": 345135,
+    "slug": "maessentials",
+    "name": "Ma Essentials",
+    "strategy": "beta",
+    "new_version": " [1.15.2] Ma Essentials v3.1.1",
+    "md5": "52fb3119e497021096ee2ff2345d94f6"
+  },
+  {
+    "addon_id": 339184,
+    "slug": "realistic-horse-genetics",
+    "name": "Realistic Horse Genetics",
+    "strategy": "beta",
+    "new_version": "horse_colors-1.15.2-1.4.0.1",
+    "md5": "27531f78cf74eff1c9bf03fa1849db14"
+  },
+  {
+    "addon_id": 331528,
+    "slug": "ender-magnet",
+    "name": "Ender Magnet",
+    "strategy": "beta",
+    "new_version": "EnderMagnet-1.15.1-3.0.0",
+    "md5": "4611d2cdf51d2057783f1152e0735673"
+  },
+  {
+    "addon_id": 398521,
+    "slug": "farmers-delight",
+    "name": "Farmer's Delight",
+    "strategy": "beta",
+    "new_version": "FarmersDelight-1.15.2-0.2.3",
+    "md5": "be83e74c97ba3098ec3e0ce557de49ab"
+  },
+  {
+    "addon_id": 271009,
+    "slug": "forgiving-void",
+    "name": "Forgiving Void",
+    "strategy": "beta",
+    "new_version": "Forgiving Void 1.15.x - 4.0.0",
+    "md5": "54d3d034f7d13057e59d703c7c5ce9c3"
   }
 ]

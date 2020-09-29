@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:compressing",
+  "itemInput": {
+    "ingredient": {
+      "item": "mekanism:nugget_tin"
+    }
+  },
+  "gasInput": {
+    "amount": 1,
+    "gas": "mekanism:sodium"
+  },
+  "output": {
+    "item": "ghast_tear"
+  }
+}
