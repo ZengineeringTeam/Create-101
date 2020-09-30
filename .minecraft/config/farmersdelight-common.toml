@@ -69,3 +69,4 @@
 		chance = 9
 		#Generate wild carrots on temperate biomes (temperature between 0.4 and 0.9)
 		genWildCarrots = false
+

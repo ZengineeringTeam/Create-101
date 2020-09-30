@@ -72,7 +72,7 @@
 	#as they do in real life. This config option does not affect Overo
 	#Lethal White Syndrome.
 	enableHealthEffects = true
-	#Enable or disable physical inspection (rough information about health,
+	#Enable or disable physical inspection (rough information about health, 
 	#speed, and jump).
 	bookShowsTraits = true
 	#If enabled, horses' speed, jump, and health will be determined
@@ -80,3 +80,4 @@
 	useGeneticStats = true
 	#Enable or disable genetic testing.
 	bookShowsGenes = true
+

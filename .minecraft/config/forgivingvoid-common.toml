@@ -26,3 +26,4 @@
 	requiredGameStage = ""
 	#List of additional dimension ids to be blacklisted from Forgiving Void. Options triggerInOverworld etc. take priority.
 	dimensionBlacklist = []
+

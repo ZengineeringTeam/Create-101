@@ -172,3 +172,4 @@
 	[Commands.god]
 		#Enable command: /god
 		enable = true
+

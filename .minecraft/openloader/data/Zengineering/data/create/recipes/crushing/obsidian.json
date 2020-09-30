@@ -4,7 +4,7 @@
     	{
     		"item": "minecraft:obsidian"
     	}
-    ], 
+    ],
 	"results": [
 		{
 			"item": "create:powdered_obsidian",
@@ -14,7 +14,7 @@
 		{
 			"item": "minecraft:obsidian",
 			"count": 1,
-			"chance": 0.875
+			"chance": 0.96
 		}
 	],
 	"processingTime": 500

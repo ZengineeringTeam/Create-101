@@ -5,8 +5,8 @@
   "modloader": "forge",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 4
+    "minor": 1,
+    "patch": 0
   },
   "check_interval": 259200000,
   "retry": {
