@@ -6,7 +6,7 @@
     "strategy": "alpha",
     "new_version": "jei-1.15.2-6.0.3.15",
     "md5": "35219b860ca7e6e92000777c12c094cd",
-    "file_id": 2988823,
+    "file_id": 3039710,
     "old_version": "jei-1.15.2-6.0.3.15"
   },
   {
@@ -16,7 +16,7 @@
     "strategy": "alpha",
     "new_version": "Ding-1.15.2-1.2.0",
     "md5": "56d12bd6f82ea4028fd58c98de907c37",
-    "file_id": 2913026,
+    "file_id": 3062072,
     "old_version": "Ding-1.15.2-1.2.0"
   },
   {
@@ -26,7 +26,7 @@
     "strategy": "beta",
     "new_version": "Kiwi-1.15.2-2.8.4",
     "md5": "171f9ae2aab0624dd8d7c1bfc36548f1",
-    "file_id": 3019945,
+    "file_id": 3068122,
     "old_version": "Kiwi-1.15.2-2.8.4"
   },
   {
@@ -96,7 +96,7 @@
     "strategy": "beta",
     "new_version": "FpsReducer-mc1.15.2-1.18",
     "md5": "ed974eb8ef528090158d4aaccfcd28d6",
-    "file_id": 3009114,
+    "file_id": 3042762,
     "old_version": "FpsReducer-mc1.15.2-1.18"
   },
   {
@@ -126,7 +126,7 @@
     "strategy": "beta",
     "new_version": "Interactio-1.15.2-3.0.0",
     "md5": "fb2496c7171d45a437f6a1582432dc4b",
-    "file_id": 2976074,
+    "file_id": 3044678,
     "old_version": "Interactio-1.15.2-3.0.0"
   },
   {
@@ -166,7 +166,7 @@
     "strategy": "beta",
     "new_version": "JustEnoughCalculation-1.15.2-3.6.2",
     "md5": "8bf87878f8b5d20ac92b2015cb423cb4",
-    "file_id": 2897376,
+    "file_id": 3055521,
     "old_version": "JustEnoughCalculation-1.15.2-3.6.2"
   },
   {
@@ -176,7 +176,7 @@
     "strategy": "beta",
     "new_version": "JustEnoughCharacters-1.15.2-4.1.1",
     "md5": "04a610aed8df7f885b8ce7f9599d41e6",
-    "file_id": 2897368,
+    "file_id": 3055981,
     "old_version": "JustEnoughCharacters-1.15.2-4.1.1"
   },
   {
@@ -186,7 +186,7 @@
     "strategy": "beta",
     "new_version": "bwncr-1.15.2-3.6.13",
     "md5": "d877eba2da7fedeca3ab16bff3a70011",
-    "file_id": 2844545,
+    "file_id": 3034216,
     "old_version": "bwncr-1.15.2-3.6.13"
   },
   {
@@ -326,7 +326,7 @@
     "strategy": "beta",
     "new_version": "Apotheosis-1.15.2-3.3.7",
     "md5": "8674df4eda02155296640c7cf46b7494",
-    "file_id": 3004358,
+    "file_id": 3059784,
     "old_version": "Apotheosis-1.15.2-3.3.7"
   },
   {
@@ -406,7 +406,7 @@
     "strategy": "beta",
     "new_version": "MixinBootstrap-1.0.4",
     "md5": "47dd00370c3f3f6fdd32fd1232a866a8",
-    "file_id": 2939224,
+    "file_id": 3063565,
     "old_version": "MixinBootstrap-1.0.4"
   },
   {
@@ -446,7 +446,7 @@
     "strategy": "beta",
     "new_version": "DiscordRichPresence-2.0.5 (MC 1.15)",
     "md5": "57a9b37caeb10de26f26d5acebeb1273",
-    "file_id": 2970098,
+    "file_id": 3033809,
     "old_version": "DiscordRichPresence-2.0.5 (MC 1.15)"
   },
   {
@@ -505,7 +505,7 @@
     "name": "Create",
     "strategy": "beta",
     "new_version": "Create - mc1.15.2_v0.2.4e",
-    "file_id": 2979593,
+    "file_id": 3066060,
     "md5": "7458e43dd03e15ebeabb782a78abb56e",
     "old_version": "Create - mc1.15.2_v0.2.4e"
   },
@@ -565,7 +565,7 @@
     "name": "CC: Tweaked",
     "strategy": "beta",
     "new_version": "cc-tweaked-1.15.2-1.92.0",
-    "file_id": 3014266,
+    "file_id": 3055267,
     "md5": "af02f5f3629ee2521cb16a2250cc220c",
     "old_version": "cc-tweaked-1.15.2-1.92.0"
   },
@@ -646,7 +646,8 @@
     "strategy": "beta",
     "new_version": " [1.15.2] Ma Essentials v3.1.1",
     "md5": "52fb3119e497021096ee2ff2345d94f6",
-    "old_version": " [1.15.2] Ma Essentials v3.1.1"
+    "old_version": " [1.15.2] Ma Essentials v3.1.1",
+    "file_id": 2979463
   },
   {
     "addon_id": 339184,
@@ -655,7 +656,8 @@
     "strategy": "beta",
     "new_version": "horse_colors-1.15.2-1.4.0.1",
     "md5": "27531f78cf74eff1c9bf03fa1849db14",
-    "old_version": "horse_colors-1.15.2-1.4.0.1"
+    "old_version": "horse_colors-1.15.2-1.4.0.1",
+    "file_id": 3051567
   },
   {
     "addon_id": 331528,
@@ -664,7 +666,8 @@
     "strategy": "beta",
     "new_version": "EnderMagnet-1.15.1-3.0.0",
     "md5": "4611d2cdf51d2057783f1152e0735673",
-    "old_version": "EnderMagnet-1.15.1-3.0.0"
+    "old_version": "EnderMagnet-1.15.1-3.0.0",
+    "file_id": 2864541
   },
   {
     "addon_id": 398521,
@@ -673,7 +676,8 @@
     "strategy": "beta",
     "new_version": "FarmersDelight-1.15.2-0.2.3",
     "md5": "be83e74c97ba3098ec3e0ce557de49ab",
-    "old_version": "FarmersDelight-1.15.2-0.2.3"
+    "old_version": "FarmersDelight-1.15.2-0.2.3",
+    "file_id": 3067067
   },
   {
     "addon_id": 271009,
@@ -682,7 +686,8 @@
     "strategy": "beta",
     "new_version": "Forgiving Void 1.15.x - 4.0.0",
     "md5": "54d3d034f7d13057e59d703c7c5ce9c3",
-    "old_version": "Forgiving Void 1.15.x - 4.0.0"
+    "old_version": "Forgiving Void 1.15.x - 4.0.0",
+    "file_id": 2863710
   },
   {
     "addon_id": 317792,
@@ -691,6 +696,7 @@
     "strategy": "beta",
     "new_version": "The Mighty Architect - mc1.15.2_v0.5",
     "md5": "cdf66a77657f508953ff1d9eecc54550",
-    "old_version": "The Mighty Architect - mc1.15.2_v0.5"
+    "old_version": "The Mighty Architect - mc1.15.2_v0.5",
+    "file_id": 3067203
   }
 ]
