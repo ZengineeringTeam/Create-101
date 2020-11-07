@@ -2,7 +2,7 @@
     "type": "crafting_shapeless",
 	"ingredients": [
 		{
-			"item": "phantom_membrane"
+			"item": "feather"
 		},
 		{
 			"item": "quark:dragon_scale"

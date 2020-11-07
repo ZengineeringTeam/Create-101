@@ -14,7 +14,7 @@
 	#Energy per operation tick (Joules).
 	digitalMiner = "100"
 	#Energy per operation tick (Joules).
-	combiner = "5000000"
+	combiner = "40000000"
 	#Energy per operation tick (Joules).
 	metallurgicInfuser = "50"
 	#Energy per operation tick (Joules).
