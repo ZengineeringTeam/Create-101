@@ -1,0 +1,35 @@
+{
+  "parent": "create101:shiny",
+  "display": {
+    "icon": {
+      "item": "refinedstorage:processor_binding"
+    },
+    "title": {
+      "translate": "advancement.create101.sticky"
+    },
+    "description": {
+      "translate": "advancement.create101.sticky"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "refinedstorage:processor_binding"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

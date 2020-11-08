@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "mekanism:ingot_steel"
+    },
+    "title": {
+      "translate": "advancement.create101.root"
+    },
+    "description": {
+      "translate": "advancement.create101.root"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "create:textures/block/palettes/andesite/pillar.png"
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

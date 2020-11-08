@@ -1,0 +1,35 @@
+{
+  "parent": "create101:shiny",
+  "display": {
+    "icon": {
+      "item": "trident"
+    },
+    "title": {
+      "translate": "advancement.create101.trident"
+    },
+    "description": {
+      "translate": "advancement.create101.trident"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "trident"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

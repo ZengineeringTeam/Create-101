@@ -27,7 +27,7 @@
     "new_version": "Kiwi-1.15.2-2.8.5",
     "md5": "dc8c6293df0d47f899583490eedf0f3d",
     "file_id": 3103508,
-    "old_version": "Kiwi-1.15.2-2.8.4"
+    "old_version": "Kiwi-1.15.2-2.8.5"
   },
   {
     "addon_id": 355467,
@@ -37,7 +37,7 @@
     "new_version": "FruitTrees-1.15.2-1.7.0",
     "md5": "2ff4b46c372c6858a32d8ccfe3fa8701",
     "file_id": 3103510,
-    "old_version": "FruitTrees-1.15.2-1.6.0"
+    "old_version": "FruitTrees-1.15.2-1.7.0"
   },
   {
     "addon_id": 296028,
@@ -47,7 +47,7 @@
     "new_version": "LightingWand-1.15.2-1.5.1",
     "md5": "4ca36d194e0b2056ed8a487ca89ff608",
     "file_id": 3104360,
-    "old_version": "LightingWand-1.15.2-1.5.0"
+    "old_version": "LightingWand-1.15.2-1.5.1"
   },
   {
     "addon_id": 375272,
@@ -177,7 +177,7 @@
     "new_version": "JustEnoughCharacters-1.15.2-4.1.2",
     "md5": "98070a00c6f9423e2cec921b664059c2",
     "file_id": 3091552,
-    "old_version": "JustEnoughCharacters-1.15.2-4.1.1"
+    "old_version": "JustEnoughCharacters-1.15.2-4.1.2"
   },
   {
     "addon_id": 261251,
@@ -344,10 +344,10 @@
     "slug": "storage-drawers",
     "name": "Storage Drawers",
     "strategy": "beta",
-    "new_version": "StorageDrawers-1.15.2-7.0.2",
-    "md5": "f2a07ebff34cb3ceed405acfe9593932",
-    "file_id": 2887674,
-    "old_version": "StorageDrawers-1.15.2-7.0.2"
+    "new_version": "StorageDrawers-1.15.2-7.0.3",
+    "md5": "2b11fc6740c9ebadbb2ef353121f8edd",
+    "file_id": 3092975,
+    "old_version": "StorageDrawers-1.15.2-7.0.3"
   },
   {
     "addon_id": 354339,
@@ -564,10 +564,10 @@
     "slug": "cc-tweaked",
     "name": "CC: Tweaked",
     "strategy": "beta",
-    "new_version": "cc-tweaked-1.15.2-1.93.1",
-    "file_id": 3090643,
-    "md5": "33d2a6732aac15613e38261deac15c05",
-    "old_version": "cc-tweaked-1.15.2-1.93.0"
+    "new_version": "cc-tweaked-1.15.2-1.94.0",
+    "file_id": 3104634,
+    "md5": "eec032473989bfd5d49aa9a3c2c2b2d2",
+    "old_version": "cc-tweaked-1.15.2-1.94.0"
   },
   {
     "addon_id": 379887,
@@ -577,17 +577,17 @@
     "new_version": "PassableFoliage-1.15.2-1.2.0",
     "file_id": 3103796,
     "md5": "3cb24be05383f6d05468d93ae3d16f00",
-    "old_version": "PassableFoliage-1.15.2-1.1.3"
+    "old_version": "PassableFoliage-1.15.2-1.2.0"
   },
   {
     "addon_id": 314735,
     "slug": "zentweaker",
     "name": "ZenTweaker",
     "strategy": "beta",
-    "new_version": "ZenTweaker-1.15.2-1.0.0",
-    "file_id": 3011702,
-    "md5": "a75a65838be2056e28a25864e67e648a",
-    "old_version": "ZenTweaker-1.15.2-1.0.0"
+    "new_version": "ZenTweaker-1.15.2-1.1.0",
+    "file_id": 3105331,
+    "md5": "146d57b27364ea4feb7d5e294378dfdc",
+    "old_version": "ZenTweaker-1.15.2-1.1.0"
   },
   {
     "addon_id": 55438,
@@ -688,5 +688,15 @@
     "md5": "cdf66a77657f508953ff1d9eecc54550",
     "old_version": "The Mighty Architect - mc1.15.2_v0.5",
     "file_id": 3067203
+  },
+  {
+    "addon_id": 389989,
+    "slug": "fastfurnace-minus-replacement",
+    "name": "Fast Furnace minus Replacement",
+    "strategy": "beta",
+    "new_version": "fastfurnaceminusreplacement-1.0",
+    "file_id": 2980979,
+    "md5": "a5347ba92a890af711fca1d240a9b548",
+    "old_version": "fastfurnaceminusreplacement-1.0"
   }
 ]

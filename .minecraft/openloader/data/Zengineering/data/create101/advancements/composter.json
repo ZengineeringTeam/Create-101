@@ -1,0 +1,35 @@
+{
+  "parent": "create101:iron",
+  "display": {
+    "icon": {
+      "item": "composter"
+    },
+    "title": {
+      "translate": "advancement.create101.composter"
+    },
+    "description": {
+      "translate": "advancement.create101.composter"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "composter"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}
