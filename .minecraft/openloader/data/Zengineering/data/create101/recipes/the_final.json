@@ -1,15 +1,15 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    "IGDBSBDGI",
-    "GDBSOSBDG",
-    "DBSOAOSBD",
-    "BSO1H2OSB",
-    "SOAHAHAOS",
-    "BSO3H4OSB",
-    "DBSOAOSBD",
-    "GDBSOSBDG",
-    "IGDBSBDGI"
+    "IIIIIIIII",
+    "IGGGGGGGI",
+    "IGDDDDDGI",
+    "IGDBBBDGI",
+    "IGDBOBDGI",
+    "IGDBBBDGI",
+    "IGDDDDDGI",
+    "IGGGGGGGI",
+    "IIIIIIIII"
   ],
   "key": {
     "I": {
@@ -24,29 +24,8 @@
     "B": {
       "item": "refinedstorage:processor_binding"
     },
-    "S": {
-      "item": "nether_star"
-    },
     "O": {
       "item": "mekanism:ingot_osmium"
-    },
-    "A": {
-      "item": "enchanted_golden_apple"
-    },
-    "H": {
-      "item": "quark:diamond_heart"
-    },
-    "1": {
-      "item": "apotheosis:draconic_endshelf"
-    },
-    "2": {
-      "item": "apotheosis:heart_seashelf"
-    },
-    "3": {
-      "item": "apotheosis:beeshelf"
-    },
-    "4": {
-      "item": "apotheosis:blazing_hellshelf"
     }
   },
   "result": {

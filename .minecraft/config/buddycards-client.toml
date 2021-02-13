@@ -1,0 +1,118 @@
+
+[mobDrops]
+	#
+	#Odds of baby zombie dropping base set packs, 0 for 0%, 1 for 100%, default is 20%
+	#Range: 0.0 ~ 1.0
+	zombieChance = 0.05
+	#
+	#Odds of baby villager dropping base set packs, 0 for 0%, 1 for 100%, default is 20%
+	#Range: 0.0 ~ 1.0
+	villagerChance = 0.05
+	#
+	#Odds of baby zombie villager dropping base set packs, 0 for 0%, 1 for 100%, default is 40%
+	#Range: 0.0 ~ 1.0
+	zombieVillagerChance = 0.1
+	#
+	#Odds of baby piglin dropping nether set packs, 0 for 0%, 1 for 100%, default is 20%
+	#Range: 0.0 ~ 1.0
+	piglinChance = 0.05
+	#
+	#Odds of baby zombie piglin dropping nether set , 0 for 0%, 1 for 100%, default is 20%
+	#Range: 0.0 ~ 1.0
+	zombiePiglinChance = 0.05
+	#
+	#Odds of shulkers dropping end set packs, 0 for 0%, 1 for 100%, default is 5%
+	#Range: 0.0 ~ 1.0
+	shulkerChance = 0.05
+	#
+	#Odds of withers dropping nether set packs, 0 for 0%, 1 for 100%, default is 50%
+	#Range: 0.0 ~ 1.0
+	dragonChance = 0.5
+	#
+	#Maximum amount of packs dropped when a wither drops packs, default is 3
+	#Range: 1 ~ 16
+	dragonMaxPacks = 3
+
+[lootTables]
+	#
+	#Allow packs to be obtained through Piglin bartering, default is true
+	piglinBartering = true
+	#
+	#Allow natural generation of packs in loot chests, default is true
+	lootChestPacks = true
+
+[integration]
+	#
+	#Odds of fishing up an Aquaculture set card or pack while using a buddycard hook, 0-1, default is .075
+	#Range: 0.0 ~ 1.0
+	aquacultureFishingChance = 0.075
+
+[challenge]
+	#
+	#Enable Challenge mode, assigning cards point values, and giving each player a challenge binder, default is false
+	doChallengeMode = false
+	#
+	#Base challenge points for common cards, 1-100, default is 1
+	#Range: 1 ~ 100
+	pointsCommon = 1
+	#
+	#Base challenge points for uncommon cards, 1-100, default is 2
+	#Range: 1 ~ 100
+	pointsUncommon = 2
+	#
+	#Base challenge points for rare cards, 1-100, default is 3
+	#Range: 1 ~ 100
+	pointsRare = 3
+	#
+	#Base challenge points for epic cards, 1-100, default is 5
+	#Range: 1 ~ 100
+	pointsEpic = 5
+	#
+	#Multiplier for challenge points on shiny cards, 0-10, default is 1.25
+	#Range: 0.0 ~ 10.0
+	shinyMultiplier = 1.25
+	#
+	#Multiplier for challenge points from base set, 0-10, default is .8
+	#Range: 0.0 ~ 10.0
+	set1Multiplier = 0.8
+	#
+	#Multiplier for challenge points from nether set, 0-10, default is 1
+	#Range: 0.0 ~ 10.0
+	set2Multiplier = 1.0
+	#
+	#Multiplier for challenge points from end set, 0-10, default is 2
+	#Range: 0.0 ~ 10.0
+	set3Multiplier = 2.0
+	#
+	#Multiplier for challenge points from byg set, 0-10, default is 2
+	#Range: 0.0 ~ 10.0
+	set4Multiplier = 2.0
+	#
+	#Multiplier for challenge points from create set, 0-10, default is 1.4
+	#Range: 0.0 ~ 10.0
+	set5Multiplier = 1.399999976158142
+	#
+	#Multiplier for challenge points from aquaculture set, 0-10, default is 1
+	#Range: 0.0 ~ 10.0
+	set6Multiplier = 1.0
+	#
+	#Multiplier for challenge points with grade D, 0-10, default is 1
+	#Range: 0.0 ~ 10.0
+	grade1Multiplier = 1.0
+	#
+	#Multiplier for challenge points with grade C, 0-10, default is 1.4
+	#Range: 0.0 ~ 10.0
+	grade2Multiplier = 1.399999976158142
+	#
+	#Multiplier for challenge points with grade B, 0-10, default is 1.8
+	#Range: 0.0 ~ 10.0
+	grade3Multiplier = 1.7999999523162842
+	#
+	#Multiplier for challenge points with grade A, 0-10, default is 2.5
+	#Range: 0.0 ~ 10.0
+	grade4Multiplier = 2.5
+	#
+	#Multiplier for challenge points with grade S, 0-10, default is 10
+	#Range: 0.0 ~ 10.0
+	grade5Multiplier = 10.0
+

@@ -1,21 +1,32 @@
 {
-    "type": "create:mixing",
-    "ingredients": [
-		{
-    		"item": "create:polished_rose_quartz"
-    	},
-		{
-			"item": "create:powdered_obsidian",
-			"count": 3
-		},
-		{
-			"item": "fruittrees:grapefruit"
-		}
-    ],
-	"results": [
-		{
-			"item": "create:chromatic_compound",
-			"count": 1
-		}
-	]
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/glowstone"
+    },
+    {
+      "tag": "forge:dusts/glowstone"
+    },
+    {
+      "tag": "forge:dusts/glowstone"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:powdered_obsidian"
+    },
+    {
+      "item": "create:polished_rose_quartz"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:chromatic_compound"
+    }
+  ],
+  "heatRequirement": "superheated"
 }

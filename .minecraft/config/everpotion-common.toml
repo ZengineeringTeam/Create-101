@@ -1,6 +1,6 @@
-#Range: 5 ~ 100000
+#Range: > 5
 drinkDelay = 20
-#Range: 5 ~ 100000
+#Range: > 5
 refillTime = 2400
 naturallyRefill = true
 #Damaging mobs can speed up refilling
@@ -23,4 +23,7 @@ damageAcceleration = 1.0
 [temp]
 	#Range: 0.0 ~ 1.0
 	mobDropUnlockItem = 0
+
+[modules]
+	crafting = true
 

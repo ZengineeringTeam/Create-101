@@ -11,6 +11,21 @@
 	horseDebugInfo = false
 	#If enabled, horses will not wander off if they are wearing a saddle.
 	enableGroundTie = true
+	#If enabled, horses will be spooked by monsters and throw their rider.
+	spookyHorses = false
+	#If enabled, horses can be different sizes.
+	enableSizes = true
+	#Allows ctrl + right click to mount the clicked creature on a horse the player
+	#is riding or leading, or dismount all passengers of the clicked horse if it
+	#is not being ridden by another player.
+	#Setting to 0 disables this entirely.
+	#Setting to 2 allows this to work on any peaceful creature, not just horses.
+	#Defaults to 1.
+	#Range: 0 ~ 2
+	mountingTweaks = 1
+	#Whether to use the gray themed gender icons from Genetic Animals (by mokiyoki,
+	#used by permission) in place of the default pink and blue icons.
+	useGeneticAnimalsIcons = false
 
 #Config settings related to growth and aging
 [growth]

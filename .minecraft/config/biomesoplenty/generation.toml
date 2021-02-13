@@ -15,4 +15,6 @@
 	#The size of generated rivers.
 	#Allowed Values: TINY, SMALL, MEDIUM, LARGE, HUGE
 	river_size = "MEDIUM"
+	#Enable nether generation from Biomes O' Plenty.
+	use_bop_nether = true
 

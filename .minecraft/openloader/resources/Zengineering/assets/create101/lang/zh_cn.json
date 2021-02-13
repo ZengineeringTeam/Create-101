@@ -5,7 +5,7 @@
 "item.refinedstorage.processor_binding": "黏稠的票据",
 "item.mekanism.ingot_osmium": "扭曲的票据",
 "block.mekanismgenerators.reactor_glass.tip": "§e凋灵无法破坏这个方块",
-"block.mekanismgenerators.reactor_frame.tip": "§e凋灵无法破坏这个方块",
+"block.mekanismgenerators.fission_reactor_casing.tip": "§e凋灵无法破坏这个方块",
 "item.mekanism.nugget_tin": "小雪花",
 "item.mekanism.nugget_tin.tip": "§e杀死雪傀儡掉落",
 "item.mekanism.ingot_steel": "§e神秘三角",
@@ -29,5 +29,17 @@
 "item.mekanism.crystal_osmium": "锌晶体",
 "item.mekanism.dirty_dust_osmium": "污浊锌粉",
 "item.mekanism.dust_osmium": "锌粉",
-"item.mekanism.shard_osmium": "锌碎片"
+"item.mekanism.shard_osmium": "锌碎片",
+
+"tips.title.tip": "Snownee的完美教室",
+
+"create101.tip.bee": "准星指向蜜蜂可以看到其所携带的花粉",
+"create101.tip.oregen": "在Create 101的世界中，只有铁矿、红石矿和石英矿会自然生成",
+"create101.tip.credit": "方块放置器和绳索滑轮破基岩是Snownee修复的",
+"create101.tip.jei": "多看看JEI，很多东西都被修改或添加了配方！",
+"create101.tip.backpack": "在寻找背包？私人箱子是个不错的选择",
+"create101.tip.peaceful_star": "和平模式下，搭建召唤凋灵的结构会直接掉落下界之星",
+"create101.tip.horse_skin": "有些马匹的外表会随着年龄改变",
+"create101.tip.wither_immune": "一些方块可以免于被凋灵破坏",
+"create101.tip.everpotion": "制作你的药水核心吧！按R键就可以打开使用界面了"
 }

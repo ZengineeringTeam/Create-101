@@ -1,0 +1,15 @@
+{
+  "type": "botanypots:soil",
+
+  "input": {
+    "item": "minecraft:stone"
+  },
+
+  "display": {
+    "block": "minecraft:stone"
+  },
+
+  "growthModifier": 0,
+
+  "categories": ["stone"]
+}

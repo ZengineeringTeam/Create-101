@@ -1,0 +1,15 @@
+{
+  "type": "botanypots:soil",
+
+  "input": {
+    "item": "minecraft:prismarine"
+  },
+
+  "display": {
+    "block": "minecraft:prismarine"
+  },
+
+  "growthModifier": 0.3,
+
+  "categories": ["stone"]
+}

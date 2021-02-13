@@ -17,22 +17,22 @@
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.15.2",
+            "cachedVersion": "1.16.5",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.15.2"
+            "version": "1.16.5"
         },
         {
             "cachedName": "Forge",
             "cachedRequires": [
                 {
-                    "equals": "1.15.2",
+                    "equals": "1.16.5",
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "31.2.43",
+            "cachedVersion": "36.0.15",
             "uid": "net.minecraftforge",
-            "version": "31.2.43"
+            "version": "36.0.15"
         }
     ],
     "formatVersion": 1

@@ -1,0 +1,21 @@
+{
+  "type": "botanypots:crop",
+  "display":{"block": "minecraft:iron_ore"},
+  "growthTicks": 200,
+  "seed": {
+    "item": "minecraft:iron_ore"
+  },
+
+  "results": [
+    {
+      "output": {
+        "item": "minecraft:iron_ore"
+      },
+      "minRolls": 1,
+      "maxRolls": 1,
+      "chance": 1
+    }
+  ],
+
+  "categories": ["stone"]
+}

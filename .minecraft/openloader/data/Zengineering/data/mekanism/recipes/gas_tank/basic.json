@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "result": {
-    "item": "mekanism:basic_gas_tank"
+    "item": "mekanism:basic_chemical_tank"
   },
   "pattern": [
     "AOA",

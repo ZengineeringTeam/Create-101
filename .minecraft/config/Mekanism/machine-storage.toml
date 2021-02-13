@@ -51,4 +51,14 @@
 	chemicalDissolutionChamber = "160000"
 	#Base energy storage (Joules).
 	chemicalWasher = "80000"
+	#Base energy storage (Joules).
+	modificationStation = "40000"
+	#Base energy storage (Joules).
+	isotopicCentrifuge = "80000"
+	#Base energy storage (Joules).
+	nutritionalLiquifier = "40000"
+	#Base energy storage (Joules). Also defines max process rate.
+	antiprotonicNucleosynthesizer = "1000000000"
+	#Base energy storage (Joules). Also defines max output rate.
+	spsPort = "1000000000"
 

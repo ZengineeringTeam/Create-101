@@ -1,9 +1,0 @@
-#Range: 0 ~ 100
-growingSpeed = 5
-#Range: 0.0 ~ 1.0
-oakLeavesDropsAppleSapling = 0.20000000298023224
-#Allowed Values: NO_DROP, INDEPENDENT, ONE_BY_ONE
-fruitDropModeSingleplayer = "INDEPENDENT"
-#Allowed Values: NO_DROP, INDEPENDENT, ONE_BY_ONE
-fruitDropModeMultiplayer = "ONE_BY_ONE"
-

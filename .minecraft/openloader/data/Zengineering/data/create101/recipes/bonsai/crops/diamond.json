@@ -1,0 +1,21 @@
+{
+  "type": "botanypots:crop",
+  "display":{"block": "minecraft:diamond_ore"},
+  "growthTicks": 200,
+  "seed": {
+    "item": "refinedstorage:raw_advanced_processor"
+  },
+
+  "results": [
+    {
+      "output": {
+        "item": "minecraft:diamond_ore"
+      },
+      "minRolls": 10,
+      "maxRolls": 10,
+      "chance": 0.1
+    }
+  ],
+
+  "categories": ["stone"]
+}

@@ -2,7 +2,7 @@
   "parent": "create101:root",
   "display": {
     "icon": {
-      "item": "bonsaitrees2:hopping_bonsaipot"
+      "item": "botanypots:hopper_botany_pot"
     },
     "title": {
       "translate": "advancement.create101.bonsai"
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "bonsaitrees2:hopping_bonsaipot"
+            "item": "botanypots:hopper_botany_pot"
           }
         ]
       }

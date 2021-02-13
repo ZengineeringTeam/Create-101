@@ -36,7 +36,7 @@
 
 	#Heat Generator Settings
 	[generators.heat_generator]
-		#Add this amount of Joules to the energy produced by a heat generator if it is in the Nether.
+		#Add this amount of Joules to the energy produced by a heat generator if it is in an 'ultrawarm' dimension, in vanilla this is just the Nether.
 		heatGenerationNether = "100"
 		#Multiplier of effectiveness of Lava in the Heat Generator.
 		heatGenerationLava = "30"
@@ -51,4 +51,21 @@
 		#Hohlraum capacity in mB.
 		#Range: 1 ~ 9223372036854775807
 		maxGas = 10
+
+	#Fission Reactor Settings
+	[generators.fission_reactor]
+		#Amount of energy created (in heat) from each whole mB of fission fuel.
+		energyPerFissionFuel = "1000000"
+		#The heat capacity added to a Fission Reactor by a single casing block. Increase to require more energy to raise the reactor temperature.
+		casingHeatCapacity = 1000.0
+		#The average surface area of a Fission Reactor's fuel assemblies to reach 100% boil efficiency. Higher values make it harder to cool the reactor.
+		#Range: 1.0 ~ 1.7976931348623157E308
+		surfaceAreaTarget = 4.0
+		#Whether catastrophic meltdowns can occur from Fission Reactors.
+		meltdownsEnabled = true
+		#The chance of a meltdown occurring once damage passes 100%. Will linearly scale as damage continues increasing.
+		#Range: 0.0 ~ 1.0
+		meltdownChance = 0.001
+		#How much radioactivity of fuel/waste contents are multiplied during a meltdown.
+		meltdownRadiationMultiplier = 50.0
 

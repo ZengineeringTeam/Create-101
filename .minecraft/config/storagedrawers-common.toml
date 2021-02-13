@@ -22,8 +22,8 @@
 	#When multiple storage upgrades are used together, their multipliers are added before being applied.
 	level1Mult = 2
 	level3Mult = 8
-	level5Mult = 32
-	level4Mult = 16
+	level5Mult = 16
+	level4Mult = 32
 
 [Integration]
 	wailaStackRemainder = true

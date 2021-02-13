@@ -1,28 +1,25 @@
 {
-    "type": "create:mechanical_crafting",
-        "pattern": [
-			" PPP ",
-			"PSBSP",
-			"PBCBP",
-			"PSBSP",
-			" PPP "
-        ],
-        "key": {
-			"P": {
-                "item": "iron_ingot"
-            },
-            "S": {
-                "tag": "forge:rods/wooden"
-            },
-			"C": {
-                "item": "create:andesite_casing"
-            },
-			"B": {
-                "tag": "forge:stone"
-            }
-        },
-	"result": {
-		"item": "create:crushing_wheel",
-		"count": 2
-	}
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " AAA ",
+    "AAPAA",
+    "APSPA",
+    "AAPAA",
+    " AAA "
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "S": {
+      "tag": "forge:stone"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    }
+  },
+  "result": {
+    "item": "create:crushing_wheel",
+    "count": 2
+  }
 }

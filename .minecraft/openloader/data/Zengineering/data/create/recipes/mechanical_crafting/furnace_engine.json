@@ -1,26 +1,30 @@
 {
-    "type": "create:mechanical_crafting",
-        "pattern": [
-			"PPP",
-			"DCA",
-			"PPP"
-        ],
-        "key": {
-			"P": {
-                "tag": "forge:plates/brass"
-            },
-			"D": {
-                "tag": "forge:plates/copper"
-            },
-            "A": {
-                "item": "minecraft:piston"
-            },
-			"C": {
-                "item": "create:brass_casing"
-            }
-        },
-	"result": {
-		"item": "create:furnace_engine",
-		"count": 1
-	}
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "PPB",
+    "PCI",
+    "PPB"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/brass"
+    },
+    "B": {
+      "tag": "forge:ingots/brass"
+    },
+    "I": [
+      {
+        "item": "minecraft:piston"
+      },
+      {
+        "item": "minecraft:sticky_piston"
+      }
+    ],
+    "C": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "create:furnace_engine"
+  }
 }

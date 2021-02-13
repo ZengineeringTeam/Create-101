@@ -1,17 +1,16 @@
 {
-  "type": "crafting_shaped",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
+  "type": "create:mixing",
+  "ingredients": [
+    {
       "item": "refinedstorage:raw_improved_processor"
     }
-  },
-  "result": {
-    "item": "everpotion:unlock_slot",
-    "nbt": {
-      "Tier": 2
+  ],
+  "results": [
+    {
+      "item": "everpotion:unlock_slot",
+      "nbt": {
+        "Tier": 2
+      }
     }
-  }
+  ]
 }

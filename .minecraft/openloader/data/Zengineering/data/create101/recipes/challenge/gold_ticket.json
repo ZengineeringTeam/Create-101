@@ -2,14 +2,14 @@
   "type": "crafting_shapeless",
 	"ingredients": [
 		{
-			"type": "draweringredient:standard",
+			"type": "drawerstooltip:standard",
       "content": {
         "item": "create:brass_sheet"
       },
       "amount": 512
 		},
 		{
-			"type": "draweringredient:standard",
+			"type": "drawerstooltip:standard",
       "content": {
         "item": "minecraft:slime_ball"
       },

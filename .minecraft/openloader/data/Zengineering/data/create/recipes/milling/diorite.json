@@ -1,15 +1,14 @@
 {
-    "type": "create:milling",
-    "ingredients": [
-    	{
-    		"item": "minecraft:diorite"
-    	}
-    ], 
-	"results": [
-		{
-			"item": "create:limesand",
-			"count": 1
-		}
-	],
-	"processingTime": 200
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:diorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:limesand"
+    }
+  ],
+  "processingTime": 200
 }

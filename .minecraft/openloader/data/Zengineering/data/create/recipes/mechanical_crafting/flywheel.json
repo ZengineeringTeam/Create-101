@@ -1,25 +1,19 @@
 {
-    "type": "create:mechanical_crafting",
-        "pattern": [
-			" PPP ",
-			"PSPSP",
-			"PPCPP",
-			"PSPSP",
-			" PPP "
-        ],
-        "key": {
-			"P": {
-                "tag": "forge:plates/brass"
-            },
-            "S": {
-                "tag": "forge:rods/wooden"
-            },
-			"C": {
-                "item": "create:brass_casing"
-            }
-        },
-	"result": {
-		"item": "create:flywheel",
-		"count": 1
-	}
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " BBB",
+    "CB B",
+    " BBB"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:ingots/brass"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "create:flywheel"
+  }
 }

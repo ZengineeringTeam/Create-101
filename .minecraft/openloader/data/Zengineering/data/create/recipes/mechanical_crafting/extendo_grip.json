@@ -1,28 +1,27 @@
 {
-    "type": "create:mechanical_crafting",
-        "pattern": [
-			" L ",
-			" R ",
-            "SSS",
-            "SSS",
-			" H "
-        ],
-        "key": {
-			"L": {
-                "tag": "forge:ingots/brass"
-            },
-            "R": {
-                "item": "create:cogwheel"
-            },
-			"S": {
-                "tag": "forge:rods/wooden"
-            },
-			"H": {
-                "item": "create:brass_hand"
-            }
-        },
-	"result": {
-		"item": "create:extendo_grip",
-		"count": 1
-	}
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " L ",
+    " R ",
+    "SSS",
+    "SSS",
+    " H "
+  ],
+  "key": {
+    "L": {
+      "tag": "forge:ingots/brass"
+    },
+    "R": {
+      "item": "create:cogwheel"
+    },
+    "H": {
+      "item": "create:brass_hand"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "create:extendo_grip"
+  }
 }

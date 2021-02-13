@@ -9,12 +9,16 @@
     "enableTextToSpeech": false,
     "maxHealthForRender": 40,
     "maxHeartsPerLine": 10,
-    "displayFluids": false
+    "fluldMode": "NONE"
   },
   "overlay": {
     "overlayPosX": 0.5,
-    "overlayPosY": 0.99,
+    "overlayPosY": 1.0,
     "overlayScale": 1.0,
+    "overlayAnchorX": 0.5,
+    "overlayAnchorY": 0.0,
+    "overlaySquare": true,
+    "flipMainHand": false,
     "color": {
       "alpha": 50,
       "themes": [

@@ -4,9 +4,9 @@
     "slug": "jei",
     "name": "Just Enough Items (JEI)",
     "strategy": "alpha",
-    "new_version": "jei-1.15.2-6.0.3.15",
-    "md5": "35219b860ca7e6e92000777c12c094cd",
-    "file_id": 3039710,
+    "new_version": "jei-1.16.4-7.6.1.71",
+    "md5": "37f1a6cc8931c26e83b18d035259c3be",
+    "file_id": 3192904,
     "old_version": "jei-1.15.2-6.0.3.15"
   },
   {
@@ -14,9 +14,9 @@
     "slug": "ding",
     "name": "Ding",
     "strategy": "alpha",
-    "new_version": "Ding-1.15.2-1.2.0",
-    "md5": "56d12bd6f82ea4028fd58c98de907c37",
-    "file_id": 3062072,
+    "new_version": "Ding-1.16.3-1.2.0",
+    "md5": "824f3341371d661295558a4be4cae26b",
+    "file_id": 3062074,
     "old_version": "Ding-1.15.2-1.2.0"
   },
   {
@@ -24,9 +24,9 @@
     "slug": "kiwi",
     "name": "🥝 Kiwi",
     "strategy": "beta",
-    "new_version": "Kiwi-1.15.2-2.8.5",
-    "md5": "dc8c6293df0d47f899583490eedf0f3d",
-    "file_id": 3103508,
+    "new_version": "Kiwi-1.16.3-3.4.1",
+    "md5": "0bfe24a9f8e51396499a62f1c44c277b",
+    "file_id": 3103509,
     "old_version": "Kiwi-1.15.2-2.8.5"
   },
   {
@@ -34,9 +34,9 @@
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "new_version": "FruitTrees-1.15.2-1.7.0",
-    "md5": "2ff4b46c372c6858a32d8ccfe3fa8701",
-    "file_id": 3103510,
+    "new_version": "FruitTrees-1.16.4-2.2.2",
+    "md5": "bf711c56c9ef39a166d929169f80dd05",
+    "file_id": 3164912,
     "old_version": "FruitTrees-1.15.2-1.7.0"
   },
   {
@@ -44,9 +44,9 @@
     "slug": "lighting-wand",
     "name": "🌟 Lighting Wand",
     "strategy": "beta",
-    "new_version": "LightingWand-1.15.2-1.5.1",
-    "md5": "4ca36d194e0b2056ed8a487ca89ff608",
-    "file_id": 3104360,
+    "new_version": "LightingWand-1.16.4-1.7.3",
+    "md5": "0ad72b093768df68b75e67fa725afb70",
+    "file_id": 3162246,
     "old_version": "LightingWand-1.15.2-1.5.1"
   },
   {
@@ -54,49 +54,19 @@
     "slug": "lava-clear-view",
     "name": "Lava Clear View",
     "strategy": "beta",
-    "new_version": "ClearView-1.15.2-1.0.0",
-    "md5": "fa6b2952e6fb6ee1a2cd1fa64fba8a76",
-    "file_id": 2928173,
+    "new_version": "LavaClearView-1.16.2-1.1.0",
+    "md5": "9bfb2d8b653380ee3f3d52805a56ae6d",
+    "file_id": 3033245,
     "old_version": "ClearView-1.15.2-1.0.0"
-  },
-  {
-    "addon_id": 256717,
-    "slug": "clumps",
-    "name": "Clumps",
-    "strategy": "beta",
-    "new_version": "Clumps-5.0.2.6",
-    "md5": "756461f411ae9ea68517b84aa6d8a198",
-    "file_id": 3041924,
-    "old_version": "Clumps-5.0.2.6"
-  },
-  {
-    "addon_id": 253449,
-    "slug": "hwyla",
-    "name": "Hwyla",
-    "strategy": "beta",
-    "new_version": "Hwyla-forge-1.10.8-B72_1.15.2",
-    "md5": "637faaca8787a2de370be1b5dea4de54",
-    "file_id": 2880069,
-    "old_version": "Hwyla-forge-1.10.8-B72_1.15.2"
-  },
-  {
-    "addon_id": 362791,
-    "slug": "cull-particles",
-    "name": "Cull Particles",
-    "strategy": "beta",
-    "new_version": "cullparticles-1.0",
-    "md5": "cff12c3241174274934fcd6f4b580a60",
-    "file_id": 2881677,
-    "old_version": "cullparticles-1.0"
   },
   {
     "addon_id": 280294,
     "slug": "fps-reducer",
     "name": "FPS Reducer",
     "strategy": "beta",
-    "new_version": "FpsReducer-mc1.15.2-1.18",
-    "md5": "ed974eb8ef528090158d4aaccfcd28d6",
-    "file_id": 3042762,
+    "new_version": "FpsReducer-mc1.16.4-1.18",
+    "md5": "02256c27b26a01d6f02d5f1d3ae9d767",
+    "file_id": 3103648,
     "old_version": "FpsReducer-mc1.15.2-1.18"
   },
   {
@@ -104,9 +74,9 @@
     "slug": "ai-improvements",
     "name": "AI Improvements",
     "strategy": "beta",
-    "new_version": "AI-Improvements-1.15.2-0.3.0",
-    "md5": "fb5e0fec348cec3ea07dacdff71b7d78",
-    "file_id": 2876104,
+    "new_version": "AI-Improvements-1.16.2/.3/.4/.5-0.3.0",
+    "md5": "2577d7c7f7d61d1ad2600e2eede81570",
+    "file_id": 3031978,
     "old_version": "AI-Improvements-1.15.2-0.3.0"
   },
   {
@@ -114,9 +84,9 @@
     "slug": "everpotion",
     "name": "EverPotion",
     "strategy": "beta",
-    "new_version": "EverPotion-1.15.2-1.1.4",
-    "md5": "7a6d3bd9c4587512db824ba715cb1f53",
-    "file_id": 3084235,
+    "new_version": "EverPotion-1.16.3-2.1.2",
+    "md5": "221b2d86accab8dd4a9e45d744f2d773",
+    "file_id": 3084273,
     "old_version": "EverPotion-1.15.2-1.1.4"
   },
   {
@@ -124,9 +94,9 @@
     "slug": "interactio",
     "name": "Interactio - In-World Crafting with Datapacks!",
     "strategy": "beta",
-    "new_version": "Interactio-1.15.2-3.0.0",
-    "md5": "fb2496c7171d45a437f6a1582432dc4b",
-    "file_id": 3044678,
+    "new_version": "Interactio-1.16.4-3.1.1",
+    "md5": "19650b05173f55ba117b4a004b38a808",
+    "file_id": 3146507,
     "old_version": "Interactio-1.15.2-3.0.0"
   },
   {
@@ -134,9 +104,9 @@
     "slug": "fastworkbench",
     "name": "FastWorkbench",
     "strategy": "beta",
-    "new_version": "FastWorkbench-1.15.2-3.1.1",
-    "md5": "70b4a9b9293a01c968e61a12f86562fb",
-    "file_id": 3003114,
+    "new_version": "FastWorkbench-1.16.4-4.5.0",
+    "md5": "f8009680ed641c67b3853108df4ffd51",
+    "file_id": 3171218,
     "old_version": "FastWorkbench-1.15.2-3.1.1"
   },
   {
@@ -144,9 +114,9 @@
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "new_version": "Mekanism-1.15.2-9.10.9.422",
-    "md5": "e6aec75ba1de1f4a9a899f2ce4ba7161",
-    "file_id": 2996531,
+    "new_version": "Mekanism-1.16.4-10.0.19.446",
+    "md5": "c5f10b5d146e4599b95a0948724838b2",
+    "file_id": 3183270,
     "old_version": "Mekanism-1.15.2-9.10.9.422"
   },
   {
@@ -154,9 +124,9 @@
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "new_version": "MekanismGenerators-1.15.2-9.10.9.422",
-    "md5": "60c43c5d78db16fb2cb86773e4de1bf0",
-    "file_id": 2996533,
+    "new_version": "MekanismGenerators-1.16.4-10.0.19.446",
+    "md5": "24119bcfe8b9a1d71d3c329beb3e3098",
+    "file_id": 3183272,
     "old_version": "MekanismGenerators-1.15.2-9.10.9.422"
   },
   {
@@ -164,9 +134,9 @@
     "slug": "just-enough-calculation",
     "name": "Just Enough Calculation",
     "strategy": "beta",
-    "new_version": "JustEnoughCalculation-1.15.2-3.6.2",
-    "md5": "8bf87878f8b5d20ac92b2015cb423cb4",
-    "file_id": 3055521,
+    "new_version": "JustEnoughCalculation-1.16.5-3.6.4",
+    "md5": "18e1a0d06eab69e62ce3bd90e0965e5a",
+    "file_id": 3201248,
     "old_version": "JustEnoughCalculation-1.15.2-3.6.2"
   },
   {
@@ -174,9 +144,9 @@
     "slug": "just-enough-characters",
     "name": "Just Enough Characters",
     "strategy": "beta",
-    "new_version": "JustEnoughCharacters-1.15.2-4.1.2",
-    "md5": "98070a00c6f9423e2cec921b664059c2",
-    "file_id": 3091552,
+    "new_version": "JustEnoughCharacters-1.16.4-4.1.4",
+    "md5": "7ec1ef0f3613ed9ff84d7125ec059f69",
+    "file_id": 3155241,
     "old_version": "JustEnoughCharacters-1.15.2-4.1.2"
   },
   {
@@ -184,49 +154,29 @@
     "slug": "bad-wither-no-cookie-reloaded",
     "name": "Bad Wither No Cookie - Reloaded",
     "strategy": "beta",
-    "new_version": "bwncr-1.15.2-3.6.13",
-    "md5": "d877eba2da7fedeca3ab16bff3a70011",
-    "file_id": 3034216,
+    "new_version": "bwncr-1.16.4-3.9.16",
+    "md5": "db75c5367181c6ef43860547d3d776ed",
+    "file_id": 3101531,
     "old_version": "bwncr-1.15.2-3.6.13"
-  },
-  {
-    "addon_id": 378117,
-    "slug": "diagonal-panes-forge",
-    "name": "Diagonal Panes [FORGE]",
-    "strategy": "beta",
-    "new_version": "diagonal_panes-1.15.2-1.0.0",
-    "md5": "132d8d8aa3576542a132a6630e6fa714",
-    "file_id": 2938259,
-    "old_version": "diagonal_panes-1.15.2-1.0.0"
   },
   {
     "addon_id": 243121,
     "slug": "quark",
     "name": "Quark",
     "strategy": "beta",
-    "new_version": "Quark-r2.1-245",
-    "md5": "25226ee071db655177ecd165f3f5d722",
-    "file_id": 2980651,
+    "new_version": "Quark-r2.4-304",
+    "md5": "88e33a34872b6b13e2f54289f1051c2b",
+    "file_id": 3196666,
     "old_version": "Quark-r2.1-245"
-  },
-  {
-    "addon_id": 301051,
-    "slug": "quark-oddities",
-    "name": "Quark Oddities",
-    "strategy": "beta",
-    "new_version": "QuarkOddities-1.15.2.jar (Works in 1.16 too!)",
-    "md5": "2b50248564c9a94ea9b56c97fd0e7563",
-    "file_id": 2914445,
-    "old_version": "QuarkOddities-1.15.2.jar (Works in 1.16 too!)"
   },
   {
     "addon_id": 250363,
     "slug": "autoreglib",
     "name": "AutoRegLib",
     "strategy": "beta",
-    "new_version": "AutoRegLib-1.5-40",
-    "md5": "06149a40dc0ced647dd41b11ab01b5cc",
-    "file_id": 2911830,
+    "new_version": "AutoRegLib-1.6-47",
+    "md5": "1c7a17a3a31c22632aa0755b61244d70",
+    "file_id": 3128555,
     "old_version": "AutoRegLib-1.5-40"
   },
   {
@@ -234,9 +184,9 @@
     "slug": "appleskin",
     "name": "AppleSkin",
     "strategy": "beta",
-    "new_version": "AppleSkin-mc1.15.2-forge-1.0.14",
-    "md5": "6aeac8d0074ab0a2372ec2c5f0ad0f69",
-    "file_id": 2987251,
+    "new_version": "AppleSkin-mc1.16.2-forge-1.0.14",
+    "md5": "86298a853e78a4d74d81f4205ab412fb",
+    "file_id": 3035787,
     "old_version": "AppleSkin-mc1.15.2-forge-1.0.14"
   },
   {
@@ -244,9 +194,9 @@
     "slug": "placebo",
     "name": "Placebo",
     "strategy": "beta",
-    "new_version": "Placebo-1.15.2-3.1.0",
-    "md5": "28a95cecf60b9e597b8006b938e43053",
-    "file_id": 2996124,
+    "new_version": "Placebo-1.16.4-4.4.1",
+    "md5": "ff9b60c80d2cb36f9bca8d34c7fdcb19",
+    "file_id": 3172794,
     "old_version": "Placebo-1.15.2-3.1.0"
   },
   {
@@ -254,29 +204,19 @@
     "slug": "toast-control",
     "name": "Toast Control",
     "strategy": "beta",
-    "new_version": "ToastControl-1.15.2-3.0.1",
-    "md5": "c65ca31d0ea636c7021d278fbb508ddf",
-    "file_id": 2871647,
+    "new_version": "Toast-Control-1.16.4-4.3.1",
+    "md5": "4a67b37bfa92931f9cb27b704b9b2d74",
+    "file_id": 3172881,
     "old_version": "ToastControl-1.15.2-3.0.1"
-  },
-  {
-    "addon_id": 296887,
-    "slug": "realistic-ore-veins",
-    "name": "Realistic Ore Veins",
-    "strategy": "beta",
-    "new_version": "oreveins-forge-1.15.2-5.2.0",
-    "md5": "11ecdc483a0336003ec62eef17ac7dc0",
-    "file_id": 3019117,
-    "old_version": "oreveins-forge-1.15.2-5.2.0"
   },
   {
     "addon_id": 237701,
     "slug": "reauth",
     "name": "ReAuth",
     "strategy": "beta",
-    "new_version": "ReAuth-3.8.1 1.14/1.15",
-    "md5": "7a2655c439bb612f744afbe1bb3e56f7",
-    "file_id": 2950766,
+    "new_version": "ReAuth-3.9.3-Forge 1.16.x",
+    "md5": "3b3095744e922d89ab6443529865df43",
+    "file_id": 3105779,
     "old_version": "ReAuth-3.8.1 1.14/1.15"
   },
   {
@@ -284,9 +224,9 @@
     "slug": "swingthroughgrass",
     "name": "SwingThroughGrass",
     "strategy": "beta",
-    "new_version": "swingthroughgrass-1.15.2-1.4.1",
-    "md5": "1d82880a5b0c470501cd7f24d8d06358",
-    "file_id": 3083277,
+    "new_version": "swingthroughgrass-1.16.4-1.5.3",
+    "md5": "9243c8da687f013e74585ac2e377a6bc",
+    "file_id": 3103028,
     "old_version": "swingthroughgrass-1.15.2-1.4.1"
   },
   {
@@ -294,59 +234,29 @@
     "slug": "titanium",
     "name": "Titanium",
     "strategy": "beta",
-    "new_version": "titanium-1.15.2-2.4.2",
-    "md5": "670e893e75e7d7d9a1aa35820d643c26",
-    "file_id": 2980252,
+    "new_version": "titanium-1.16.5-3.2.6.2",
+    "md5": "2b1492c5c4dcc41112516a5be5d1e9d7",
+    "file_id": 3193836,
     "old_version": "titanium-1.15.2-2.4.2"
-  },
-  {
-    "addon_id": 308663,
-    "slug": "snow-real-magic",
-    "name": "☃ Snow! Real Magic!",
-    "strategy": "beta",
-    "new_version": "SnowRealMagic-1.15.2-1.8.0",
-    "md5": "bc727a4d156c9f218ec832aa72057525",
-    "file_id": 2936289,
-    "old_version": "SnowRealMagic-1.15.2-1.8.0"
   },
   {
     "addon_id": 250398,
     "slug": "controlling",
     "name": "Controlling",
     "strategy": "beta",
-    "new_version": "Controlling-6.1.5.6",
-    "md5": "cd43364a3fda348684189751e3389c16",
-    "file_id": 2994774,
+    "new_version": "Controlling-7.0.0.13",
+    "md5": "b13e866317806e19143fccae56199148",
+    "file_id": 3200753,
     "old_version": "Controlling-6.1.5.6"
-  },
-  {
-    "addon_id": 313970,
-    "slug": "apotheosis",
-    "name": "Apotheosis",
-    "strategy": "beta",
-    "new_version": "Apotheosis-1.15.2-3.3.8",
-    "md5": "83da1e2e31ba44a21945cc4ed025c41e",
-    "file_id": 3084768,
-    "old_version": "Apotheosis-1.15.2-3.3.8"
-  },
-  {
-    "addon_id": 32274,
-    "slug": "journeymap",
-    "name": "JourneyMap",
-    "strategy": "beta",
-    "new_version": "journeymap-1.15.2-5.7.0b3",
-    "md5": "856568098ad0749eba62e15734e5be77",
-    "file_id": 2981594,
-    "old_version": "journeymap-1.15.2-5.7.0b3"
   },
   {
     "addon_id": 223852,
     "slug": "storage-drawers",
     "name": "Storage Drawers",
     "strategy": "beta",
-    "new_version": "StorageDrawers-1.15.2-7.0.3",
-    "md5": "2b11fc6740c9ebadbb2ef353121f8edd",
-    "file_id": 3092975,
+    "new_version": "StorageDrawers-1.16.3-8.2.2",
+    "md5": "b343df766a3b8229b8976eac515c3868",
+    "file_id": 3180569,
     "old_version": "StorageDrawers-1.15.2-7.0.3"
   },
   {
@@ -354,9 +264,9 @@
     "slug": "open-loader",
     "name": "Open Loader",
     "strategy": "beta",
-    "new_version": "OpenLoader-1.15.2-4.0.5",
-    "md5": "10bfb3b2d1208c95f461ad92649a5e18",
-    "file_id": 2957023,
+    "new_version": "OpenLoader-1.16.5-9.0.2",
+    "md5": "6ea025b39264511fbfa5ee2de4846823",
+    "file_id": 3198395,
     "old_version": "OpenLoader-1.15.2-4.0.5"
   },
   {
@@ -364,9 +274,9 @@
     "slug": "portality",
     "name": "Portality",
     "strategy": "beta",
-    "new_version": "portality-1.15.2-2.1.2-aaa257f",
-    "md5": "68c9eadac786c5747bb5977402316d50",
-    "file_id": 2873803,
+    "new_version": "portality-1.16.4-3.2.0",
+    "md5": "7a183aa9d0c663b5924ae65429c7b294",
+    "file_id": 3101153,
     "old_version": "portality-1.15.2-2.1.2-aaa257f"
   },
   {
@@ -374,49 +284,29 @@
     "slug": "netherportalfix",
     "name": "NetherPortalFix",
     "strategy": "beta",
-    "new_version": "NetherPortalFix_1.15.2-6.0.2",
-    "file_id": 2943661,
-    "md5": "45de04e0b9636796ced5e6476e890ff5",
+    "new_version": "NetherPortalFix_1.16.3-7.2.1",
+    "file_id": 3098229,
+    "md5": "b5407bdd857e73236ff10d204f9fe8d5",
     "old_version": "NetherPortalFix_1.15.2-6.0.2"
-  },
-  {
-    "addon_id": 311927,
-    "slug": "nimble",
-    "name": "Nimble",
-    "strategy": "beta",
-    "new_version": "Nimble-1.15.2-0.2.1",
-    "md5": "a0d07d2e6e2e5ed3512785bead71eb5a",
-    "file_id": 2981482,
-    "old_version": "Nimble-1.15.2-0.2.1"
   },
   {
     "addon_id": 285612,
     "slug": "randompatches",
     "name": "RandomPatches",
     "strategy": "beta",
-    "new_version": "RandomPatches 1.15.2-1.22.1.1",
-    "md5": "4995671d1c505866ea9e5238ffdc3588",
-    "file_id": 3015904,
+    "new_version": "RandomPatches 2.4.0-forge",
+    "md5": "d008914efbb4564a7c297eecde665587",
+    "file_id": 3192371,
     "old_version": "RandomPatches 1.15.2-1.22.1.1"
-  },
-  {
-    "addon_id": 357178,
-    "slug": "mixinbootstrap",
-    "name": "MixinBootstrap",
-    "strategy": "beta",
-    "new_version": "MixinBootstrap-1.0.5",
-    "md5": "bd76dd9467f3bc208d37b3c827e86c38",
-    "file_id": 3076610,
-    "old_version": "MixinBootstrap-1.0.5"
   },
   {
     "addon_id": 220318,
     "slug": "biomes-o-plenty",
     "name": "Biomes O' Plenty",
     "strategy": "beta",
-    "new_version": "Biomes O' Plenty 1.15.2-10.0.0.366",
-    "md5": "83160fc8aa49ee6c47cc508e74833fbf",
-    "file_id": 2988999,
+    "new_version": "Biomes O' Plenty 1.16.4-13.0.0.431",
+    "md5": "e678fe53d4c05b9fa78db8a0acfc0cd8",
+    "file_id": 3181401,
     "old_version": "Biomes O' Plenty 1.15.2-10.0.0.366"
   },
   {
@@ -424,9 +314,9 @@
     "slug": "refined-storage",
     "name": "Refined Storage",
     "strategy": "beta",
-    "new_version": "Refined Storage 1.8.8",
-    "md5": "e192ef0720f37e69d830b906fbc8cf65",
-    "file_id": 3004050,
+    "new_version": "Refined Storage 1.9.12",
+    "md5": "958ed20d408dabe6e5629857c9883f43",
+    "file_id": 3196167,
     "old_version": "Refined Storage 1.8.8"
   },
   {
@@ -434,39 +324,19 @@
     "slug": "quickstack",
     "name": "Quickstack",
     "strategy": "beta",
-    "new_version": "quickstack-3.0.3c",
-    "md5": "968d2d01f44476f517e8b26d7cf31a48",
-    "file_id": 2937982,
+    "new_version": "quickstack-4.0.1",
+    "md5": "4d9032b01e292592b6edd2d33298ea18",
+    "file_id": 3189150,
     "old_version": "quickstack-3.0.3c"
-  },
-  {
-    "addon_id": 300569,
-    "slug": "discordrpc",
-    "name": "DiscordRichPresence",
-    "strategy": "beta",
-    "new_version": "DiscordRichPresence-2.0.5 (MC 1.15)",
-    "md5": "57a9b37caeb10de26f26d5acebeb1273",
-    "file_id": 3033809,
-    "old_version": "DiscordRichPresence-2.0.5 (MC 1.15)"
-  },
-  {
-    "addon_id": 359516,
-    "slug": "better-bedrock-generator",
-    "name": "Better Bedrock Generator",
-    "strategy": "beta",
-    "new_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.1.0",
-    "md5": "54b17477a07ee4f85ebfd3135ee05390",
-    "file_id": 3016589,
-    "old_version": "[1.15.2]betterbedrockgenerator-1.15.2-0.1.0"
   },
   {
     "addon_id": 381605,
     "slug": "drawers-tooltip",
     "name": "Drawers Tooltip",
     "strategy": "beta",
-    "new_version": "DrawersTooltip-1.15.2-1.1.0",
-    "file_id": 3016302,
-    "md5": "3ae1e7d7ebb40a9e2d9ebbb7da1b63b1",
+    "new_version": "DrawersTooltip-1.16.2-2.1.0",
+    "file_id": 3035686,
+    "md5": "1f7cc0c81868164d9da1dcd7d0ff616d",
     "old_version": "DrawersTooltip-1.15.2-1.1.0"
   },
   {
@@ -474,9 +344,9 @@
     "slug": "bookshelf",
     "name": "Bookshelf",
     "strategy": "beta",
-    "new_version": "Bookshelf-1.15.2-5.6.40",
-    "file_id": 2965233,
-    "md5": "fff093f7cef52838c8773b86a47094b5",
+    "new_version": "Bookshelf-1.16.5-10.0.1",
+    "file_id": 3170154,
+    "md5": "5732e807d71a28a26d0ee21764779afc",
     "old_version": "Bookshelf-1.15.2-5.6.40"
   },
   {
@@ -484,9 +354,9 @@
     "slug": "sisser",
     "name": "Sisser",
     "strategy": "beta",
-    "new_version": "Sisser V1.3",
-    "file_id": 2859703,
-    "md5": "8b8c2d3159a7ce521bb055d532446f39",
+    "new_version": "Sisser V1.7",
+    "file_id": 3128369,
+    "md5": "e5dcc46cd70c01a3477857bf60c99739",
     "old_version": "Sisser V1.3"
   },
   {
@@ -494,9 +364,9 @@
     "slug": "wandering-trader-improvements",
     "name": "Wandering Trader Improvements",
     "strategy": "beta",
-    "new_version": "wt_improvements-1.15.2-1.0.1.0",
-    "file_id": 3081868,
-    "md5": "8b09a7212b852113011bd026f408c254",
+    "new_version": "wt_improvements-1.16.3-1.1.0.0",
+    "file_id": 3100576,
+    "md5": "b5370dd6ac9eb59acc39a72a9dc2afad",
     "old_version": "wt_improvements-1.15.2-1.0.1.0"
   },
   {
@@ -504,9 +374,9 @@
     "slug": "create",
     "name": "Create",
     "strategy": "beta",
-    "new_version": "Create - mc1.15.2_v0.2.4e",
-    "file_id": 3066060,
-    "md5": "7458e43dd03e15ebeabb782a78abb56e",
+    "new_version": "Create - mc1.16.3+4+5_v0.3e",
+    "file_id": 3167531,
+    "md5": "4ce81a21f5759acd646b6e29d38ba1d3",
     "old_version": "Create - mc1.15.2_v0.2.4e"
   },
   {
@@ -514,9 +384,9 @@
     "slug": "jade",
     "name": "🔍 Jade",
     "strategy": "beta",
-    "new_version": "Jade-1.15.2-1.2.0",
-    "file_id": 2983872,
-    "md5": "326dd7cfc5ae63da6d718a2445dba800",
+    "new_version": "Jade-1.16.4-2.4.2",
+    "file_id": 3200155,
+    "md5": "63fa46b8bfb3d55d89a05874cfc4478d",
     "old_version": "Jade-1.15.2-1.2.0"
   },
   {
@@ -544,29 +414,19 @@
     "slug": "comforts",
     "name": "Comforts",
     "strategy": "beta",
-    "new_version": "comforts-FORGE-1.15.2-2.0.0.4",
-    "file_id": 3028347,
-    "md5": "d37399da4a9f4689e4d8769b453b93fb",
+    "new_version": "comforts-forge-1.16.4-4.0.1.0",
+    "file_id": 3156807,
+    "md5": "4c32fee840f44c7d095e05fb1e9aed4a",
     "old_version": "comforts-FORGE-1.15.2-2.0.0.4"
-  },
-  {
-    "addon_id": 372395,
-    "slug": "chunkt",
-    "name": "Chunkt",
-    "strategy": "beta",
-    "new_version": "chunkt-1.15.2-1.0.3",
-    "file_id": 2922932,
-    "md5": "b54bce13d411b06a36401adf32aabeb8",
-    "old_version": "chunkt-1.15.2-1.0.3"
   },
   {
     "addon_id": 282001,
     "slug": "cc-tweaked",
     "name": "CC: Tweaked",
     "strategy": "beta",
-    "new_version": "cc-tweaked-1.15.2-1.94.0",
-    "file_id": 3104634,
-    "md5": "eec032473989bfd5d49aa9a3c2c2b2d2",
+    "new_version": "cc-tweaked-1.16.4-1.95.2",
+    "file_id": 3170424,
+    "md5": "1fb362b1df96fa95d5b79cee92779ee9",
     "old_version": "cc-tweaked-1.15.2-1.94.0"
   },
   {
@@ -574,9 +434,9 @@
     "slug": "passable-foliage",
     "name": "🌳 Passable Foliage",
     "strategy": "beta",
-    "new_version": "PassableFoliage-1.15.2-1.2.0",
-    "file_id": 3103796,
-    "md5": "3cb24be05383f6d05468d93ae3d16f00",
+    "new_version": "PassableFoliage-1.16.4-2.2.0",
+    "file_id": 3103676,
+    "md5": "20c335ebbb06ff690d8c01d1002ad137",
     "old_version": "PassableFoliage-1.15.2-1.2.0"
   },
   {
@@ -584,9 +444,9 @@
     "slug": "zentweaker",
     "name": "ZenTweaker",
     "strategy": "beta",
-    "new_version": "ZenTweaker-1.15.2-1.1.0",
-    "file_id": 3105331,
-    "md5": "146d57b27364ea4feb7d5e294378dfdc",
+    "new_version": "ZenTweaker-1.16.4-2.0.0",
+    "file_id": 3168787,
+    "md5": "8957a2dd6d66b42d5ee59686d81a7803",
     "old_version": "ZenTweaker-1.15.2-1.1.0"
   },
   {
@@ -594,29 +454,19 @@
     "slug": "mrcrayfish-furniture-mod",
     "name": "MrCrayfish's Furniture Mod",
     "strategy": "alpha",
-    "new_version": "Furniture Mod 7.0.0-pre16",
-    "file_id": 2853267,
-    "md5": "935be27b560afe528aa3f8a195bcfde4",
+    "new_version": "Furniture Mod 7.0.0-pre19",
+    "file_id": 3081350,
+    "md5": "d5d24b9624fdbee21aa799c3007fe6cd",
     "old_version": "Furniture Mod 7.0.0-pre16"
-  },
-  {
-    "addon_id": 391187,
-    "slug": "enchant-with-mob",
-    "name": "Enchant With Mob",
-    "strategy": "beta",
-    "new_version": "enchantwithmob-1.15.2-1.0.0",
-    "file_id": 2986389,
-    "md5": "f37a62f6e717c00ea9fbc8ec921c4c51",
-    "old_version": "enchantwithmob-1.15.2-1.0.0"
   },
   {
     "addon_id": 254284,
     "slug": "ambientsounds",
     "name": "AmbientSounds 3",
     "strategy": "beta",
-    "new_version": "AmbientSounds_v3.0.20_mc1.15.2",
-    "file_id": 2965645,
-    "md5": "103270c442d32d4552a6bbee357ffa0b",
+    "new_version": "AmbientSounds_v3.1.4_mc1.16.4",
+    "file_id": 3140456,
+    "md5": "27c33748b4858301ec1d607c32b6a495",
     "old_version": "AmbientSounds_v3.0.20_mc1.15.2"
   },
   {
@@ -624,79 +474,193 @@
     "slug": "creativecore",
     "name": "CreativeCore",
     "strategy": "beta",
-    "new_version": "CreativeCore_v2.0.5_mc1.15.2",
-    "file_id": 2917232,
-    "md5": "8fb298740791c5411742bd760a3e2740",
+    "new_version": "CreativeCore_v2.0.10_mc1.16.4",
+    "file_id": 3128357,
+    "md5": "52ff5141aa493d08898824b0c421998c",
     "old_version": "CreativeCore_v2.0.5_mc1.15.2"
-  },
-  {
-    "addon_id": 345135,
-    "slug": "maessentials",
-    "name": "Ma Essentials",
-    "strategy": "beta",
-    "new_version": " [1.15.2] Ma Essentials v3.1.1",
-    "md5": "52fb3119e497021096ee2ff2345d94f6",
-    "old_version": " [1.15.2] Ma Essentials v3.1.1",
-    "file_id": 2979463
   },
   {
     "addon_id": 339184,
     "slug": "realistic-horse-genetics",
     "name": "Realistic Horse Genetics",
     "strategy": "beta",
-    "new_version": "horse_colors-1.15.2-1.4.0.1",
-    "md5": "27531f78cf74eff1c9bf03fa1849db14",
+    "new_version": "horse_colors-1.16.4-1.5.2",
+    "md5": "5fed7fb11f85744f49b67eeacbd26861",
     "old_version": "horse_colors-1.15.2-1.4.0.1",
-    "file_id": 3051567
-  },
-  {
-    "addon_id": 331528,
-    "slug": "ender-magnet",
-    "name": "Ender Magnet",
-    "strategy": "beta",
-    "new_version": "EnderMagnet-1.15.1-3.0.0",
-    "md5": "4611d2cdf51d2057783f1152e0735673",
-    "old_version": "EnderMagnet-1.15.1-3.0.0",
-    "file_id": 2864541
+    "file_id": 3146222
   },
   {
     "addon_id": 398521,
     "slug": "farmers-delight",
     "name": "Farmer's Delight",
     "strategy": "beta",
-    "new_version": "FarmersDelight-1.15.2-0.2.3",
-    "md5": "be83e74c97ba3098ec3e0ce557de49ab",
+    "new_version": "Farmer's Delight 0.3.2 - 1.16.3+",
+    "md5": "0f526a613a0abdae7219820d4ceadc36",
     "old_version": "FarmersDelight-1.15.2-0.2.3",
-    "file_id": 3067067
-  },
-  {
-    "addon_id": 271009,
-    "slug": "forgiving-void",
-    "name": "Forgiving Void",
-    "strategy": "beta",
-    "new_version": "Forgiving Void 1.15.x - 4.0.0",
-    "md5": "54d3d034f7d13057e59d703c7c5ce9c3",
-    "old_version": "Forgiving Void 1.15.x - 4.0.0",
-    "file_id": 2863710
+    "file_id": 3188508
   },
   {
     "addon_id": 317792,
     "slug": "the-mighty-architect",
     "name": "The Mighty Architect",
     "strategy": "beta",
-    "new_version": "The Mighty Architect - mc1.15.2_v0.5",
-    "md5": "cdf66a77657f508953ff1d9eecc54550",
+    "new_version": "The Mighty Architect - mc1.16.3_v0.5",
+    "md5": "2b883ddebda61b3184a656c0efbdeeec",
     "old_version": "The Mighty Architect - mc1.15.2_v0.5",
-    "file_id": 3067203
+    "file_id": 3089690
   },
   {
     "addon_id": 389989,
     "slug": "fastfurnace-minus-replacement",
     "name": "Fast Furnace minus Replacement",
     "strategy": "beta",
-    "new_version": "fastfurnaceminusreplacement-1.0",
-    "file_id": 2980979,
-    "md5": "a5347ba92a890af711fca1d240a9b548",
+    "new_version": "fastfurnaceminusreplacement-1.1-1.16.3",
+    "file_id": 3091598,
+    "md5": "9b0980bd08ffd1b5f445014cd4a33e0c",
     "old_version": "fastfurnaceminusreplacement-1.0"
+  },
+  {
+    "addon_id": 410497,
+    "slug": "spiders-2-0",
+    "name": "Spiders 2.0",
+    "strategy": "beta",
+    "new_version": "Spiders 2.0 1.16.4 / 1.16.5 v1.0.4",
+    "file_id": 3103152,
+    "md5": "7963d36c13dfd041928675e9b0b5db72"
+  },
+  {
+    "addon_id": 412082,
+    "slug": "supplementaries",
+    "name": "Supplementaries",
+    "strategy": "beta",
+    "new_version": "supplementaries-1.16.5-0.9.25",
+    "file_id": 3200381,
+    "md5": "45603a6a8ae85d8de456bc75298677c7"
+  },
+  {
+    "addon_id": 309927,
+    "slug": "curios",
+    "name": "Curios API (Forge)",
+    "strategy": "beta",
+    "new_version": "curios-forge-1.16.5-4.0.4.0",
+    "file_id": 3186427,
+    "md5": "b585194aa45987eed540c85a79d4cd0c"
+  },
+  {
+    "addon_id": 317716,
+    "slug": "curious-elytra",
+    "name": "Curious Elytra (Forge)",
+    "strategy": "beta",
+    "new_version": "curiouselytra-forge-1.16.5-4.0.2.0",
+    "file_id": 3176943,
+    "md5": "6d33e1918e55155c2a11ab35a6da76e0"
+  },
+  {
+    "addon_id": 416306,
+    "slug": "chocolate-fix",
+    "name": "Chocolate Fix",
+    "strategy": "beta",
+    "new_version": "chocolate-1.3.0-1.16.4",
+    "file_id": 3166929,
+    "md5": "06af2b852f30d503cb7fc9c5b0bab44e"
+  },
+  {
+    "addon_id": 425991,
+    "slug": "buddycards",
+    "name": "Buddycards",
+    "strategy": "beta",
+    "new_version": "Buddycards 1.8.1",
+    "file_id": 3200737,
+    "md5": "d716bdabda6d72ad7151f0e837ba9df9"
+  },
+  {
+    "addon_id": 363820,
+    "slug": "terraforged",
+    "name": "TerraForged",
+    "strategy": "beta",
+    "new_version": "0.2.5",
+    "file_id": 3195631,
+    "md5": "4c92413a3eb3daeadbc66237bcfb3d18"
+  },
+  {
+    "addon_id": 308989,
+    "slug": "caelus",
+    "name": "Caelus API (Forge)",
+    "strategy": "beta",
+    "new_version": "caelus-forge-1.16.5-2.1.2.2",
+    "file_id": 3176938,
+    "md5": "18791ddf364b59d2ddd88eb3446669c0"
+  },
+  {
+    "addon_id": 263420,
+    "slug": "xaeros-minimap",
+    "name": "Xaero's Minimap",
+    "strategy": "beta",
+    "new_version": "v21.3.0.2 for Forge 1.16.5 - 1.16.2",
+    "file_id": 3200201,
+    "md5": "41d632f32a266c26361cdb6380c8908a"
+  },
+  {
+    "addon_id": 317780,
+    "slug": "xaeros-world-map",
+    "name": "Xaero's World Map",
+    "strategy": "beta",
+    "new_version": "v1.12.0.2 for Forge 1.16.5 - 1.16.2",
+    "file_id": 3200214,
+    "md5": "d05147b4932ce46309d3550131d662a9"
+  },
+  {
+    "addon_id": 311927,
+    "slug": "nimble",
+    "name": "Nimble",
+    "strategy": "beta",
+    "new_version": "Nimble-1.16.2-0.3.0",
+    "file_id": 3034562,
+    "md5": "dc1719fb2d7d44773e5e1d82d7a8c058"
+  },
+  {
+    "addon_id": 353928,
+    "slug": "botany-pots",
+    "name": "Botany Pots",
+    "strategy": "beta",
+    "new_version": "BotanyPots-1.16.5-7.0.4",
+    "file_id": 3193882,
+    "md5": "5f6e9033a669bd0896c2e9cb748469e4"
+  },
+  {
+    "addon_id": 306549,
+    "slug": "tips",
+    "name": "Tips",
+    "strategy": "beta",
+    "new_version": "Tips-1.16.5-4.0.2",
+    "file_id": 3185503,
+    "md5": "bf8025c87c0d2fabb8b6876fe7eb2835"
+  },
+  {
+    "addon_id": 431978,
+    "slug": "spice-of-life-potato-edition",
+    "name": "Spice of Life: Potato Edition",
+    "strategy": "beta",
+    "new_version": "solpotato-1.16.X-1.1.0",
+    "file_id": 3178864,
+    "md5": "f62363898c7add555af778cc305462c4"
+  },
+  {
+    "addon_id": 434087,
+    "slug": "forgery",
+    "name": "Forgery",
+    "strategy": "beta",
+    "new_version": "Forgery v1.3.2",
+    "file_id": 3200066,
+    "md5": "9e325a73511bacb453f1650df11dd3de"
+  },
+  {
+    "addon_id": 334853,
+    "slug": "simple-discord-rich-presence",
+    "name": "Simple Discord Rich Presence",
+    "strategy": "beta",
+    "new_version": "SimpleDiscordRichPresence-1.16.4-1.3.5",
+    "file_id": 3103834,
+    "md5": "9d0b4da11230113a2d84962d6fd9efa0"
   }
 ]

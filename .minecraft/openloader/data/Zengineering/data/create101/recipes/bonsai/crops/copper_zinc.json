@@ -1,0 +1,29 @@
+{
+  "type": "botanypots:crop",
+  "display":{"block": "create:copper_ore"},
+  "growthTicks": 200,
+  "seed": {
+    "item": "refinedstorage:raw_basic_processor"
+  },
+
+  "results": [
+    {
+      "output": {
+        "item": "create:copper_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 2,
+      "chance": 0.5
+    },
+    {
+      "output": {
+        "item": "create:zinc_ore"
+      },
+      "minRolls": 2,
+      "maxRolls": 2,
+      "chance": 0.5
+    }
+  ],
+
+  "categories": ["stone"]
+}

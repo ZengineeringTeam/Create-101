@@ -1,12 +1,13 @@
 {
-  "name": "Create 101",
-  "mcversion": "1.15.2",
+  "name": "Create 101 Season 2",
+  "mcversion": "1.16.5",
+  "compatible_versions": "1\\.16.+",
   "author": "Snownee_",
   "modloader": "forge",
   "version": {
-    "major": 1,
-    "minor": 1,
-    "patch": 4
+    "major": 2,
+    "minor": 0,
+    "patch": 0
   },
   "check_interval": 259200000,
   "retry": {

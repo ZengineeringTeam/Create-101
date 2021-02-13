@@ -2,7 +2,7 @@
   "type": "crafting_shapeless",
 	"ingredients": [
 		{
-			"type": "draweringredient:standard",
+			"type": "drawerstooltip:standard",
       "content": {
         "item": "create:integrated_circuit"
       },

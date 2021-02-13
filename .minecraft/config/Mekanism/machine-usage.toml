@@ -45,6 +45,14 @@
 	chemicalWasher = "200"
 	#Energy per operation tick (Joules).
 	pressurizedReactionBase = "5"
+	#Energy per operation tick (Joules).
+	modificationStation = "100"
+	#Energy per operation tick (Joules).
+	isotopicCentrifuge = "200"
+	#Energy per operation tick (Joules).
+	nutritionalLiquifier = "200"
+	#Energy per operation tick (Joules).
+	antiprotonicNucleosynthesizer = "100000"
 
 	#Teleporter
 	[usage.teleporter]

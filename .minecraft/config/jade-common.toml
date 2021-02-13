@@ -9,3 +9,7 @@
 	#Range: 1 ~ 18
 	showItemPreLine = 9
 
+[customContainerName]
+	onlyShowVanilla = false
+	blacklist = ["thermal"]
+

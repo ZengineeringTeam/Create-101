@@ -1,14 +1,13 @@
 {
-    "type": "create:splashing",
-    "ingredients": [
-    	{
-    		"item": "minecraft:red_concrete_powder"
-    	}
-    ], 
-	"results": [
-		{
-			"item": "minecraft:red_concrete",
-			"count": 1
-		}
-	]
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:red_concrete_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:red_concrete"
+    }
+  ]
 }

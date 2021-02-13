@@ -10,27 +10,39 @@
     "redstone": true,
     "repeater": true
   },
+  "botanypots": {
+    "show_progress": true,
+    "show_time": true,
+    "show_crop": true,
+    "show_soil": true,
+    "show_debug": false
+  },
   "jade": {
     "horse_inventory": true,
+    "show_entity_armor": true,
+    "total_ench_power": true,
     "chicken_egg": true,
-    "breaking_progress": true,
     "horse_stat": true,
-    "misc_entity": true,
-    "tnt_stability": true,
     "brewing_stand": true,
     "note_block": true,
     "inventory": true,
-    "mob_breeding": true,
     "beehive": true,
+    "player_head": true,
+    "harvest_tool": true,
+    "hide_mod_name": true,
+    "armor_stand": true,
+    "profession": true,
+    "item_tooltip": true,
+    "hide_item_mod_name": false,
+    "breaking_progress": true,
+    "tnt_stability": true,
+    "ench_power": true,
+    "mob_breeding": true,
     "item_frame": true,
     "effects": true,
     "command_block": true,
     "mob_growth": true,
     "painting": true,
-    "accurate_name": true,
-    "harvest_tool": true,
-    "hide_mod_name": false,
-    "armor_stand": true,
     "trapped_chest": true
   },
   "waila": {
@@ -41,5 +53,10 @@
   },
   "fruittrees": {
     "bee": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "display.content": true,
+    "display.status": true
   }
 }

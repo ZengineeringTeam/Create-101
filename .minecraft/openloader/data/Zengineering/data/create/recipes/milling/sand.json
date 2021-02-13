@@ -1,15 +1,14 @@
 {
-    "type": "create:milling",
-    "ingredients": [
-    	{
-    		"item": "minecraft:sand"
-    	}
-    ], 
-	"results": [
-		{
-			"item": "create:limesand",
-			"count": 1
-		}
-	],
-	"processingTime": 150
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:limesand"
+    }
+  ],
+  "processingTime": 150
 }

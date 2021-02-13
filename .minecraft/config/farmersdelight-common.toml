@@ -3,6 +3,8 @@
 [settings]
 	#Should Novice and Apprentice Farmers buy this mod's crops? (May reduce chances of other trades appearing)
 	farmersBuyFDCrops = true
+	#Farmer's Delight adds crates (3x3) for vanilla crops, similar to Quark and Thermal Cultivation. Should they be craftable?
+	enableVanillaCropCrates = false
 
 #Vanilla item overrides
 [overrides]
@@ -26,9 +28,9 @@
 	[world.wild_beetroots]
 		#Generate sea beets on beaches
 		genWildBeetroots = false
-		#Frequency of clusters. Larger value = more frequent.
-		#Range: 0 ~ 10
-		frequency = 1
+		#Chance of generating clusters. Smaller value = more frequent.
+		#Range: > 0
+		chance = 10
 
 	#Tomato Vines generation
 	[world.wild_tomatoes]
@@ -42,9 +44,9 @@
 	[world.wild_cabbages]
 		#Generate wild cabbages on beaches
 		genWildCabbages = true
-		#Frequency of clusters. Larger value = more frequent.
-		#Range: 0 ~ 10
-		frequency = 1
+		#Chance of generating clusters. Smaller value = more frequent.
+		#Range: > 0
+		chance = 10
 
 	#Wild Onion generation
 	[world.wild_onions]
@@ -69,4 +71,12 @@
 		chance = 9
 		#Generate wild carrots on temperate biomes (temperature between 0.4 and 0.9)
 		genWildCarrots = false
+
+	#Wild Rice generation
+	[world.wild_rice]
+		#Generate wild rice on swamps and jungles
+		genWildRice = true
+		#Chance of generating clusters. Smaller value = more frequent.
+		#Range: > 0
+		chance = 10
 

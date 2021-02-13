@@ -10,7 +10,7 @@
   ],
   "key": {
     "P": {
-      "item": "mekanism:basic_gas_tank"
+      "item": "mekanism:basic_chemical_tank"
     },
     "O": {
       "tag": "forge:plates/gold"

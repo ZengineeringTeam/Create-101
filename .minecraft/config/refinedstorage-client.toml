@@ -9,6 +9,8 @@
 	#The maximum amount of rows that the Grid can show when stretched
 	#Range: > 3
 	maxRowsStretch = 2147483647
+	#Whether the Grid should remember the search query when closing and re-opening the Grid
+	rememberSearchQuery = false
 
 [crafterManager]
 	#The maximum amount of rows that the Crafter Manager can show when stretched

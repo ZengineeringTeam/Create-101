@@ -1,7 +1,16 @@
 {
-	"conditions": [
-		{
-			"type": "forge:false"
-		}
-	]
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "tag": "forge:nuggets/iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:andesite_alloy"
+    }
+  ]
 }

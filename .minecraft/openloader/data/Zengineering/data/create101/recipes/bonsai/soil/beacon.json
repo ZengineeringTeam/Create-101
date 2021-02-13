@@ -1,0 +1,15 @@
+{
+  "type": "botanypots:soil",
+
+  "input": {
+    "item": "minecraft:beacon"
+  },
+
+  "display": {
+    "block": "minecraft:beacon"
+  },
+
+  "growthModifier": 0.7,
+
+  "categories": ["stone"]
+}

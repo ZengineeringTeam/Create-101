@@ -1,1 +1,11 @@
-{"type":"mekanism:crystallizing","input":{"amount":200,"gas":"mekanism:clean_iron_slurry"},"output":{"item":"mekanism:crystal_iron"}}
+{
+	"type": "mekanism:crystallizing",
+	"chemicalType": "slurry",
+	"input": {
+		"amount": 200,
+		"slurry": "mekanism:clean_iron"
+	},
+	"output": {
+		"item": "mekanism:crystal_iron"
+	}
+}

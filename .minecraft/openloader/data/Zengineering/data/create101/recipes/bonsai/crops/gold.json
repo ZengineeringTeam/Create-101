@@ -1,0 +1,29 @@
+{
+  "type": "botanypots:crop",
+  "display":{"block": "minecraft:gold_ore"},
+  "growthTicks": 200,
+  "seed": {
+    "item": "refinedstorage:raw_improved_processor"
+  },
+
+  "results": [
+    {
+      "output": {
+        "item": "minecraft:gold_ore"
+      },
+      "minRolls": 1,
+      "maxRolls": 1,
+      "chance": 1
+    },
+    {
+      "output": {
+        "item": "minecraft:lapis_ore"
+      },
+      "minRolls": 1,
+      "maxRolls": 1,
+      "chance": 0.1
+    }
+  ],
+
+  "categories": ["stone"]
+}

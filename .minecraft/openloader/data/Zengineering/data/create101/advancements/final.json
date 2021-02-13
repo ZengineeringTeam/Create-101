@@ -8,7 +8,7 @@
       "translate": "advancement.create101.final"
     },
     "description": {
-      "translate": "advancement.create101.final"
+      "translate": "advancement.create101.final.desc"
     },
     "frame": "challenge",
     "show_toast": true,

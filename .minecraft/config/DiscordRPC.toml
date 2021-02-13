@@ -14,8 +14,19 @@
 	#%coords% (X:??? Y:??? Z:???)
 	#%world% World name
 	Singleplayer-Text = "Playing in %world%"
-	#Do you want to use development commands?
-	Dev-Commands = false
 	#Custom client id, see https://github.com/ErdbeerbaerLP/DiscordRichPresence/wiki/Set-up-custom-Icons-(for-Modpacks) for more info
+	#Default: 511106082366554122
 	client-id = "736146029317062737"
+	#Do you want to print log of this mod to ingame chat?
+	LogToChat = false
+	#Disables config GUI
+	#Requires config file editing to enable again
+	Disable-Config-GUI = false
+	#Do you want to use custom Hypixel integration (show what game you are playing and such)?
+	Hypixel-Integration = true
+	#Do you want to use custom Hivemc integration (show what game you are playing)?
+	Hivemc-Integration = true
+	#Do you want servers to send you a customized rich presence text?
+	#Also toggles hardcoded custom icons and text of not fully integrated servers like mineplex
+	Custom-Messages-From-Server = true
 
