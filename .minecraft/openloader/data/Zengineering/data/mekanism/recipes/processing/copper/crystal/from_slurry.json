@@ -1,1 +1,1 @@
-{"type":"mekanism:crystallizing","input":{"amount":200,"gas":"mekanism:clean_copper_slurry"},"output":{"item":"mekanism:crystal_copper"}}
+{"type":"mekanism:crystallizing","chemicalType":"slurry","input":{"amount":200,"slurry":"mekanism:clean_copper"},"output":{"item":"mekanism:crystal_copper"}}

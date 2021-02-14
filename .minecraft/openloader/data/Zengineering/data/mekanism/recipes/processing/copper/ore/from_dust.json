@@ -1,7 +1,1 @@
-{
-	"conditions": [
-		{
-			"type": "forge:false"
-		}
-	]
-}
+{"type":"mekanism:combining","mainInput":{"amount":8,"ingredient":{"tag":"forge:dusts/copper"}},"extraInput":{"ingredient":{"tag":"forge:cobblestone"}},"output":{"item":"mekanism:copper_ore"}}

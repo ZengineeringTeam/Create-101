@@ -1,7 +1,1 @@
-{
-	"conditions": [
-		{
-			"type": "forge:false"
-		}
-	]
-}
+{"type":"mekanism:combining","mainInput":{"amount":16,"ingredient":{"tag":"forge:dusts/redstone"}},"extraInput":{"ingredient":{"tag":"forge:cobblestone"}},"output":{"item":"minecraft:redstone_ore"}}

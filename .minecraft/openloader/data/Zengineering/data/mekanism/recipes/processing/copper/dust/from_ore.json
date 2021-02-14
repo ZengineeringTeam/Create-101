@@ -1,7 +1,1 @@
-{
-	"conditions": [
-		{
-			"type": "forge:false"
-		}
-	]
-}
+{"type":"mekanism:enriching","input":{"ingredient":{"tag":"forge:ores/copper"}},"output":{"item":"mekanism:dust_copper","count":2}}
