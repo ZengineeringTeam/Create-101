@@ -2,7 +2,7 @@
   "type": "create:cutting",
   "ingredients": [
     {
-      "item": "create:andesite_alloy"
+      "item": "create:iron_sheet"
     }
   ],
   "results": [

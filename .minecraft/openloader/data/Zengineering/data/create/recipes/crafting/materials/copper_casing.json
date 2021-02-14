@@ -10,7 +10,7 @@
       "tag": "minecraft:planks"
     },
     "C": {
-      "tag": "forge:plates/copper"
+      "item": "create:copper_ingot"
     },
     "S": {
       "tag": "minecraft:logs"

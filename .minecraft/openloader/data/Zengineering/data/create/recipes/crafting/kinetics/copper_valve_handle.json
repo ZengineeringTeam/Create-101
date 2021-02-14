@@ -6,10 +6,10 @@
   ],
   "key": {
     "S": {
-      "item": "create:andesite_alloy"
+      "item": "create:iron_sheet"
     },
     "C": {
-      "tag": "forge:plates/copper"
+      "item": "create:copper_ingot"
     }
   },
   "result": {
