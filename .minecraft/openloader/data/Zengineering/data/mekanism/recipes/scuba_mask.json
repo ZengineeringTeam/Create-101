@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "result": {
-    "item": "mekanism:gas_mask"
+    "item": "mekanism:scuba_mask"
   },
   "pattern": [
     " S ",

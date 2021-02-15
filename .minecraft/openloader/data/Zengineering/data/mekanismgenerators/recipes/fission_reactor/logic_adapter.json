@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:fission_reactor_logic_adapter"},"pattern":[" R ","RFR"," R "],"key":{"F":{"item":"mekanismgenerators:fission_reactor_casing"},"R":{"tag":"forge:dusts/redstone"}}}

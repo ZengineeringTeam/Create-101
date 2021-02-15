@@ -460,26 +460,6 @@
     "old_version": "Furniture Mod 7.0.0-pre16"
   },
   {
-    "addon_id": 254284,
-    "slug": "ambientsounds",
-    "name": "AmbientSounds 3",
-    "strategy": "beta",
-    "new_version": "AmbientSounds_v3.1.4_mc1.16.4",
-    "file_id": 3140456,
-    "md5": "27c33748b4858301ec1d607c32b6a495",
-    "old_version": "AmbientSounds_v3.0.20_mc1.15.2"
-  },
-  {
-    "addon_id": 257814,
-    "slug": "creativecore",
-    "name": "CreativeCore",
-    "strategy": "beta",
-    "new_version": "CreativeCore_v2.0.10_mc1.16.4",
-    "file_id": 3128357,
-    "md5": "52ff5141aa493d08898824b0c421998c",
-    "old_version": "CreativeCore_v2.0.5_mc1.15.2"
-  },
-  {
     "addon_id": 339184,
     "slug": "realistic-horse-genetics",
     "name": "Realistic Horse Genetics",
@@ -650,17 +630,35 @@
     "slug": "forgery",
     "name": "Forgery",
     "strategy": "beta",
-    "new_version": "Forgery v1.3.2",
-    "file_id": 3200066,
-    "md5": "9e325a73511bacb453f1650df11dd3de"
+    "new_version": "Forgery v1.3.2_01",
+    "file_id": 3201947,
+    "md5": "ec38abcf086ad8a2d7c528ccb8775820"
   },
   {
-    "addon_id": 334853,
-    "slug": "simple-discord-rich-presence",
-    "name": "Simple Discord Rich Presence",
+    "addon_id": 238891,
+    "slug": "dynamic-surroundings",
+    "name": "Dynamic Surroundings",
     "strategy": "beta",
-    "new_version": "SimpleDiscordRichPresence-1.16.4-1.3.5",
-    "file_id": 3103834,
-    "md5": "9d0b4da11230113a2d84962d6fd9efa0"
+    "new_version": "DynamicSurroundings-1.16.4-4.0.3.9",
+    "file_id": 3197027,
+    "md5": "bd64241a8ad0842cb30919c677904c0b"
+  },
+  {
+    "addon_id": 332522,
+    "slug": "eguilib",
+    "name": "Erdbeerbaer's GUI Library",
+    "strategy": "beta",
+    "new_version": "Erdbeerbaer's GUI Library-1.0.5 (MC 1.16.4+)",
+    "file_id": 3170821,
+    "md5": "b73060dae1735009b198e47001e40da9"
+  },
+  {
+    "addon_id": 300569,
+    "slug": "discordrpc",
+    "name": "DiscordRichPresence",
+    "strategy": "beta",
+    "new_version": "DiscordRichPresence-2.0.7 (MC 1.16.4+)",
+    "file_id": 3170831,
+    "md5": "4cc1722ec3b088adcefb9bb6295df2fd"
   }
 ]

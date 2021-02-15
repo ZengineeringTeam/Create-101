@@ -11,13 +11,8 @@
       "count": 2
     },
     {
-      "item": "minecraft:quartz",
-      "count": 4,
-      "chance": 0.5
-    },
-    {
       "item": "minecraft:netherrack",
-      "chance": 0.125
+      "chance": 0.5
     }
   ],
   "processingTime": 350

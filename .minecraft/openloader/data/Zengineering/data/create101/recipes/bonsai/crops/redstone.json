@@ -1,6 +1,6 @@
 {
   "type": "botanypots:crop",
-  "display":{"block": "minecraft:redstone_block"},
+  "display":{"block": "minecraft:redstone_ore"},
   "growthTicks": 200,
   "seed": {
     "item": "minecraft:redstone_block"

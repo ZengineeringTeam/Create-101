@@ -8,7 +8,7 @@
 	#Whether or not crops should render in pots.
 	renderCrop = true
 	#Whether or not break effects should occur when harvested.
-	breakEffects = true
+	breakEffects = false
 	#The render distance of a botany pot.
 	#Range: 1.0 ~ 4096.0
 	renderDistance = 64.0

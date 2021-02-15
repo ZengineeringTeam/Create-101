@@ -1,15 +1,20 @@
 {
-  "type": "crafting_shapeless",
-	"ingredients": [
-		{
+	"type": "mekanism:nucleosynthesizing",
+	"itemInput": {
+		"ingredient": {
 			"type": "drawerstooltip:standard",
-      "content": {
-        "item": "refinedstorage:processor_binding"
-      },
-      "amount": 128
+			"content": {
+				"item": "refinedstorage:processor_binding"
+			},
+			"amount": 64
 		}
-	],
-	"result": {
+	},
+	"gasInput": {
+		"amount": 2,
+		"gas": "mekanism:antimatter"
+	},
+	"output": {
 		"item": "mekanism:ingot_osmium"
-	}
+	},
+	"duration": 500
 }

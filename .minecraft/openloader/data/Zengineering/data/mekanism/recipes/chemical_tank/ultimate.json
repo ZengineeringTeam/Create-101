@@ -1,7 +1,7 @@
 {
   "type": "mekanism:mek_data",
   "result": {
-    "item": "mekanism:advanced_gas_tank"
+    "item": "mekanism:ultimate_chemical_tank"
   },
   "pattern": [
     "AOA",
@@ -10,13 +10,13 @@
   ],
   "key": {
     "P": {
-      "item": "mekanism:basic_chemical_tank"
+      "item": "mekanism:elite_chemical_tank"
     },
     "O": {
       "tag": "forge:plates/gold"
     },
     "A": {
-      "tag": "mekanism:alloys/infused"
+      "tag": "mekanism:alloys/atomic"
     }
   }
 }

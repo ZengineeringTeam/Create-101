@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "result": {
-    "item": "mekanismgenerators:reactor_frame",
+    "item": "mekanismgenerators:fusion_reactor_frame",
     "count": 4
   },
   "pattern": [

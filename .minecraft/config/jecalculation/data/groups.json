@@ -1,0 +1,1210 @@
+{"Default": [
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:lapis_sheet"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:lapis_block"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_press"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "refinedstorage:raw_basic_processor"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 256L,
+                    "item": "create:iron_sheet"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "storagedrawers:oak_full_drawers_1"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:slime_ball"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:dough"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:lime_dye"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:dough"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:wheat_flour"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "nbt": {"display": {"Name": '{"translate":"create.recipe.fan_washing.fan"}'}},
+                "amount": 1L,
+                "item": "create:encased_fan"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "refinedstorage:processor_binding"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "mekanism:ultimate_control_circuit"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "storagedrawers:oak_full_drawers_1"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:ultimate_control_circuit"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 2L,
+                    "item": "mekanism:alloy_atomic"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "mekanism:elite_control_circuit"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:elite_control_circuit"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 2L,
+                    "item": "mekanism:alloy_reinforced"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "mekanism:advanced_control_circuit"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:advanced_control_circuit"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 2L,
+                    "item": "mekanism:alloy_infused"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "mekanism:basic_control_circuit"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:basic_control_circuit"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:integrated_circuit"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:bar_of_chocolate"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:metallurgic_infuser"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:integrated_circuit"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:lapis_sheet"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 4L,
+                    "item": "minecraft:redstone"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:polished_rose_quartz"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 3L,
+                    "item": "minecraft:gold_ingot"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_crafter"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:lapis_block"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 9L,
+                "item": "minecraft:lapis_lazuli"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:bar_of_chocolate"
+            }
+        }],
+        "input": [{
+            "type": "fluidStack",
+            "content": {
+                "amount": 250L,
+                "fluid": "create:chocolate"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_press"
+            }
+        }]
+    },
+    {
+        "output": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 2L,
+                    "item": "minecraft:quartz"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 50L,
+                    "item": "minecraft:netherrack",
+                    "percent": 1b
+                }
+            }
+        ],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:nether_quartz_ore"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:crushing_wheel"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 2L,
+                "item": "minecraft:lime_dye"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:green_dye"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:white_dye"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "nbt": {"Damage": 0},
+                "amount": 1L,
+                "item": "create:sand_paper"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:paper"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:sand"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:polished_rose_quartz"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:rose_quartz"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "nbt": {"Damage": 0},
+                    "amount": 13L,
+                    "item": "create:sand_paper",
+                    "percent": 1b
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:deployer"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:rose_quartz"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:quartz"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 8L,
+                    "item": "minecraft:redstone"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:paper"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:sugar_cane"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_press"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:refined_radiance"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "nbt": {},
+                "amount": 1L,
+                "item": "create:chromatic_compound"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:beacon"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "storagedrawers:oak_full_drawers_1"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 6L,
+                    "item": "minecraft:oak_planks"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:chest"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:chest"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 8L,
+                "item": "minecraft:oak_planks"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:ingot_steel"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 32L,
+                    "item": "mekanism:ingot_osmium"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 24L,
+                    "item": "refinedstorage:processor_binding"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 16L,
+                    "item": "refinedstorage:raw_advanced_processor"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 8L,
+                    "item": "refinedstorage:raw_improved_processor"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "refinedstorage:raw_basic_processor"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_crafter"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:brass_sheet"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:brass_ingot"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_press"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "refinedstorage:raw_improved_processor"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 2L,
+                    "item": "storagedrawers:oak_full_drawers_1"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 256L,
+                    "item": "minecraft:slime_ball"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 512L,
+                    "item": "create:brass_sheet"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:green_dye"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:cactus"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:furnace"
+            }
+        }]
+    },
+    {
+        "output": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 2L,
+                    "item": "minecraft:white_dye"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 10L,
+                    "item": "minecraft:light_gray_dye",
+                    "percent": 1b
+                }
+            }
+        ],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:bone_meal"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:millstone"
+            }
+        }]
+    },
+    {
+        "output": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 150L,
+                    "item": "create:wheat_flour",
+                    "percent": 1b
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 25L,
+                    "item": "minecraft:wheat_seeds",
+                    "percent": 1b
+                }
+            }
+        ],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:wheat"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:crushing_wheel"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 2L,
+                "item": "create:brass_ingot"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:copper_ingot"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "create:zinc_ingot"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 6L,
+                    "item": "create:blaze_cake",
+                    "percent": 1b
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:blaze_powder"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_mixer"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:blaze_powder"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:brown_concrete"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 4L,
+                    "item": "minecraft:tnt",
+                    "percent": 1b
+                }
+            }
+        ],
+        "catalyst": []
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:brown_concrete"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:brown_concrete_powder"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "nbt": {"display": {"Name": '{"translate":"create.recipe.fan_washing.fan"}'}},
+                "amount": 1L,
+                "item": "create:encased_fan"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:tnt"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 4L,
+                    "item": "minecraft:sand"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 5L,
+                    "item": "minecraft:gunpowder"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 8L,
+                "item": "minecraft:brown_concrete_powder"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:brown_dye"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 4L,
+                    "item": "minecraft:sand"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 4L,
+                    "item": "minecraft:gravel"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 210L,
+                "item": "minecraft:brown_dye",
+                "percent": 1b
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:cocoa_beans"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:crushing_wheel"
+            }
+        }]
+    },
+    {
+        "output": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:sand"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 10L,
+                    "item": "minecraft:flint",
+                    "percent": 1b
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 5L,
+                    "item": "minecraft:clay_ball",
+                    "percent": 1b
+                }
+            }
+        ],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:gravel"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:crushing_wheel"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:ingot_osmium"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "storagedrawers:oak_full_drawers_1"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 64L,
+                    "item": "refinedstorage:processor_binding"
+                }
+            },
+            {
+                "type": "placeholder",
+                "content": {
+                    "amount": 20L,
+                    "name": "Gas - Antimatter"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "mekanism:antiprotonic_nucleosynthesizer"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 5L,
+                "item": "minecraft:oak_planks"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:stripped_oak_log"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_saw"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:stripped_oak_log"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:oak_log"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:mechanical_saw"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:gravel"
+            }
+        }],
+        "input": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:cobblestone"
+            }
+        }],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "create:millstone"
+            }
+        }]
+    },
+    {
+        "output": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "refinedstorage:raw_advanced_processor"
+            }
+        }],
+        "input": [
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "storagedrawers:oak_full_drawers_1"
+                }
+            },
+            {
+                "type": "itemStack",
+                "content": {
+                    "amount": 256L,
+                    "item": "create:integrated_circuit"
+                }
+            }
+        ],
+        "catalyst": [{
+            "type": "itemStack",
+            "content": {
+                "amount": 1L,
+                "item": "minecraft:crafting_table"
+            }
+        }]
+    }
+]}

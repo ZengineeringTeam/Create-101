@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:module_base","count":2},"pattern":["NIN","I#I","NIN"],"key":{"I":{"tag":"forge:circuits/basic"},"N":{"tag":"forge:plates/brass"},"#":{"item":"mekanism:hdpe_sheet"}}}

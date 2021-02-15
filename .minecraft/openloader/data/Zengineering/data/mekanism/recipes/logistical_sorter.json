@@ -1,22 +1,18 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "result": {
-    "item": "mekanism:logistical_sorter"
-  },
-  "pattern": [
-    "I#I",
-    "ICI",
-    "III"
-  ],
-  "key": {
-    "I": {
-      "tag": "forge:plates/iron"
-    },
-    "C": {
-      "tag": "forge:circuits/basic"
-    },
-    "#": {
-      "item": "create:transposer"
-    }
-  }
+	"type": "minecraft:crafting_shaped",
+	"result": {
+		"item": "mekanism:logistical_sorter"
+	},
+	"pattern": ["I#I", "ICI", "III"],
+	"key": {
+		"I": {
+			"tag": "forge:plates/iron"
+		},
+		"C": {
+			"tag": "forge:circuits/basic"
+		},
+		"#": {
+			"item": "create:filter"
+		}
+	}
 }

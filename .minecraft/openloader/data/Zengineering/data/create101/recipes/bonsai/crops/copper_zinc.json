@@ -9,15 +9,15 @@
   "results": [
     {
       "output": {
-        "item": "create:copper_ore"
+        "item": "create:zinc_ore"
       },
       "minRolls": 2,
       "maxRolls": 2,
       "chance": 0.5
     },
-    {
+	{
       "output": {
-        "item": "create:zinc_ore"
+        "item": "create:copper_ore"
       },
       "minRolls": 2,
       "maxRolls": 2,

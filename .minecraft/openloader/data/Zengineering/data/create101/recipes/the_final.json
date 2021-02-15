@@ -12,19 +12,19 @@
     "IIIIIIIII"
   ],
   "key": {
-    "I": {
+    "O": {
       "item": "refinedstorage:raw_basic_processor"
     },
-    "G": {
+    "B": {
       "item": "refinedstorage:raw_improved_processor"
     },
     "D": {
       "item": "refinedstorage:raw_advanced_processor"
     },
-    "B": {
+    "G": {
       "item": "refinedstorage:processor_binding"
     },
-    "O": {
+    "I": {
       "item": "mekanism:ingot_osmium"
     }
   },
