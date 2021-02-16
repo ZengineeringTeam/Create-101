@@ -48,5 +48,30 @@
 "advancement.create101.shiny": "Shiny Ticket",
 "advancement.create101.sticky": "Sticky Ticket",
 "advancement.create101.antimatter": "Antimatter",
-"advancement.create101.twisted": "Twisted Ticket"
+"advancement.create101.twisted": "Twisted Ticket",
+
+"tips.title.tip": "Tip from Idol Mentor",
+
+"create101.tip.bee": "Point to a bee and you can see what pollens it has",
+"create101.tip.oregen": "In world of Create 101, Only iron ore, redstone ore, quartz ore and ancient debris will be naturally generated",
+"create101.tip.credit": "Blockzapper and rope pulley can break bedrock is fixed by Snownee",
+"create101.tip.jei": "Always check JEI, Jungle sapling, blaze powder, wither skull and many items have had a recipe now!",
+"create101.tip.coco": "Destroying jungle leaves may drop cocoa beans",
+"create101.tip.backpack": "Looking for a backpack? Personal chest is a good choice",
+"create101.tip.peaceful_star": "In peaceful mode, building the structure to summon the wither will drop nether star directly",
+"create101.tip.sol": "Keeping a diverse diet can get many benefits",
+"create101.tip.wither_immune": "Reactor glass and fusion reactor frame is immune to wither",
+"create101.tip.everpotion": "You can make your everpotion core! Press R you can open the UI",
+"create101.tip.calc": "You can use crafting calculator to view every step of making the mysterious triangle",
+"create101.tip.kelp": "Want to make belt but can't find kelp? You can craft a kelp now!",
+"create101.tip.explosion": "There are more than one way to create explosion",
+"create101.tip.sound": "Wool can block noise transmission to a certain extent",
+"create101.tip.ore": "If the pot is placed on the belt, only the first item can be harvested. The solution is to place a buffer container instead",
+"create101.tip.pump": "If you want to automate the Triangle, building a 10,000 blocks chocolate lake could be a more economical choice",
+"create101.tip.coil": "Making antimatter is too slow? You can place many supercharged coils on the SPS structure",
+"create101.tip.cc": "It doesn't matter to play this pack if you don't know how to ComputerCraft!",
+"create101.tip.farm": "Planting crops alternately, the efficiency is greatly improved!",
+"create101.tip.rich_soil": "The rich soil farmland can speed up growth, and cannot be trampled",
+"create101.tip.joy": "Also try horse breeding and cooking!",
+"create101.tip.no_ai": "Due to performance considerations, snow golem's AI and physics are removed"
 }

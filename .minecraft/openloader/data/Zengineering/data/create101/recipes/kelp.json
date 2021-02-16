@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X",
+  ],
+  "key": {
+    "#": {
+      "tag": "fishes"
+    },
+    "X": {
+      "item": "grass"
+    }
+  },
+  "result": {
+    "item": "kelp"
+  }
+}

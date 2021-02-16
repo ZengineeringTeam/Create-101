@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "farmersdelight:straw_bale"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:organic_compost"
+  }
+}
