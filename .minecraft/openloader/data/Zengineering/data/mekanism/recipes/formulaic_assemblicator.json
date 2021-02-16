@@ -16,7 +16,7 @@
       "tag": "forge:circuits/basic"
     },
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "tag": "forge:plates/iron"
     },
     "X": {
       "item": "refinedstorage:machine_casing"

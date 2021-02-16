@@ -1,1 +1,1 @@
-{"type":"mekanism:crystallizing","input":{"amount":15,"gas":"mekanism:brine"},"output":{"item":"mekanism:salt"}}
+{"type":"mekanism:crystallizing","chemicalType":"gas","input":{"amount":15,"gas":"mekanism:brine"},"output":{"item":"mekanism:salt"}}

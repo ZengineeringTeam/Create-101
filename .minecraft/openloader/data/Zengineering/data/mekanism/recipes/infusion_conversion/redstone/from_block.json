@@ -2,11 +2,11 @@
   "type": "mekanism:infusion_conversion",
   "input": {
     "ingredient": {
-      "item": "slime_block"
+      "item": "chorus_fruit"
     }
   },
   "output": {
-    "infuse_type": "mekanism:tin",
-    "amount": 90
+    "infuse_type": "mekanism:refined_obsidian",
+    "amount": 200
   }
 }

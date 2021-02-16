@@ -114,9 +114,9 @@
     "slug": "mekanism",
     "name": "Mekanism",
     "strategy": "beta",
-    "new_version": "Mekanism-1.16.4-10.0.19.446",
-    "md5": "c5f10b5d146e4599b95a0948724838b2",
-    "file_id": 3183270,
+    "new_version": "Mekanism-1.16.5-10.0.20.447",
+    "md5": "8f54017abd4f9b9b634ba1ebab019f76",
+    "file_id": 3202681,
     "old_version": "Mekanism-1.15.2-9.10.9.422"
   },
   {
@@ -124,9 +124,9 @@
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
     "strategy": "beta",
-    "new_version": "MekanismGenerators-1.16.4-10.0.19.446",
-    "md5": "24119bcfe8b9a1d71d3c329beb3e3098",
-    "file_id": 3183272,
+    "new_version": "MekanismGenerators-1.16.5-10.0.20.447",
+    "md5": "30d00b58bca9bedf94621bf626c4eb19",
+    "file_id": 3202683,
     "old_version": "MekanismGenerators-1.15.2-9.10.9.422"
   },
   {
@@ -234,9 +234,9 @@
     "slug": "titanium",
     "name": "Titanium",
     "strategy": "beta",
-    "new_version": "titanium-1.16.5-3.2.6.2",
-    "md5": "2b1492c5c4dcc41112516a5be5d1e9d7",
-    "file_id": 3193836,
+    "new_version": "titanium-1.16.5-3.2.7",
+    "md5": "5478eb2962c18253fc3e8c7253ac7a10",
+    "file_id": 3204888,
     "old_version": "titanium-1.15.2-2.4.2"
   },
   {
@@ -513,9 +513,9 @@
     "slug": "supplementaries",
     "name": "Supplementaries",
     "strategy": "beta",
-    "new_version": "supplementaries-1.16.5-0.9.25",
-    "file_id": 3200381,
-    "md5": "45603a6a8ae85d8de456bc75298677c7"
+    "new_version": "supplementaries-1.16.5-0.9.26",
+    "file_id": 3203036,
+    "md5": "cd32b7ed6246df69d4f923f0f388d789"
   },
   {
     "addon_id": 309927,
@@ -545,22 +545,13 @@
     "md5": "06af2b852f30d503cb7fc9c5b0bab44e"
   },
   {
-    "addon_id": 425991,
-    "slug": "buddycards",
-    "name": "Buddycards",
-    "strategy": "beta",
-    "new_version": "Buddycards 1.8.1",
-    "file_id": 3200737,
-    "md5": "d716bdabda6d72ad7151f0e837ba9df9"
-  },
-  {
     "addon_id": 363820,
     "slug": "terraforged",
     "name": "TerraForged",
     "strategy": "beta",
-    "new_version": "0.2.5",
-    "file_id": 3195631,
-    "md5": "4c92413a3eb3daeadbc66237bcfb3d18"
+    "new_version": "0.2.7",
+    "file_id": 3203032,
+    "md5": "a22dc433e3e1b1aa606262ef2eb033dc"
   },
   {
     "addon_id": 308989,
@@ -602,10 +593,10 @@
     "addon_id": 353928,
     "slug": "botany-pots",
     "name": "Botany Pots",
-    "strategy": "beta",
-    "new_version": "BotanyPots-1.16.5-7.0.4",
-    "file_id": 3193882,
-    "md5": "5f6e9033a669bd0896c2e9cb748469e4"
+    "strategy": "alpha",
+    "new_version": "BotanyPots-1.16.5-7.0.8",
+    "file_id": 3198920,
+    "md5": "327dc14e9204c22e3c6507fc99ed09e6"
   },
   {
     "addon_id": 306549,
@@ -660,5 +651,23 @@
     "new_version": "DiscordRichPresence-2.0.7 (MC 1.16.4+)",
     "file_id": 3170831,
     "md5": "4cc1722ec3b088adcefb9bb6295df2fd"
+  },
+  {
+    "addon_id": 399513,
+    "slug": "azuredooms-chunk-loader",
+    "name": "AzureDoom's Chunk Loader",
+    "strategy": "beta",
+    "new_version": "AzureDoom-Chunk-Loader-1.16.4-1.0.0",
+    "file_id": 3100608,
+    "md5": "609feba9c4678399a62a920743950757"
+  },
+  {
+    "addon_id": 355440,
+    "slug": "immersive-portals-for-forge",
+    "name": "Immersive Portals (for Forge)",
+    "strategy": "beta",
+    "new_version": "immersive-portals-0.14-mc1.16.4-forge",
+    "file_id": 3171082,
+    "md5": "c47c6ed3fb1ae7c9e817d032d3e328f6"
   }
 ]

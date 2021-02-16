@@ -2,7 +2,7 @@
 #Discord RichPresence Config File
 [Rich-Presence]
 	#First line of Rich Presence
-	Client-Name = "Automating all the things!"
+	Client-Name = "Automating all the things, with Create 0.3 and Mekanism V10!"
 	#Placeholders:
 	#%ip%  Server IP
 	Server-Text = "Playing on %ip%"
@@ -16,7 +16,7 @@
 	Singleplayer-Text = "Playing in %world%"
 	#Custom client id, see https://github.com/ErdbeerbaerLP/DiscordRichPresence/wiki/Set-up-custom-Icons-(for-Modpacks) for more info
 	#Default: 511106082366554122
-	client-id = "736146029317062737"
+	client-id = "811161733284626432"
 	#Do you want to print log of this mod to ingame chat?
 	LogToChat = false
 	#Disables config GUI

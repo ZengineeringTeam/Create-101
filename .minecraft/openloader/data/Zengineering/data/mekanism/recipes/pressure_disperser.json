@@ -13,7 +13,7 @@
       "item": "minecraft:iron_bars"
     },
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "item":"create:shadow_steel"
     },
     "A": {
       "tag": "mekanism:alloys/infused"

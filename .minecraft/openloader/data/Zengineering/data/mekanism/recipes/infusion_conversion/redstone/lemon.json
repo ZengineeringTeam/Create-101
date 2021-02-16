@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:infusion_conversion",
+  "input": {
+    "ingredient": {
+      "item": "fruittrees:lemon"
+    }
+  },
+  "output": {
+    "infuse_type": "mekanism:refined_obsidian",
+    "amount": 200
+  }
+}

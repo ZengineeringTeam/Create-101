@@ -1,18 +1,1 @@
-{
-  "type": "minecraft:crafting_shaped",
-  "result": {
-    "item": "mekanism:basic_mechanical_pipe",
-    "count": 8
-  },
-  "pattern": [
-    "S#S"
-  ],
-  "key": {
-    "S": {
-      "tag": "forge:plates/gold"
-    },
-    "#": {
-      "item": "minecraft:bucket"
-    }
-  }
-}
+{"conditions":[{"type":"forge:false"}]}

@@ -13,10 +13,10 @@
       "item": "mekanism:jetpack"
     },
     "I": {
-      "tag": "forge:ingots/refined_obsidian"
+      "tag": "forge:ingots/netherite"
     },
     "S": {
-      "tag": "forge:storage_blocks/refined_obsidian"
+      "tag": "forge:obsidian"
     },
     "#": {
       "tag": "forge:dusts/diamond"

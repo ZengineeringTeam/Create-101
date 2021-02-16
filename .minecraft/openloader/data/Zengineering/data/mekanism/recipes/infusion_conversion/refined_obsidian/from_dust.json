@@ -1,1 +1,7 @@
-{"type":"mekanism:infusion_conversion","input":{"ingredient":{"tag":"forge:dusts/refined_obsidian"}},"output":{"infuse_type":"mekanism:refined_obsidian","amount":10}}
+{
+	"conditions": [
+		{
+			"type": "forge:false"
+		}
+	]
+}

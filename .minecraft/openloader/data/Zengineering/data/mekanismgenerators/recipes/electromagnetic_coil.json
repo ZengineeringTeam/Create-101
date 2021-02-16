@@ -10,7 +10,7 @@
   ],
   "key": {
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "item": "create:shadow_steel"
     },
     "I": {
       "tag": "forge:plates/gold"

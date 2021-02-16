@@ -2,12 +2,12 @@
     "type": "create:cutting",
     "ingredients": [
     	{
-    		"item": "mekanism:shard_iron"
+    		"item": "nether_wart"
     	}
     ],
 	"results": [
 		{
-			"item": "minecraft:soul_sand",
+			"item": "minecraft:wither_skeleton_skull",
 			"count": 1
 		}
 	],

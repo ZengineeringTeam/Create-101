@@ -4,5 +4,5 @@ nerfSeaPickle = true
 noAIEntities = ["snow_golem"]
 peacefulNetherStar = true
 blockResistance = ["mekanismgenerators:reactor_glass=2000", "mekanismgenerators:fission_reactor_casing=2000", "brown_concrete=10", "blue_concrete=7"]
-itemContainer = ["refinedstorage:raw_basic_processor=refinedstorage:raw_basic_processor", "refinedstorage:raw_improved_processor=refinedstorage:raw_improved_processor", "refinedstorage:raw_advanced_processor=refinedstorage:raw_advanced_processor"]
+itemContainer = []
 

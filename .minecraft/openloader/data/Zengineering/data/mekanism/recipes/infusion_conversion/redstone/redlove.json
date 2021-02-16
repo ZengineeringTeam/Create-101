@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:infusion_conversion",
+  "input": {
+    "ingredient": {
+      "item": "fruittrees:redlove"
+    }
+  },
+  "output": {
+    "infuse_type": "mekanism:refined_obsidian",
+    "amount": 600
+  }
+}

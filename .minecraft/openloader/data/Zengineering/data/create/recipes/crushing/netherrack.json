@@ -10,8 +10,7 @@
       "item": "create:cinder_flour"
     },
     {
-      "item": "create:cinder_flour",
-      "chance": 0.5
+      "item": "soul_sand"
     }
   ],
   "processingTime": 250

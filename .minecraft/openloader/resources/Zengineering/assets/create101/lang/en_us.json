@@ -5,12 +5,16 @@
 "item.refinedstorage.processor_binding": "Sticky Ticket",
 "item.mekanism.ingot_osmium": "Twisted Ticket",
 "block.mekanismgenerators.reactor_glass.tip": "§eWither cannot destory this block",
-"block.mekanismgenerators.fission_reactor_casing.tip": "§eWither cannot destory this block",
+"block.mekanismgenerators.fusion_reactor_frame.tip": "§eWither cannot destory this block",
 "item.mekanism.nugget_tin": "Little Snowflake",
 "item.mekanism.nugget_tin.tip": "§eKill a snow golem",
 "item.mekanism.ingot_steel": "§eMysterious Triangle",
 "item.mekanism.ingot_steel.tip": "§eThe final item",
-"infuse_type.mekanism.tin": "§eSlime",
+
+"infuse_type.mekanism.tin": "§eNether Star",
+"infuse_type.mekanism.refined_obsidian": "§eFruit",
+"infuse_type.mekanism.carbon": "§eChocolate",
+
 "block.minecraft.gold_ore.tip": "§eNot generated in world",
 "block.minecraft.iron_ore.tip": "§eGenerated in world",
 "block.minecraft.coal_ore.tip": "§eNot generated in world",
@@ -43,6 +47,6 @@
 "advancement.create101.iron": "Iron Ticket",
 "advancement.create101.shiny": "Shiny Ticket",
 "advancement.create101.sticky": "Sticky Ticket",
-"advancement.create101.trident": "Channeling Trident",
+"advancement.create101.antimatter": "Antimatter",
 "advancement.create101.twisted": "Twisted Ticket"
 }

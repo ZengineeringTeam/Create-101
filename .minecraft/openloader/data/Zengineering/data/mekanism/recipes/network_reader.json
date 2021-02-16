@@ -5,15 +5,11 @@
   },
   "pattern": [
     " G ",
-    "AEA",
-    " S "
+    "AEA"
   ],
   "key": {
     "G": {
       "tag": "forge:glass"
-    },
-    "S": {
-      "tag": "forge:ingots/refined_obsidian"
     },
     "A": {
       "tag": "mekanism:alloys/infused"

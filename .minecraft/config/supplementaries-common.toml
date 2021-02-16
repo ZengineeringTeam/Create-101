@@ -75,6 +75,8 @@
 		cage_baby_mobs = ["minecraft:cow", "minecraft:sheep", "minecraft:pig", "alexsmobs:crocodile", "alexsmobs:endergrade", "alexsmobs:gazelle", "alexsmobs:gorilla", "alexsmobs:komodo_dragon", "alexsmobs:raccoon", "alexsmobs:seal", "alexsmobs:warped_toad"]
 		#allow all mobs to be captured by cages
 		cage_allow_all_mobs = false
+		#allow all baby mobs to be captured by cages
+		cage_allow_all_babies = false
 
 	[blocks.notice_board]
 		#allow notice boards to accept and display any item, not just maps and books

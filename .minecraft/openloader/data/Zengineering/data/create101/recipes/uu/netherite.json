@@ -1,0 +1,16 @@
+{
+	"type": "mekanism:nucleosynthesizing",
+	"itemInput": {
+		"ingredient": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"gasInput": {
+		"amount": 10,
+		"gas": "mekanism:antimatter"
+	},
+	"output": {
+		"item": "minecraft:netherite_ingot"
+	},
+	"duration": 200
+}

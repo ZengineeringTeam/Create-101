@@ -5,15 +5,18 @@
   },
   "pattern": [
     "AIA",
-    "I I",
+    "IBI",
     "AIA"
   ],
   "key": {
     "I": {
-      "tag": "forge:plates/iron"
+      "tag": "forge:plates/brass"
     },
     "A": {
       "tag": "mekanism:alloys/basic"
+    },
+	"B": {
+      "item": "create:fluid_tank"
     }
   }
 }

@@ -5,12 +5,16 @@
 "item.refinedstorage.processor_binding": "黏稠的票据",
 "item.mekanism.ingot_osmium": "扭曲的票据",
 "block.mekanismgenerators.reactor_glass.tip": "§e凋灵无法破坏这个方块",
-"block.mekanismgenerators.fission_reactor_casing.tip": "§e凋灵无法破坏这个方块",
+"block.mekanismgenerators.fusion_reactor_frame.tip": "§e凋灵无法破坏这个方块",
 "item.mekanism.nugget_tin": "小雪花",
 "item.mekanism.nugget_tin.tip": "§e杀死雪傀儡掉落",
 "item.mekanism.ingot_steel": "§e神秘三角",
 "item.mekanism.ingot_steel.tip": "§e毕业物品",
-"infuse_type.mekanism.tin": "§e史莱姆",
+
+"infuse_type.mekanism.tin": "§e下界之星",
+"infuse_type.mekanism.refined_obsidian": "§e水果",
+"infuse_type.mekanism.carbon": "§e巧克力",
+
 "block.minecraft.gold_ore.tip": "§e不自然生成",
 "block.minecraft.iron_ore.tip": "§e自然生成",
 "block.minecraft.coal_ore.tip": "§e不自然生成",
@@ -30,6 +34,18 @@
 "item.mekanism.dirty_dust_osmium": "污浊锌粉",
 "item.mekanism.dust_osmium": "锌粉",
 "item.mekanism.shard_osmium": "锌碎片",
+
+"advancement.create101.root": "Create 101 第二季",
+"advancement.create101.bonsai": "盆栽",
+"advancement.create101.composter": "堆肥桶",
+"advancement.create101.final": "神秘三角",
+"advancement.create101.final.desc": "出道成功，恭喜！",
+"advancement.create101.gold": "金票据",
+"advancement.create101.iron": "铁票据",
+"advancement.create101.shiny": "闪耀的票据",
+"advancement.create101.sticky": "粘稠的票据",
+"advancement.create101.antimatter": "反物质",
+"advancement.create101.twisted": "扭曲的票据",
 
 "tips.title.tip": "Snownee的完美教室",
 

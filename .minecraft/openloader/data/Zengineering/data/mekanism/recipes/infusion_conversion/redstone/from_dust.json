@@ -2,11 +2,11 @@
   "type": "mekanism:infusion_conversion",
   "input": {
     "ingredient": {
-      "tag": "forge:slimeballs"
+      "item": "melon_slice"
     }
   },
   "output": {
-    "infuse_type": "mekanism:tin",
-    "amount": 10
+    "infuse_type": "mekanism:refined_obsidian",
+    "amount": 50
   }
 }

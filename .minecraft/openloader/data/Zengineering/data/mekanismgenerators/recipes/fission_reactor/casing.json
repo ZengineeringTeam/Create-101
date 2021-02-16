@@ -1,1 +1,1 @@
-{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:fission_reactor_casing","count":4},"pattern":[" I ","IXI"," I "],"key":{"X":{"item":"mekanism:steel_casing"},"I":{"tag":"forge:ingots/lead"}}}
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:fission_reactor_casing","count":4},"pattern":[" I ","IXI"," I "],"key":{"X":{"item":"refinedstorage:machine_casing"},"I":{"item":"create:shadow_steel"}}}

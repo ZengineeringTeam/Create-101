@@ -11,7 +11,7 @@
   ],
   "key": {
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "tag": "forge:obsidian"
     },
     "E": {
       "item": "mekanism:energy_tablet"

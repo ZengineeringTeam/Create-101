@@ -16,7 +16,7 @@
       "tag": "forge:circuits/elite"
     },
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "item":"create:shadow_steel"
     },
     "X": {
       "item": "refinedstorage:machine_casing"

@@ -1,14 +1,14 @@
 {
-  "parent": "create101:shiny",
+  "parent": "create101:sticky",
   "display": {
     "icon": {
-      "item": "trident"
+      "item": "mekanism:pellet_antimatter"
     },
     "title": {
-      "translate": "advancement.create101.trident"
+      "translate": "advancement.create101.antimatter"
     },
     "description": {
-      "translate": "advancement.create101.trident"
+      "translate": "advancement.create101.antimatter"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "trident"
+            "item": "mekanism:pellet_antimatter"
           }
         ]
       }

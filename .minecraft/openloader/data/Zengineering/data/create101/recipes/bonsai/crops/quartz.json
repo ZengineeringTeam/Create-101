@@ -11,8 +11,8 @@
       "output": {
         "item": "minecraft:nether_quartz_ore"
       },
-      "minRolls": 1,
-      "maxRolls": 1,
+      "minRolls": 2,
+      "maxRolls": 2,
       "chance": 1
     }
   ],

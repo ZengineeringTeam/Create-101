@@ -11,10 +11,10 @@
   ],
   "key": {
     "X": {
-      "item": "refinedstorage:machine_casing"
+      "tag": "forge:ingots/netherite"
     },
     "A": {
-      "tag": "mekanism:alloys/atomic"
+      "tag": "mekanism:alloys/reinforced"
     }
   }
 }

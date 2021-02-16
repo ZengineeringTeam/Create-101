@@ -3,19 +3,16 @@
 	"result": {
 		"item": "mekanism:metallurgic_infuser"
 	},
-	"pattern": ["I#I", "ROR", "I#I"],
+	"pattern": ["IAI", "RIR", "IAI"],
 	"key": {
 		"I": {
-			"tag": "forge:ingots/iron"
-		},
-		"O": {
-			"tag": "forge:ingots/osmium"
+			"tag": "forge:plates/iron"
 		},
 		"R": {
 			"tag": "forge:dusts/redstone"
 		},
-		"#": {
-			"item": "refinedstorage:raw_improved_processor"
+		"A": {
+			"item": "create:integrated_circuit"
 		}
 	}
 }

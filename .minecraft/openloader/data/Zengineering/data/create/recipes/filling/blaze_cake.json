@@ -5,8 +5,11 @@
       "item": "create:blaze_cake_base"
     },
     {
-      "fluid": "minecraft:lava",
-      "nbt": {},
+      "fluid": "create:potion",
+      "nbt": {
+        "Bottle": "REGULAR",
+        "Potion": "minecraft:fire_resistance"
+      },
       "amount": 250
     }
   ],

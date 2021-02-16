@@ -16,7 +16,7 @@
       "tag": "forge:circuits/basic"
     },
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "item":"create:shadow_steel"
     },
     "G": {
       "tag": "forge:glass"

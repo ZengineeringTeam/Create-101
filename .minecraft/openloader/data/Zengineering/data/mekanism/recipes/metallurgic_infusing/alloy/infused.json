@@ -7,9 +7,10 @@
   },
   "infusionInput": {
     "amount": 10,
-    "tag": "mekanism:tin"
+    "tag": "mekanism:diamond"
   },
   "output": {
-    "item": "mekanism:alloy_infused"
+    "item": "mekanism:alloy_infused",
+	"count": 3
   }
 }

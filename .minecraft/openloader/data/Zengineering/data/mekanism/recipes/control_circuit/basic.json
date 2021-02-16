@@ -7,7 +7,7 @@
   },
   "infusionInput": {
     "amount": 10,
-    "tag": "mekanism:tin"
+    "tag": "mekanism:carbon"
   },
   "output": {
     "item": "mekanism:basic_control_circuit"

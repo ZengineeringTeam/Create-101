@@ -1,7 +1,12 @@
 {
-	"conditions": [
-		{
-			"type": "forge:false"
-		}
-	]
+  "type": "mekanism:infusion_conversion",
+  "input": {
+    "ingredient": {
+      "item": "nether_star"
+    }
+  },
+  "output": {
+    "infuse_type": "mekanism:tin",
+    "amount": 100
+  }
 }

@@ -13,7 +13,7 @@
       "tag": "forge:gems/diamond"
     },
     "S": {
-      "tag": "forge:ingots/refined_obsidian"
+      "item": "create:refined_radiance"
     },
     "E": {
       "item": "mekanism:basic_energy_cube"
