@@ -1,15 +1,18 @@
 {
-    "type": "create:cutting",
-    "ingredients": [
-    	{
-    		"item": "nether_wart"
-    	}
-    ],
-	"results": [
-		{
-			"item": "minecraft:wither_skeleton_skull",
-			"count": 1
-		}
-	],
-	"processingTime": 50
+	"type": "mekanism:enriching",
+	"input": {
+		"amount": 2,
+		"ingredient": [
+      {
+			  "item": "endergetic:bolloom_fruit"
+		  },
+      {
+			  "item": "honey_bottle"
+		  }
+    ]
+	},
+	"output": {
+		"item": "minecraft:wither_skeleton_skull",
+    "count": 3
+	}
 }

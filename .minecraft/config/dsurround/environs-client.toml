@@ -63,7 +63,7 @@
 ["Sound Options"]
 	#Scaling factor to apply to biome sounds
 	#Range: 0 ~ 100
-	"Biome Sound Volume" = 100
+	"Biome Sound Volume" = 75
 	#Scaling factor to apply to spot sounds
 	#Range: 0 ~ 100
 	"Spot Sound Volume" = 100

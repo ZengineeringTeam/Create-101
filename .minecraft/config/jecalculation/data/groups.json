@@ -3,7 +3,7 @@
         "output": [{
             "type": "fluidStack",
             "content": {
-                "amount": 500L,
+                "amount": 1000L,
                 "fluid": "create:chocolate"
             }
         }],
@@ -18,7 +18,7 @@
             {
                 "type": "fluidStack",
                 "content": {
-                    "amount": 500L,
+                    "amount": 1000L,
                     "fluid": "create:milk"
                 }
             }
@@ -1455,17 +1455,15 @@
                 {
                     "type": "itemStack",
                     "content": {
-                        "amount": 150L,
-                        "item": "create:cinder_flour",
-                        "percent": 1b
+                        "amount": 1L,
+                        "item": "create:cinder_flour"
                     }
                 },
                 {
                     "type": "itemStack",
                     "content": {
-                        "amount": 50L,
-                        "item": "minecraft:soul_sand",
-                        "percent": 1b
+                        "amount": 1L,
+                        "item": "minecraft:soul_sand"
                     }
                 }
             ],
@@ -1713,7 +1711,7 @@
                 {
                     "type": "itemStack",
                     "content": {
-                        "amount": 10L,
+                        "amount": 5L,
                         "item": "minecraft:chorus_fruit",
                         "percent": 1b
                     }
@@ -1757,15 +1755,15 @@
             "output": [{
                 "type": "itemStack",
                 "content": {
-                    "amount": 1L,
+                    "amount": 3L,
                     "item": "minecraft:wither_skeleton_skull"
                 }
             }],
             "input": [{
                 "type": "itemStack",
                 "content": {
-                    "amount": 1L,
-                    "item": "minecraft:nether_wart"
+                    "amount": 2L,
+                    "item": "minecraft:honey_bottle"
                 }
             }],
             "catalyst": [{
@@ -1819,6 +1817,38 @@
                 "content": {
                     "amount": 1L,
                     "item": "create:crushing_wheel"
+                }
+            }]
+        },
+        {
+            "output": [{
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:white_bed"
+                }
+            }],
+            "input": [
+                {
+                    "type": "itemStack",
+                    "content": {
+                        "amount": 3L,
+                        "item": "minecraft:white_wool"
+                    }
+                },
+                {
+                    "type": "itemStack",
+                    "content": {
+                        "amount": 3L,
+                        "item": "minecraft:oak_planks"
+                    }
+                }
+            ],
+            "catalyst": [{
+                "type": "itemStack",
+                "content": {
+                    "amount": 1L,
+                    "item": "minecraft:crafting_table"
                 }
             }]
         }
