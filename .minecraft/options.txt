@@ -111,12 +111,8 @@ key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
 key_dsurround.text.lightlevel.toggle:key.keyboard.unknown
 key_dsurround.text.chunkborders.toggle:key.keyboard.unknown
-key_Strip World:key.keyboard.delete
-key_Dress World:key.keyboard.insert
-key_Open Config:key.keyboard.home
-key_Add Block:key.keyboard.page.up
-key_Remove Block:key.keyboard.page.down
-key_Cycle Profile:key.keyboard.end
+key_jecalculation.key.gui_craft:key.keyboard.unknown
+key_jecalculation.key.gui_math:key.keyboard.unknown
 key_key.mekanism.mode:key.keyboard.n
 key_key.mekanism.head_mode:key.keyboard.v
 key_key.mekanism.chest_mode:key.keyboard.g
@@ -126,37 +122,52 @@ key_key.mekanism.description:key.keyboard.n:SHIFT
 key_key.mekanism.module_tweaker:key.keyboard.backslash
 key_key.mekanism.key_boost:key.keyboard.left.control
 key_key.mekanism.key_hud:key.keyboard.h
-key_jecalculation.key.gui_craft:key.keyboard.unknown
-key_jecalculation.key.gui_math:key.keyboard.unknown
+key_create.keyinfo.toolmenu:key.keyboard.left.alt
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_Start composing:key.keyboard.g
 key_Tool Menu (Hold):key.keyboard.left.alt
 key_nimble.keybind.frontView:key.keyboard.f4
 key_key.toastcontrol.clear:key.keyboard.unknown
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
-key_key.solpotato.open_food_book:key.keyboard.unknown
-key_key.solpotato.open_food_book:key.keyboard.unknown
-key_key.waila.config:key.keyboard.keypad.0
-key_key.waila.show_overlay:key.keyboard.keypad.1
-key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.curios.open.desc:key.keyboard.unknown
 key_key.refinedstorage.focusSearchBar:key.keyboard.tab
 key_key.refinedstorage.clearGridCraftingMatrix:key.keyboard.x:CONTROL
 key_key.refinedstorage.openWirelessGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessFluidGrid:key.keyboard.unknown
 key_key.refinedstorage.openWirelessCraftingMonitor:key.keyboard.unknown
 key_key.refinedstorage.openPortableGrid:key.keyboard.unknown
-key_quark.keybind.autorun:key.keyboard.caps.lock
+key_key.solpotato.open_food_book:key.keyboard.unknown
+key_key.solpotato.open_food_book:key.keyboard.unknown
+key_key.waila.config:key.keyboard.keypad.0
+key_key.waila.show_overlay:key.keyboard.keypad.1
+key_key.waila.toggle_liquid:key.keyboard.keypad.2
+key_key.curios.open.desc:key.keyboard.unknown
+key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
+key_gui.xaero_toggle_slime:key.keyboard.unknown
+key_gui.xaero_toggle_grid:key.keyboard.unknown
+key_gui.xaero_toggle_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
+key_gui.xaero_toggle_map:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.z
+key_gui.xaero_waypoints_key:key.keyboard.u
+key_gui.xaero_zoom_in:key.keyboard.equal
+key_gui.xaero_zoom_out:key.keyboard.minus
+key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_display_all_sets:key.keyboard.unknown
+key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.m:CONTROL
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
-key_quark.keybind.camera_mode:key.keyboard.f12
 key_dropoff:key.keyboard.unknown
 key_dropoff:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_quark.keybind.lock_rotation:key.keyboard.k
-key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -175,29 +186,12 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_quark.keybind.change_hotbar:key.keyboard.z
-key_keybind.everpotion.use:key.keyboard.r
+key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.back:key.mouse.4
-key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
-key_gui.xaero_toggle_slime:key.keyboard.unknown
-key_gui.xaero_toggle_grid:key.keyboard.unknown
-key_gui.xaero_toggle_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.z
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.equal
-key_gui.xaero_zoom_out:key.keyboard.minus
-key_gui.xaero_new_waypoint:key.keyboard.b
-key_gui.xaero_display_all_sets:key.keyboard.unknown
-key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.m:CONTROL
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
+key_quark.keybind.autorun:key.keyboard.caps.lock
+key_quark.keybind.change_hotbar:key.keyboard.z
+key_quark.keybind.camera_mode:key.keyboard.f12
+key_keybind.everpotion.use:key.keyboard.r
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
 key_key.jei.toggleCheatMode:key.keyboard.unknown

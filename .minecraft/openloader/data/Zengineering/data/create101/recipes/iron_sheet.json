@@ -1,17 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "#X"
+    "###"
   ],
   "key": {
     "#": {
-      "tag": "fishes"
-    },
-    "X": {
-      "item": "grass"
+      "item": "iron_ingot"
     }
   },
   "result": {
-    "item": "kelp"
+    "item": "create:iron_sheet"
   }
 }

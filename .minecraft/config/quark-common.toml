@@ -1698,7 +1698,7 @@
 		"Highlands Chance" = 1.0
 		"Midlands Chance" = 0.2
 		"Other End Biomes Chance" = 0.0
-		"Passive Teleport Chance" = 0.2
+		"Passive Teleport Chance" = 0.0
 		"Endermite Spawn Chance" = 0.01
 		"Teleport Duplication Chance" = 0.01
 
@@ -2121,4 +2121,3 @@
 		#Some useful shaders include 'desaturate', 'oversaturate', 'bumpy'
 		#Colorblind simulation shaders are available in the form of 'deuteranopia', 'protanopia', 'tritanopia', and 'achromatopsia'
 		Shader = "none"
-

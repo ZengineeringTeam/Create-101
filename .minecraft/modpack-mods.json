@@ -390,26 +390,6 @@
     "old_version": "Jade-1.15.2-1.2.0"
   },
   {
-    "addon_id": 278993,
-    "slug": "bonsai-trees",
-    "name": "Bonsai Trees 2",
-    "strategy": "beta",
-    "new_version": "BonsaiTrees-2.1.2.6",
-    "file_id": 2873657,
-    "md5": "0f2870904797b4efe50b358448dc1782",
-    "old_version": "BonsaiTrees-2.1.2.6"
-  },
-  {
-    "addon_id": 357557,
-    "slug": "libnonymous",
-    "name": "Libnonymous",
-    "strategy": "beta",
-    "new_version": "libnonymous-1.15.2-1.1.1.5",
-    "file_id": 2873656,
-    "md5": "8e497b222fa25fe0b04418fe7c050b18",
-    "old_version": "libnonymous-1.15.2-1.1.1.5"
-  },
-  {
     "addon_id": 276951,
     "slug": "comforts",
     "name": "Comforts",
@@ -513,9 +493,9 @@
     "slug": "supplementaries",
     "name": "Supplementaries",
     "strategy": "beta",
-    "new_version": "supplementaries-1.16.5-0.9.26",
-    "file_id": 3203036,
-    "md5": "cd32b7ed6246df69d4f923f0f388d789"
+    "new_version": "supplementaries-1.16.5-0.9.27",
+    "file_id": 3206315,
+    "md5": "574478161db190b5e85c526e896b59df"
   },
   {
     "addon_id": 309927,
@@ -678,5 +658,23 @@
     "new_version": "v1.1.0",
     "file_id": 3156952,
     "md5": "d799680aedd0f317995bf2d99f0c15ea"
+  },
+  {
+    "addon_id": 291509,
+    "slug": "endergetic",
+    "name": "The Endergetic Expansion",
+    "strategy": "beta",
+    "new_version": "Endergetic 1.16.4 - 3.0.0",
+    "file_id": 3154938,
+    "md5": "05c20c2fa16f6dccef8cc5858167cca8"
+  },
+  {
+    "addon_id": 382216,
+    "slug": "abnormals-core",
+    "name": "Abnormals Core",
+    "strategy": "beta",
+    "new_version": "Abnormals Core 1.16.4 - 3.0.6",
+    "file_id": 3157757,
+    "md5": "7f28bd659f2397ac08f1181d1865ff34"
   }
 ]
