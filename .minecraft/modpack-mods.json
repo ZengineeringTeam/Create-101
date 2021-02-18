@@ -113,7 +113,7 @@
     "addon_id": 268560,
     "slug": "mekanism",
     "name": "Mekanism",
-    "strategy": "beta",
+    "strategy": "none",
     "new_version": "Mekanism-1.16.5-10.0.20.447",
     "md5": "8f54017abd4f9b9b634ba1ebab019f76",
     "file_id": 3202681,
@@ -123,7 +123,7 @@
     "addon_id": 268566,
     "slug": "mekanism-generators",
     "name": "Mekanism Generators",
-    "strategy": "beta",
+    "strategy": "none",
     "new_version": "MekanismGenerators-1.16.5-10.0.20.447",
     "md5": "30d00b58bca9bedf94621bf626c4eb19",
     "file_id": 3202683,
@@ -601,18 +601,18 @@
     "slug": "forgery",
     "name": "Forgery",
     "strategy": "beta",
-    "new_version": "Forgery v1.3.2_01",
-    "file_id": 3201947,
-    "md5": "ec38abcf086ad8a2d7c528ccb8775820"
+    "new_version": "Forgery v1.3.3",
+    "file_id": 3207977,
+    "md5": "79c9ed259dfec557b72afa6f6e854bfb"
   },
   {
     "addon_id": 238891,
     "slug": "dynamic-surroundings",
     "name": "Dynamic Surroundings",
     "strategy": "beta",
-    "new_version": "DynamicSurroundings-1.16.4-4.0.3.9",
-    "file_id": 3197027,
-    "md5": "bd64241a8ad0842cb30919c677904c0b"
+    "new_version": "DynamicSurroundings-1.16.4-4.0.3.10",
+    "file_id": 3208542,
+    "md5": "5599df2d2a1d4883e974ac2582d82ef4"
   },
   {
     "addon_id": 332522,

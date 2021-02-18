@@ -17,7 +17,7 @@
   },
   "criteria": {
     "0": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "minecraft:tick",
       "conditions": {}
     }
   },
@@ -25,5 +25,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"function": "create101:starter"
+  }
 }
