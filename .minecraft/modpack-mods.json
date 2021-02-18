@@ -642,15 +642,6 @@
     "md5": "609feba9c4678399a62a920743950757"
   },
   {
-    "addon_id": 355440,
-    "slug": "immersive-portals-for-forge",
-    "name": "Immersive Portals (for Forge)",
-    "strategy": "beta",
-    "new_version": "immersive-portals-0.14-mc1.16.4-forge",
-    "file_id": 3171082,
-    "md5": "c47c6ed3fb1ae7c9e817d032d3e328f6"
-  },
-  {
     "addon_id": 432168,
     "slug": "oretweaker",
     "name": "OreTweaker",
@@ -676,5 +667,14 @@
     "new_version": "Abnormals Core 1.16.4 - 3.0.6",
     "file_id": 3157757,
     "md5": "7f28bd659f2397ac08f1181d1865ff34"
+  },
+  {
+    "addon_id": 361579,
+    "slug": "spark",
+    "name": "spark",
+    "strategy": "beta",
+    "new_version": "1.4.3 (Forge 1.16.4)",
+    "file_id": 3138786,
+    "md5": "89909f378f458ec14ae9890c8a162bac"
   }
 ]
