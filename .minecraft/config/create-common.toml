@@ -6,7 +6,7 @@
 	[worldgen.v1]
 		#
 		#Prevents all worldgen added by Create from taking effect
-		disableWorldGen = true
+		disableWorldGen = false
 		#
 		#Forward caught TileEntityExceptions to the log at debug level.
 		logTeErrors = false
@@ -23,7 +23,7 @@
 			maxHeight = 86
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 18
@@ -57,7 +57,7 @@
 			maxHeight = 70
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 14
@@ -74,7 +74,7 @@
 			maxHeight = 85
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 17
@@ -125,7 +125,7 @@
 			maxHeight = 55
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#
 			#Range: > 0
 			clusterSize = 15
@@ -163,4 +163,3 @@
 			#
 			#Range: > 0
 			clusterSize = 128
-
