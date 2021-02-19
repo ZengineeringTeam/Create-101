@@ -7,7 +7,7 @@
   "version": {
     "major": 2,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "check_interval": 259200000,
   "retry": {
