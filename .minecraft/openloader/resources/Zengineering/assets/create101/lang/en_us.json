@@ -39,8 +39,8 @@
 "config.waila.plugin_fruittrees.bee": "Bee",
 
 "advancement.create101.root": "Create 101 Season 2",
-"advancement.create101.bonsai": "Botany Pot",
-"advancement.create101.composter": "Composter",
+"advancement.create101.bonsai": "Iron",
+"advancement.create101.redstone": "Redstone",
 "advancement.create101.final": "Mysterious Triangle",
 "advancement.create101.final.desc": "You have won this pack, congrats!",
 "advancement.create101.gold": "Gold Ticket",
@@ -49,6 +49,20 @@
 "advancement.create101.sticky": "Sticky Ticket",
 "advancement.create101.antimatter": "Antimatter",
 "advancement.create101.twisted": "Twisted Ticket",
+"advancement.create101.slimeball": "Slimeball",
+"advancement.create101.netherite": "Netherite",
+"advancement.create101.shadow_steel": "Shadow Steel",
+"advancement.create101.reactor": "Fission Reactor",
+"advancement.create101.rose": "Rose Quartz",
+"advancement.create101.blaze_cake": "Blaze Cake",
+"advancement.create101.quartz": "Quartz Ore",
+"advancement.create101.snowflake": "Small Snowflake",
+"advancement.create101.refined_radiance": "Refined Radiance",
+"advancement.create101.grid": "Grid",
+"advancement.create101.brass": "Brass Sheet",
+"advancement.create101.blue_concrete": "Blue Concrete",
+"advancement.create101.chromatic_compound": "Chromatic Compound",
+"advancement.create101.circuit": "Integrated Circuit",
 
 "tips.title.tip": "Tip from Idol Mentor",
 
@@ -62,7 +76,7 @@
 "create101.tip.sol": "Keeping a diverse diet can get many benefits",
 "create101.tip.wither_immune": "Reactor glass and fusion reactor frame is immune to wither",
 "create101.tip.everpotion": "You can make your everpotion core! Press R you can open the UI",
-"create101.tip.calc": "You can use crafting calculator to view every step of making the mysterious triangle",
+"create101.tip.calc": "You can use crafting calculator to view every step of making the mysterious triangle. You can import preset recipes!",
 "create101.tip.kelp": "Want to make belt but can't find kelp? You can craft a kelp now!",
 "create101.tip.explosion": "There are more than one way to create explosion",
 "create101.tip.sound": "Wool can block noise transmission to a certain extent",
@@ -73,5 +87,6 @@
 "create101.tip.farm": "Planting crops alternately, the efficiency is greatly improved!",
 "create101.tip.rich_soil": "The rich soil farmland can speed up growth, and cannot be trampled",
 "create101.tip.joy": "Also try horse breeding and cooking!",
-"create101.tip.no_ai": "Due to performance considerations, snow golem's AI and physics are removed"
+"create101.tip.no_ai": "Due to performance considerations, snow golem's AI and physics are removed",
+"create101.tip.snow": "Snow golem won't generate snow layer in warm biomes"
 }

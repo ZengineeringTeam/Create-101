@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:steel",
+  "display": {
+    "icon": {
+      "item": "mekanismgenerators:fission_fuel_assembly"
+    },
+    "title": {
+      "translate": "advancement.create101.reactor"
+    },
+    "description": {
+      "translate": "advancement.create101.reactor"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanismgenerators:fission_fuel_assembly"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:geiger"]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "parent": "create101:sticky",
+  "parent": "create101v2:iron",
   "display": {
     "icon": {
-      "item": "mekanism:pellet_antimatter"
+      "item": "create:brass_sheet"
     },
     "title": {
-      "translate": "advancement.create101.antimatter"
+      "translate": "advancement.create101.brass"
     },
     "description": {
-      "translate": "advancement.create101.antimatter"
+      "translate": "advancement.create101.brass"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "mekanism:pellet_antimatter"
+            "item": "create:brass_sheet"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:grip"]
+  }
 }

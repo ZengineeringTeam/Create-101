@@ -424,10 +424,10 @@
     "slug": "zentweaker",
     "name": "ZenTweaker",
     "strategy": "beta",
-    "new_version": "ZenTweaker-1.16.4-2.0.0",
-    "file_id": 3168787,
-    "md5": "8957a2dd6d66b42d5ee59686d81a7803",
-    "old_version": "ZenTweaker-1.16.4-2.0.0"
+    "new_version": "ZenTweaker-1.16.4-2.1.0",
+    "file_id": 3218851,
+    "md5": "c89e6bed805d288815558c9c61f863c6",
+    "old_version": "ZenTweaker-1.16.4-2.1.0"
   },
   {
     "addon_id": 55438,
@@ -600,16 +600,6 @@
     "old_version": "Tips-1.16.5-4.0.2"
   },
   {
-    "addon_id": 431978,
-    "slug": "spice-of-life-potato-edition",
-    "name": "Spice of Life: Potato Edition",
-    "strategy": "beta",
-    "new_version": "solpotato-1.16.X-1.1.0",
-    "file_id": 3178864,
-    "md5": "f62363898c7add555af778cc305462c4",
-    "old_version": "solpotato-1.16.X-1.1.0"
-  },
-  {
     "addon_id": 434087,
     "slug": "forgery",
     "name": "Forgery",
@@ -698,5 +688,15 @@
     "file_id": 3138786,
     "md5": "89909f378f458ec14ae9890c8a162bac",
     "old_version": "1.4.3 (Forge 1.16.4)"
+  },
+  {
+    "addon_id": 443570,
+    "slug": "diet",
+    "name": "Diet (Forge)",
+    "strategy": "beta",
+    "new_version": "diet-forge-1.16.5-0.9",
+    "file_id": 3218969,
+    "md5": "9efa1b33ab8c441e57b6bed9af10b730",
+    "old_version": "diet-forge-1.16.5-0.9"
   }
 ]

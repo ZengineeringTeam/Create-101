@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:twisted",
+  "display": {
+    "icon": {
+      "item": "mekanism:ingot_steel"
+    },
+    "title": {
+      "translate": "advancement.create101.final"
+    },
+    "description": {
+      "translate": "advancement.create101.final.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:ingot_steel"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:cake"]
+  }
+}

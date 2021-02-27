@@ -1,14 +1,14 @@
 {
-  "parent": "create101:bonsai",
+  "parent": "create101v2:compound",
   "display": {
     "icon": {
-      "item": "refinedstorage:raw_basic_processor"
+      "item": "create:refined_radiance"
     },
     "title": {
-      "translate": "advancement.create101.iron"
+      "translate": "advancement.create101.refined_radiance"
     },
     "description": {
-      "translate": "advancement.create101.iron"
+      "translate": "advancement.create101.refined_radiance"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "refinedstorage:raw_basic_processor"
+            "item": "create:refined_radiance"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:sym_wand"]
+  }
 }

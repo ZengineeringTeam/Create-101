@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:cake",
+  "display": {
+    "icon": {
+      "item": "create:chromatic_compound"
+    },
+    "title": {
+      "translate": "advancement.create101.chromatic_compound"
+    },
+    "description": {
+      "translate": "advancement.create101.chromatic_compound"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "create:chromatic_compound"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:clock"]
+  }
+}

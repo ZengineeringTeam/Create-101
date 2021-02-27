@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:iron_ore",
+  "display": {
+    "icon": {
+      "item": "refinedstorage:raw_basic_processor"
+    },
+    "title": {
+      "translate": "advancement.create101.iron"
+    },
+    "description": {
+      "translate": "advancement.create101.iron"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "refinedstorage:raw_basic_processor"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:unlock1"]
+  }
+}

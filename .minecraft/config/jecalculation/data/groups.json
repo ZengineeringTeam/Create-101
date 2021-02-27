@@ -842,13 +842,6 @@
                         "amount": 1L,
                         "item": "create:zinc_ingot"
                     }
-                },
-                {
-                    "type": "itemStack",
-                    "content": {
-                        "amount": 1L,
-                        "item": "minecraft:blaze_powder"
-                    }
                 }
             ],
             "catalyst": [{

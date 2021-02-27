@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:rose",
+  "display": {
+    "icon": {
+      "item": "blue_concrete"
+    },
+    "title": {
+      "translate": "advancement.create101.blue_concrete"
+    },
+    "description": {
+      "translate": "advancement.create101.blue_concrete"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "blue_concrete"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:post_box"]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:shiny",
+  "display": {
+    "icon": {
+      "item": "mekanism:nugget_tin"
+    },
+    "title": {
+      "translate": "advancement.create101.snowflake"
+    },
+    "description": {
+      "translate": "advancement.create101.snowflake"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:nugget_tin"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:shovel"]
+  }
+}

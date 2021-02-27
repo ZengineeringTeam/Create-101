@@ -36,8 +36,8 @@
 "item.mekanism.shard_osmium": "锌碎片",
 
 "advancement.create101.root": "Create 101 第二季",
-"advancement.create101.bonsai": "盆栽",
-"advancement.create101.composter": "堆肥桶",
+"advancement.create101.bonsai": "铁",
+"advancement.create101.redstone": "红石",
 "advancement.create101.final": "神秘三角",
 "advancement.create101.final.desc": "出道成功，恭喜！",
 "advancement.create101.gold": "金票据",
@@ -46,6 +46,20 @@
 "advancement.create101.sticky": "粘稠的票据",
 "advancement.create101.antimatter": "反物质",
 "advancement.create101.twisted": "扭曲的票据",
+"advancement.create101.slimeball": "史莱姆球",
+"advancement.create101.netherite": "下界合金",
+"advancement.create101.shadow_steel": "暗影钢",
+"advancement.create101.reactor": "裂变反应",
+"advancement.create101.rose": "玫瑰合金",
+"advancement.create101.blaze_cake": "熔岩蛋糕",
+"advancement.create101.quartz": "石英矿",
+"advancement.create101.snowflake": "小雪花",
+"advancement.create101.refined_radiance": "光辉石",
+"advancement.create101.grid": "终端",
+"advancement.create101.brass": "黄铜板",
+"advancement.create101.blue_concrete": "蓝色混凝土",
+"advancement.create101.chromatic_compound": "异彩化合物",
+"advancement.create101.circuit": "集成电路",
 
 "tips.title.tip": "Snownee的完美教室",
 
@@ -59,7 +73,7 @@
 "create101.tip.sol": "丰富饮食可以获得多种增益效果",
 "create101.tip.wither_immune": "强化玻璃和聚变堆框架可以免于被凋灵破坏",
 "create101.tip.everpotion": "制作你的药水核心吧！按R键就可以打开使用界面了",
-"create101.tip.calc": "用合成计算器可以查看制作神秘三角的每个步骤",
+"create101.tip.calc": "用合成计算器可以查看制作神秘三角的每个步骤。你可以导入预设好的配方！",
 "create101.tip.kelp": "想制作传送带却找不到海带？你可以通过合成制作出海带！",
 "create101.tip.explosion": "引发爆炸的方式不只有TNT",
 "create101.tip.sound": "羊毛能一定程度阻挡噪音传播",
@@ -70,5 +84,6 @@
 "create101.tip.farm": "隔行种植作物，效率大幅提高！",
 "create101.tip.rich_soil": "覆盖戍耕地能加速作物生长，同时不会被踩坏",
 "create101.tip.joy": "有空也试试马匹杂交和烹饪吧！",
-"create101.tip.no_ai": "基于性能考虑，雪傀儡被移除了AI和物理运动"
+"create101.tip.no_ai": "基于性能考虑，雪傀儡被移除了AI和物理运动",
+"create101.tip.snow": "雪傀儡不会在温暖的生物群系中产生雪片方块"
 }

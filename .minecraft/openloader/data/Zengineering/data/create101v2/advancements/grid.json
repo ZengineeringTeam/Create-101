@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:circuit",
+  "display": {
+    "icon": {
+      "item": "refinedstorage:grid"
+    },
+    "title": {
+      "translate": "advancement.create101.grid"
+    },
+    "description": {
+      "translate": "advancement.create101.grid"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "refinedstorage:grid"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:grid"]
+  }
+}

@@ -1,14 +1,14 @@
 {
-  "parent": "create101:gold",
+  "parent": "create101v2:sticky",
   "display": {
     "icon": {
-      "item": "refinedstorage:raw_advanced_processor"
+      "item": "netherite_ingot"
     },
     "title": {
-      "translate": "advancement.create101.shiny"
+      "translate": "advancement.create101.netherite"
     },
     "description": {
-      "translate": "advancement.create101.shiny"
+      "translate": "advancement.create101.netherite"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "refinedstorage:raw_advanced_processor"
+            "item": "netherite_ingot"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:flamerang"]
+  }
 }

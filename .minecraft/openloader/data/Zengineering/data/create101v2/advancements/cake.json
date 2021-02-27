@@ -1,14 +1,14 @@
 {
-  "parent": "create101:iron",
+  "parent": "create101v2:shiny",
   "display": {
     "icon": {
-      "item": "composter"
+      "item": "create:blaze_cake"
     },
     "title": {
-      "translate": "advancement.create101.composter"
+      "translate": "advancement.create101.blaze_cake"
     },
     "description": {
-      "translate": "advancement.create101.composter"
+      "translate": "advancement.create101.blaze_cake"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "composter"
+            "item": "create:blaze_cake"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:hamburger"]
+  }
 }

@@ -1,14 +1,14 @@
 {
-  "parent": "create101:composter",
+  "parent": "create101v2:iron",
   "display": {
     "icon": {
-      "item": "refinedstorage:raw_improved_processor"
+      "item": "slime_ball"
     },
     "title": {
-      "translate": "advancement.create101.gold"
+      "translate": "advancement.create101.slimeball"
     },
     "description": {
-      "translate": "advancement.create101.gold"
+      "translate": "advancement.create101.slimeball"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "refinedstorage:raw_improved_processor"
+            "item": "slime_ball"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:composter"]
+  }
 }

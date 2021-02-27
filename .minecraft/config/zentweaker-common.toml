@@ -4,4 +4,6 @@ nerfSeaPickle = true
 noAIEntities = ["snow_golem"]
 peacefulNetherStar = true
 blockResistance = ["mekanismgenerators:reactor_glass=2000", "mekanismgenerators:fusion_reactor_frame=2000", "brown_concrete=10", "blue_concrete=7"]
+itemContainer = []
+respawnCommands = ["attribute @s minecraft:generic.max_health base set 10"]
 

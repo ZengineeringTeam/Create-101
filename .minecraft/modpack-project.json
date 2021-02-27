@@ -6,14 +6,13 @@
   "modloader": "forge",
   "version": {
     "major": 2,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   },
   "check_interval": 259200000,
   "retry": {
     "maxRetries": 2,
     "delay": 2000
   },
-  "max_download_threads": 1,
-  "proxy": "http://127.0.0.1:1080"
+  "max_download_threads": 1
 }

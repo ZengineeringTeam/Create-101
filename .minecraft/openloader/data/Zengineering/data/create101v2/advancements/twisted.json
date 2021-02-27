@@ -1,14 +1,14 @@
 {
-  "parent": "create101:root",
+  "parent": "create101v2:uu",
   "display": {
     "icon": {
-      "item": "botanypots:hopper_botany_pot"
+      "item": "mekanism:ingot_osmium"
     },
     "title": {
-      "translate": "advancement.create101.bonsai"
+      "translate": "advancement.create101.twisted"
     },
     "description": {
-      "translate": "advancement.create101.bonsai"
+      "translate": "advancement.create101.twisted"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "botanypots:hopper_botany_pot"
+            "item": "mekanism:ingot_osmium"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:telecore"]
+  }
 }

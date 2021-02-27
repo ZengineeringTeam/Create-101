@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:sticky",
+  "display": {
+    "icon": {
+      "item": "mekanism:pellet_antimatter"
+    },
+    "title": {
+      "translate": "advancement.create101.antimatter"
+    },
+    "description": {
+      "translate": "advancement.create101.antimatter"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:pellet_antimatter"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:mekatool"]
+  }
+}

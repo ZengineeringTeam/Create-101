@@ -1,16 +1,16 @@
 {
-  "parent": "create101:twisted",
+  "parent": "create101v2:brass",
   "display": {
     "icon": {
-      "item": "mekanism:ingot_steel"
+      "item": "refinedstorage:raw_improved_processor"
     },
     "title": {
-      "translate": "advancement.create101.final"
+      "translate": "advancement.create101.gold"
     },
     "description": {
-      "translate": "advancement.create101.final.desc"
+      "translate": "advancement.create101.gold"
     },
-    "frame": "challenge",
+    "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "mekanism:ingot_steel"
+            "item": "refinedstorage:raw_improved_processor"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:unlock2"]
+  }
 }

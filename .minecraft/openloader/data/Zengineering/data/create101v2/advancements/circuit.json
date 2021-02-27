@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:rose",
+  "display": {
+    "icon": {
+      "item": "create:integrated_circuit"
+    },
+    "title": {
+      "translate": "advancement.create101.circuit"
+    },
+    "description": {
+      "translate": "advancement.create101.circuit"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "create:integrated_circuit"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:jar"]
+  }
+}

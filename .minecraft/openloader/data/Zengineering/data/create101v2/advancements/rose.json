@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:gold",
+  "display": {
+    "icon": {
+      "item": "create:polished_rose_quartz"
+    },
+    "title": {
+      "translate": "advancement.create101.rose"
+    },
+    "description": {
+      "translate": "advancement.create101.rose"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "create:polished_rose_quartz"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:board"]
+  }
+}

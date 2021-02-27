@@ -1,14 +1,14 @@
 {
-  "parent": "create101:shiny",
+  "parent": "create101v2:iron_ore",
   "display": {
     "icon": {
-      "item": "refinedstorage:processor_binding"
+      "item": "redstone_block"
     },
     "title": {
-      "translate": "advancement.create101.sticky"
+      "translate": "advancement.create101.redstone"
     },
     "description": {
-      "translate": "advancement.create101.sticky"
+      "translate": "advancement.create101.redstone"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "refinedstorage:processor_binding"
+            "item": "redstone"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:rice"]
+  }
 }

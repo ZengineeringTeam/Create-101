@@ -1,14 +1,14 @@
 {
-  "parent": "create101:uu",
+  "parent": "create101v2:compound",
   "display": {
     "icon": {
-      "item": "mekanism:ingot_osmium"
+      "item": "create:shadow_steel"
     },
     "title": {
-      "translate": "advancement.create101.twisted"
+      "translate": "advancement.create101.shadow_steel"
     },
     "description": {
-      "translate": "advancement.create101.twisted"
+      "translate": "advancement.create101.shadow_steel"
     },
     "frame": "task",
     "show_toast": true,
@@ -21,7 +21,7 @@
       "conditions": {
         "items": [
           {
-            "item": "mekanism:ingot_osmium"
+            "item": "create:shadow_steel"
           }
         ]
       }
@@ -31,5 +31,8 @@
     [
       "0"
     ]
-  ]
+  ],
+  "rewards": {
+	"loot": ["create101:chest"]
+  }
 }

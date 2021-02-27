@@ -1,0 +1,38 @@
+{
+  "parent": "create101v2:root",
+  "display": {
+    "icon": {
+      "item": "iron_ore"
+    },
+    "title": {
+      "translate": "advancement.create101.bonsai"
+    },
+    "description": {
+      "translate": "advancement.create101.bonsai"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "iron_ore"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "rewards": {
+	"loot": ["create101:bonsai"]
+  }
+}
