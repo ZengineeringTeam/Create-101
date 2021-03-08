@@ -85,5 +85,8 @@
 "create101.tip.rich_soil": "覆盖戍耕地能加速作物生长，同时不会被踩坏",
 "create101.tip.joy": "有空也试试马匹杂交和烹饪吧！",
 "create101.tip.no_ai": "基于性能考虑，雪傀儡被移除了AI和物理运动",
-"create101.tip.snow": "雪傀儡不会在温暖的生物群系中产生雪片方块"
+"create101.tip.snow": "雪傀儡不会在温暖的生物群系中产生雪片方块",
+"create101.tip.piglin": "无限的黄金意味着你可以与猪灵交易无数次",
+"create101.tip.shears": "对雪傀儡使用剪刀可以取回南瓜头",
+"create101.tip.energy": "你可以把红石放入灌注机的能量槽来获得启动能量"
 }

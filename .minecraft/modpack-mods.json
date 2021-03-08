@@ -24,20 +24,20 @@
     "slug": "kiwi",
     "name": "🥝 Kiwi",
     "strategy": "beta",
-    "new_version": "Kiwi-1.16.3-3.4.1",
-    "md5": "0bfe24a9f8e51396499a62f1c44c277b",
-    "file_id": 3103509,
-    "old_version": "Kiwi-1.16.3-3.4.1"
+    "new_version": "Kiwi-1.16.5-3.4.2",
+    "md5": "eb049300202fc0cc906f5a81f242db12",
+    "file_id": 3228367,
+    "old_version": "Kiwi-1.16.5-3.4.2"
   },
   {
     "addon_id": 355467,
     "slug": "fruit-trees",
     "name": "🍊 Fruit Trees",
     "strategy": "beta",
-    "new_version": "FruitTrees-1.16.4-2.2.2",
-    "md5": "bf711c56c9ef39a166d929169f80dd05",
-    "file_id": 3164912,
-    "old_version": "FruitTrees-1.16.4-2.2.2"
+    "new_version": "FruitTrees-1.16.4-2.3.0",
+    "md5": "ef2412aa2747298eb345cb85a4dfdd7d",
+    "file_id": 3229218,
+    "old_version": "FruitTrees-1.16.4-2.3.0"
   },
   {
     "addon_id": 296028,
@@ -220,16 +220,6 @@
     "old_version": "ReAuth-3.9.3-Forge 1.16.x"
   },
   {
-    "addon_id": 264353,
-    "slug": "swingthroughgrass",
-    "name": "SwingThroughGrass",
-    "strategy": "beta",
-    "new_version": "swingthroughgrass-1.16.4-1.5.3",
-    "md5": "9243c8da687f013e74585ac2e377a6bc",
-    "file_id": 3103028,
-    "old_version": "swingthroughgrass-1.16.4-1.5.3"
-  },
-  {
     "addon_id": 287342,
     "slug": "titanium",
     "name": "Titanium",
@@ -384,10 +374,10 @@
     "slug": "jade",
     "name": "🔍 Jade",
     "strategy": "beta",
-    "new_version": "Jade-1.16.4-2.4.2",
-    "file_id": 3200155,
-    "md5": "63fa46b8bfb3d55d89a05874cfc4478d",
-    "old_version": "Jade-1.16.4-2.4.2"
+    "new_version": "Jade-1.16.4-2.5.1",
+    "file_id": 3228325,
+    "md5": "1085f5e8c74824522ba9c3247e018c00",
+    "old_version": "Jade-1.16.4-2.5.1"
   },
   {
     "addon_id": 276951,
@@ -698,5 +688,15 @@
     "file_id": 3218969,
     "md5": "9efa1b33ab8c441e57b6bed9af10b730",
     "old_version": "diet-forge-1.16.5-0.9"
+  },
+  {
+    "addon_id": 267602,
+    "slug": "ctm",
+    "name": "ConnectedTexturesMod",
+    "strategy": "beta",
+    "new_version": "CTM - MC1.16.1-1.1.2.6",
+    "file_id": 3137659,
+    "md5": "758f81bde7ee49b21b8ed2c0e1ef3567",
+    "old_version": "CTM - MC1.16.1-1.1.2.6"
   }
 ]

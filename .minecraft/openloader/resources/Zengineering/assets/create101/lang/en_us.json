@@ -88,5 +88,8 @@
 "create101.tip.rich_soil": "The rich soil farmland can speed up growth, and cannot be trampled",
 "create101.tip.joy": "Also try horse breeding and cooking!",
 "create101.tip.no_ai": "Due to performance considerations, snow golem's AI and physics are removed",
-"create101.tip.snow": "Snow golem won't generate snow layer in warm biomes"
+"create101.tip.snow": "Snow golem won't generate snow layer in warm biomes",
+"create101.tip.piglin": "Infinite gold means you can trade with piglin infinite times",
+"create101.tip.shears": "Use shears on snow golem, you can get the pumpkin back",
+"create101.tip.energy": "You can put redstone in infuser's energy slot to get startup energy"
 }

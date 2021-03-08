@@ -1,5 +1,5 @@
 ignoreUpdate:91
-updateNotification:true
+updateNotification:false
 differentiateByServerAddress:true
 debug:false
 lighting:true

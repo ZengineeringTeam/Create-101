@@ -1,10 +1,9 @@
 {
   "type": "create:mechanical_crafting",
   "pattern": [
-    "PPPP",
-    "PSSP",
-    "PSSP",
-    "PPPP"
+    "PPP",
+    "PSP",
+    "PPP"
   ],
   "key": {
     "P": {

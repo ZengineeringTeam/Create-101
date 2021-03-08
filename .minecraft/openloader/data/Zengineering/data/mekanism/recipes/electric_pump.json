@@ -1,1 +1,25 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+    "type":"mekanism:mek_data",
+    "result":{
+        "item":"mekanism:electric_pump"
+    },
+    "pattern":[
+        " B ",
+        "AXA",
+        "OOO"
+    ],
+    "key":{
+        "B":{
+            "item":"mekanism:ultimate_mechanical_pipe"
+        },
+        "O":{
+            "tag":"forge:plates/iron"
+        },
+        "A":{
+            "tag":"mekanism:alloys/infused"
+        },
+        "X":{
+            "item":"refinedstorage:machine_casing"
+        }
+    }
+}

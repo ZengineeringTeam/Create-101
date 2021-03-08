@@ -1,1 +1,20 @@
-{"conditions":[{"type":"forge:false"}]}
+{
+    "type":"minecraft:crafting_shaped",
+    "result":{
+        "item":"mekanism:ultimate_mechanical_pipe",
+        "count":8
+    },
+    "pattern":[
+        "PPP",
+        "PAP",
+        "PPP"
+    ],
+    "key":{
+        "P":{
+            "item":"create:fluid_pipe"
+        },
+        "A":{
+            "tag":"mekanism:alloys/atomic"
+        }
+    }
+}
