@@ -36,7 +36,7 @@
 "item.mekanism.shard_osmium": "亜鉛の欠片",
 
 "config.waila.plugin_fruittrees": "Fruit Trees",
-"config.waila.plugin_fruittrees.bee": "Bee",
+"config.waila.plugin_fruittrees.bee": "蜂",
 
 "advancement.create101.root": "Create 101 Season 2",
 "advancement.create101.bonsai": "鉄",
@@ -66,13 +66,13 @@
 
 "tips.title.tip": "アイドルメンターからのアドバイス",
 
-"create101.tip.bee": "鉢を見ればどんな花粉を持っているかわかります",
+"create101.tip.bee": "蜂を見ればどんな花粉を持っているかわかります",
 "create101.tip.oregen": "Create101の世界では、鉄鉱石、レッドストーン鉱石、石炭鉱石、古代の残骸のみが生成されます",
 "create101.tip.credit": "ブロックザッパーとロールプーリーが岩盤を壊すことがあるバグはSnowneeによって修正されました",
 "create101.tip.jei": "JEI、ジャングルの苗木、ブレイズパウダー、ウィザースケルトンの頭蓋骨など多くのアイテムのレシピが改変されています ",
 "create101.tip.coco": "ジャングルの葉を壊すとココアがドロップします",
 "create101.tip.backpack": "バックパックをお探しですか?パーソナルチェストがおすすめです",
-"create101.tip.peaceful_star": "ピース古モードでは、ウィザーを召喚しようとするとネザースターを直接ドロップします",
+"create101.tip.peaceful_star": "ピースフルモードでは、ウィザーを召喚しようとするとネザースターを直接ドロップします",
 "create101.tip.sol": "多彩な食生活を送ることは、多くのメリットがあります",
 "create101.tip.wither_immune": "Reactor glassと核分裂炉フレームは、ウィザーに壊されません",
 "create101.tip.everpotion": "あなたはever potion coreを作ることができます!RでUIを開けます",
@@ -83,7 +83,7 @@
 "create101.tip.ore": "ポットをベルトの上に置いた場合、最初のアイテムしか収穫できません。代わりにバッファコンテナを置きましょう",
 "create101.tip.pump": "トライアングルの生産を自動化したいのであれば、1万ブロックのチョコレートの湖を作るのが経済的な選択でしょう",
 "create101.tip.coil": "反物質を作るのが遅い? 超臨界相転移装置にはたくさんの過充電コイルを設置することができます。",
-"create101.tip.cc": "コンピュータークラフトが使えなくても、このパックのプレイに支障はありません",
+"create101.tip.cc": "Computer Craftが使えなくても、このパックのプレイに支障はありません",
 "create101.tip.farm": "作物を1マス間隔で植えることで効率が格段に上がります",
 "create101.tip.rich_soil": "肥沃な農地は成長を早めることができ、踏み荒らすことができません",
 "create101.tip.joy": "馬の飼育や料理にも挑戦してみましょう",
