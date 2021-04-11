@@ -4,9 +4,9 @@
     "slug": "jei",
     "name": "Just Enough Items (JEI)",
     "strategy": "alpha",
-    "new_version": "jei-1.16.5-7.6.1.75",
-    "md5": "4956b960bce578151d7cf6deca304468",
-    "file_id": 3245079,
+    "new_version": "jei-1.16.5-7.6.3.81",
+    "md5": "bd7bd8bbcc8bf69339766b3b5951b42c",
+    "file_id": 3272082,
     "old_version": "jei-1.16.5-7.6.1.75"
   },
   {
@@ -364,9 +364,9 @@
     "slug": "create",
     "name": "Create",
     "strategy": "beta",
-    "new_version": "Create - mc1.16.3+4+5_v0.3.1a",
-    "file_id": 3261455,
-    "md5": "ecea10ba16384d7e554af069d2b26d3d",
+    "new_version": "Create - mc1.16.4+5_v0.3.1b",
+    "file_id": 3271972,
+    "md5": "313674a779070c2b60c08b0e3ebaadd2",
     "old_version": "Create - mc1.16.3+4+5_v0.3.1a"
   },
   {
@@ -444,10 +444,10 @@
     "slug": "farmers-delight",
     "name": "Farmer's Delight",
     "strategy": "beta",
-    "new_version": "Farmer's Delight 0.4 - 1.16.3+",
-    "md5": "2e5139d952f755a0d39834f2233a9b1f",
+    "new_version": "Farmer's Delight 0.4.1 - 1.16.3+",
+    "md5": "a2f812a800bd025890b973bb0e1667e6",
     "old_version": "Farmer's Delight 0.4 - 1.16.3+",
-    "file_id": 3249879
+    "file_id": 3272000
   },
   {
     "addon_id": 317792,
@@ -544,9 +544,9 @@
     "slug": "xaeros-minimap",
     "name": "Xaero's Minimap",
     "strategy": "beta",
-    "new_version": "v21.4.5 for Forge 1.16.5 - 1.16.2",
-    "file_id": 3256947,
-    "md5": "2d5e680f37237377cde452e811eab574",
+    "new_version": "v21.5.0 for Forge 1.16.5 - 1.16.2",
+    "file_id": 3268486,
+    "md5": "73f9473aa0d2245dc7327776fded52a2",
     "old_version": "v21.4.5 for Forge 1.16.5 - 1.16.2"
   },
   {
@@ -630,16 +630,6 @@
     "old_version": "DiscordRichPresence-2.0.7 (MC 1.16.4+)"
   },
   {
-    "addon_id": 399513,
-    "slug": "azuredooms-chunk-loader",
-    "name": "AzureDoom's Chunk Loader",
-    "strategy": "beta",
-    "new_version": "AzureDoom-Chunk-Loader-1.16.4-1.0.0",
-    "file_id": 3100608,
-    "md5": "609feba9c4678399a62a920743950757",
-    "old_version": "AzureDoom-Chunk-Loader-1.16.4-1.0.0"
-  },
-  {
     "addon_id": 432168,
     "slug": "oretweaker",
     "name": "OreTweaker",
@@ -684,9 +674,9 @@
     "slug": "diet",
     "name": "Diet (Forge)",
     "strategy": "beta",
-    "new_version": "diet-forge-1.16.5-0.22",
-    "file_id": 3258650,
-    "md5": "90ff8e42fd27b6ccae5748390cd2f7cd",
+    "new_version": "diet-forge-1.16.5-0.23",
+    "file_id": 3264843,
+    "md5": "2df811422a3e1b25cced038abe721656",
     "old_version": "diet-forge-1.16.5-0.22"
   },
   {
@@ -748,5 +738,20 @@
     "file_id": 3202662,
     "md5": "3b4e04a9a79094149306457c7db838d5",
     "old_version": "[1.16.2+] Mouse Tweaks 2.14"
+  },
+  {
+    "addon_id": 399513,
+    "slug": "azuredooms-chunk-loader",
+    "name": "AzureDoom's Chunk Loader",
+    "strategy": "beta"
+  },
+  {
+    "addon_id": 438332,
+    "slug": "supermartijn642s-config-lib",
+    "name": "SuperMartijn642's Config Lib",
+    "strategy": "beta",
+    "new_version": "supermartijn642configlib-1.0.5a-mc1.16",
+    "file_id": 3226128,
+    "md5": "aae91196fa555193167dad28542058ed"
   }
 ]
