@@ -7,7 +7,7 @@
     "new_version": "jei-1.16.5-7.6.3.81",
     "md5": "bd7bd8bbcc8bf69339766b3b5951b42c",
     "file_id": 3272082,
-    "old_version": "jei-1.16.5-7.6.1.75"
+    "old_version": "jei-1.16.5-7.6.3.81"
   },
   {
     "addon_id": 231275,
@@ -367,7 +367,7 @@
     "new_version": "Create - mc1.16.4+5_v0.3.1b",
     "file_id": 3271972,
     "md5": "313674a779070c2b60c08b0e3ebaadd2",
-    "old_version": "Create - mc1.16.3+4+5_v0.3.1a"
+    "old_version": "Create - mc1.16.4+5_v0.3.1b"
   },
   {
     "addon_id": 324717,
@@ -446,7 +446,7 @@
     "strategy": "beta",
     "new_version": "Farmer's Delight 0.4.1 - 1.16.3+",
     "md5": "a2f812a800bd025890b973bb0e1667e6",
-    "old_version": "Farmer's Delight 0.4 - 1.16.3+",
+    "old_version": "Farmer's Delight 0.4.1 - 1.16.3+",
     "file_id": 3272000
   },
   {
@@ -547,7 +547,7 @@
     "new_version": "v21.5.0 for Forge 1.16.5 - 1.16.2",
     "file_id": 3268486,
     "md5": "73f9473aa0d2245dc7327776fded52a2",
-    "old_version": "v21.4.5 for Forge 1.16.5 - 1.16.2"
+    "old_version": "v21.5.0 for Forge 1.16.5 - 1.16.2"
   },
   {
     "addon_id": 317780,
@@ -677,7 +677,7 @@
     "new_version": "diet-forge-1.16.5-0.23",
     "file_id": 3264843,
     "md5": "2df811422a3e1b25cced038abe721656",
-    "old_version": "diet-forge-1.16.5-0.22"
+    "old_version": "diet-forge-1.16.5-0.23"
   },
   {
     "addon_id": 267602,
@@ -740,18 +740,22 @@
     "old_version": "[1.16.2+] Mouse Tweaks 2.14"
   },
   {
-    "addon_id": 399513,
-    "slug": "azuredooms-chunk-loader",
-    "name": "AzureDoom's Chunk Loader",
-    "strategy": "beta"
-  },
-  {
     "addon_id": 438332,
     "slug": "supermartijn642s-config-lib",
     "name": "SuperMartijn642's Config Lib",
     "strategy": "beta",
     "new_version": "supermartijn642configlib-1.0.5a-mc1.16",
     "file_id": 3226128,
-    "md5": "aae91196fa555193167dad28542058ed"
+    "md5": "aae91196fa555193167dad28542058ed",
+    "old_version": "supermartijn642configlib-1.0.5a-mc1.16"
+  },
+  {
+    "addon_id": 402924,
+    "slug": "chunk-loaders",
+    "name": "Chunk Loaders",
+    "strategy": "beta",
+    "new_version": "chunkloaders-1.1.6-mc1.16.5",
+    "file_id": 3197455,
+    "md5": "7fb0605ef546fc8e264ace745702a21e"
   }
 ]
