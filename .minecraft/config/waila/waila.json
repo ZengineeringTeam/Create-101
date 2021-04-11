@@ -3,7 +3,6 @@
     "displayTooltip": true,
     "shiftForDetails": false,
     "displayMode": "TOGGLE",
-    "hideFromPlayerList": true,
     "hideFromDebug": true,
     "showItem": true,
     "enableTextToSpeech": false,

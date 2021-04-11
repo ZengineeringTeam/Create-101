@@ -1,0 +1,16 @@
+{
+	"type": "mekanism:nucleosynthesizing",
+	"itemInput": {
+		"ingredient": {
+			"item": "minecraft:ender_pearl"
+		}
+	},
+	"gasInput": {
+		"amount": 100,
+		"gas": "mekanism:antimatter"
+	},
+	"output": {
+		"item": "mekanism:teleportation_core"
+	},
+	"duration": 200
+}

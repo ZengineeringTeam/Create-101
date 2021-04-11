@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:module_electrolytic_breathing_unit"},"pattern":["I#I","IAI","PPP"],"key":{"I":{"tag":"forge:alloys/advanced"},"A":{"item":"mekanism:module_base"},"#":{"item":"heart_of_the_sea"},"P":{"item":"mekanism:hdpe_sheet"}}}

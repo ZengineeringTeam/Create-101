@@ -34,7 +34,8 @@
 	yearLength = 4.0
 	#If enabled, foals will slowly get bigger as they grow into adults.
 	foalsGrowGradually = false
-	#If enabled, gray hores will be born colored and their fur will gradually turn white.
+	#If enabled, gray horses will be born colored and their fur will gradually turn white.
+	#Otherwise, all gray horses will render as if they were about 6-8 years old.
 	grayGradually = true
 	#The number of twenty minute Minecraft days that it takes for a foal to become an adult.
 	#Range: 8.333333333333333E-5 ~ 10000.0
@@ -75,6 +76,8 @@
 	#1.0 makes them as common as in vanilla.
 	#Range: 0.0 ~ 1000.0
 	horseSpawnMultiplier = 1.0
+	#If this is set to true, existing horses will be turned into horses with genetics
+	convertVanillaHorses = true
 
 #Config settings for genetics
 [genetics]

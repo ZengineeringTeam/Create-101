@@ -11,9 +11,9 @@
       "output": {
         "item": "minecraft:diamond_ore"
       },
-      "minRolls": 10,
-      "maxRolls": 10,
-      "chance": 0.1
+      "minRolls": 1,
+      "maxRolls": 1,
+      "chance": 1
     }
   ],
 

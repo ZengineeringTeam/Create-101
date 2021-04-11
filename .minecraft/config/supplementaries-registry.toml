@@ -6,6 +6,8 @@
 	creative_tab = false
 	#set to false to disable custom dispenser behaviors (filling jars) if for some reason they are causing trouble
 	dispensers = true
+	#creates a creative tab full of filled jars
+	jar_tab = false
 
 #Enable and disable blocks / entities
 [registration]
@@ -51,6 +53,18 @@
 		#WIP
 		flag = false
 		bamboo_spikes = true
+		checker_block = true
+		netherite_door = true
+		netherite_trapdoor = true
+		pancake = true
+		lock_block = true
+		flax = true
+		rope = true
+		rope_arrow = true
+		pulley_block = true
+		fodder = true
+		bomb = true
+		magma_cream_block = true
 
 	[registration.entities]
 		firefly = true

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "R",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "create:iron_sheet"
+    },
+    "R": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "create:gantry_shaft",
+    "count": 8
+  }
+}

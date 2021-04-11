@@ -10,8 +10,8 @@
 [calculation]
 	#The percent reduction in total gain for each diet group consumed at once.
 	#Range: 0.0 ~ 1.0
-	gainPenaltyPerGroup = 0.15000000596046448
+	gainPenaltyPerGroup = 0.1
 	#The percent reduction in total decay for each diet group decayed at once.
 	#Range: 0.0 ~ 1.0
-	decayPenaltyPerGroup = 0.15000000596046448
+	decayPenaltyPerGroup = 0.1
 
