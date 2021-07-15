@@ -7,6 +7,10 @@ fruitDropModeMultiplayer = "ONE_BY_ONE"
 #Range: 0.0 ~ 1.0
 oakLeavesDropsAppleSapling = 0.2
 worldGen = true
+#Range: 0.0 ~ 1.0
+treesGenInPlains = 0.004000000189989805
+#Range: 0.0 ~ 1.0
+treesGenInForest = 0.009999999776482582
 
 [modules]
 	cherry = true

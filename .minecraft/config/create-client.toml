@@ -2,7 +2,7 @@
 #
 #Client-only settings - If you're looking for general settings, look inside your worlds serverconfig folder!
 [client]
-	#
+	#No comment
 	#Range: 0.0 ~ 1.0
 	fanParticleDensity = 0.5
 	#

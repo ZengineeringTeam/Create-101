@@ -6,6 +6,8 @@ naturallyRefill = true
 #Damaging mobs can speed up refilling
 #Range: 0.0 ~ 10.0
 damageAcceleration = 1.0
+#Range: > 5
+tipArrowTimeCost = 300
 
 [slots]
 	#Range: 1 ~ 4

@@ -1,0 +1,7 @@
+#VANILLA - No changes to texture stitching.
+#UNLERP - Applies a fake stitching algorithm to make the stitching seem correct.
+#OUTLINE - Same as unlerp, but also prevents enchantment flickering.
+#PIXEL - Generates each pixel seperately for best results. Can lag with high res resource packs.
+#Allowed Values: VANILLA, UNLERP, OUTLINE, PIXEL
+generationType = "PIXEL"
+
